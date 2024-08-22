@@ -1,0 +1,1001 @@
+SerialNumber,ProductID,ProductName,PurchaseDate,CustomerID,QuantitySold,SalesPrice,SalesChannel,Region,DiscountApplied,Returns,CustomerReview,CustomerComplaints,SalesReputation,TimeToActivation,ProductAge,MarketingSource,CustomerLoyalty,PaymentMethod,ProductReturnReason,CustomerSupportInteraction,ProductWarrantyDuration
+SNSXFVEQXOG,9OUYH0,Adobe_9OUYH0_Suite,2023-09-20,C6902,5,116.47,Unknown Vendor,Asia,20.5,16,3,10,7,8,234,Social Media,2,Cryptocurrency,Product malfunction,20,6
+Sn-E326YMIY,35KMUU,Adobe_35KMUU_Suite,2023-01-26,C6158,5,61.01,Third-party Retailer,North America,21.65,17,1,11,8,8,351,Social Media,1,Cryptocurrency,Not as described,19,6
+Sn-6C4Y7G7P,0VY19B,Adobe_0VY19B_Suite,2023-03-28,C7619,1,70.61,Third-party Retailer,Africa,21.32,10,2,12,8,13,327,Word of Mouth,4,Cryptocurrency,Not as described,13,6
+SN-31QFSVO,45G3LD,Adobe_45G3LD_Suite,2023-02-01,C1452,7,79.34,Unknown Vendor,North America,27.91,13,3,20,7,1,77,Word of Mouth,2,Cryptocurrency,Product malfunction,17,6
+SN-AA0HJ8KO,Adobe_Prod_442_Version_1,Adobe_Adobe_Prod_442_Version_1_Suite,2023-10-12,C9811,9,265.88,Unknown Vendor,South America,14.03,10,5,5,9,2,374,Email Marketing,8,Credit Card,Found cheaper,4,12
+SN-BRO39Z6W,Adobe_Prod_983_Version_2,Adobe_Adobe_Prod_983_Version_2_Suite,2023-09-29,C1770,9,283.94,Authorized Retailer,Europe,7.54,9,4,4,3,3,530,Direct Search,8,Credit Card,Other,2,24
+SN-H1P3UBGF,Adobe_Prod_173_Version_7,Adobe_Adobe_Prod_173_Version_7_Suite,2023-09-24,C4151,3,207.49,Unknown Vendor,Africa,5.63,10,4,3,9,6,682,Direct Search,6,PayPal,Found cheaper,3,24
+SN-2I4YYCE2,Adobe_Prod_163_Version_4,Adobe_Adobe_Prod_163_Version_4_Suite,2023-06-08,C8510,4,467.97,Direct Sales,North America,14.4,3,4,3,9,7,561,Email Marketing,7,Credit Card,Found cheaper,10,12
+SNVPJ84A724,NV2SJO,Adobe_NV2SJO_Suite,2023-12-25,C9049,9,111.01,Unknown Vendor,Asia,21.76,15,2,16,1,10,247,Word of Mouth,4,Cryptocurrency,Other,19,6
+SN-PICBZPZ0,Adobe_Prod_4_Version_5,Adobe_Adobe_Prod_4_Version_5_Suite,2023-02-25,C5998,4,312.91,Authorized Retailer,Europe,14.08,7,4,3,8,7,415,Email Marketing,8,PayPal,Found cheaper,3,24
+SN-J76UYCMW,Adobe_Prod_486_Version_6,Adobe_Adobe_Prod_486_Version_6_Suite,2023-09-15,C3843,10,404.1,Direct Sales,Europe,10.6,4,4,3,7,6,723,Email Marketing,10,PayPal,Found cheaper,6,24
+Sn-L7SN36FU,CCEFEF,Adobe_CCEFEF_Suite,2023-11-11,C8036,6,66.14,Third-party Retailer,Europe,20.28,11,3,13,7,8,116,Social Media,3,Cryptocurrency,Other,13,6
+Sn-YU12QDCW,NKZW9O,Adobe_NKZW9O_Suite,2023-10-21,C7356,7,104.34,Unknown Vendor,Africa,26.79,15,2,14,9,2,138,Word of Mouth,4,Cryptocurrency,Not as described,11,6
+SN-761AR118,Adobe_Prod_862_Version_7,Adobe_Adobe_Prod_862_Version_7_Suite,2023-02-12,C5139,7,406.61,Authorized Retailer,Africa,12.74,3,4,2,9,5,556,Email Marketing,8,Credit Card,Other,7,24
+SN-77A6LQ03,Adobe_Prod_317_Version_9,Adobe_Adobe_Prod_317_Version_9_Suite,2023-04-20,C8531,2,401.17,Third-party Retailer,North America,8.64,2,4,1,3,5,584,Email Marketing,10,PayPal,Found cheaper,3,24
+SN-FEND7OUZ,Adobe_Prod_833_Version_2,Adobe_Adobe_Prod_833_Version_2_Suite,2023-04-04,C4594,5,449.05,Direct Sales,South America,7.56,3,5,1,1,6,448,Email Marketing,6,Credit Card,Other,1,12
+SN-MJK9HVL3,Adobe_Prod_931_Version_6,Adobe_Adobe_Prod_931_Version_6_Suite,2023-09-13,C3709,9,250.52,Direct Sales,South America,10.84,3,5,4,1,2,474,Email Marketing,7,PayPal,Found cheaper,10,12
+SN-I90KA1N4,Adobe_Prod_908_Version_2,Adobe_Adobe_Prod_908_Version_2_Suite,2023-10-09,C5733,10,408.91,Authorized Retailer,South America,6.39,1,4,2,2,6,428,Direct Search,9,PayPal,Other,9,24
+SN-T6KFKGIE,Adobe_Prod_226_Version_8,Adobe_Adobe_Prod_226_Version_8_Suite,2023-03-11,C2875,8,480.27,Authorized Retailer,Africa,10.38,8,4,5,2,6,706,Email Marketing,7,Credit Card,Other,6,24
+SN-OHMEYVLC,Adobe_Prod_60_Version_8,Adobe_Adobe_Prod_60_Version_8_Suite,2023-03-02,C7328,2,457.03,Direct Sales,Asia,8.98,2,5,1,3,4,420,Direct Search,6,PayPal,Found cheaper,2,24
+SN-KST7QM09,Adobe_Prod_935_Version_4,Adobe_Adobe_Prod_935_Version_4_Suite,2023-08-07,C8724,10,324.25,Authorized Retailer,North America,11.61,3,5,1,8,2,680,Direct Search,8,PayPal,Found cheaper,7,24
+SN-5W83R4M,4QRZD3,Adobe_4QRZD3_Suite,2023-10-23,C6490,4,116.07,Unknown Vendor,Africa,28.82,12,2,18,7,12,77,Word of Mouth,2,Cryptocurrency,Other,14,6
+SN-WZ1KYNVL,Adobe_Prod_283_Version_9,Adobe_Adobe_Prod_283_Version_9_Suite,2023-05-13,C1495,4,343.75,Direct Sales,Asia,12.02,9,5,3,7,1,371,Email Marketing,9,PayPal,Other,8,12
+SN-HFEF6JHJ,Adobe_Prod_55_Version_7,Adobe_Adobe_Prod_55_Version_7_Suite,2023-09-01,C9066,9,231.75,Authorized Retailer,Asia,8.34,7,4,3,1,3,506,Direct Search,10,Credit Card,Found cheaper,1,24
+SN-MCIF1VZY,Adobe_Prod_998_Version_3,Adobe_Adobe_Prod_998_Version_3_Suite,2023-03-15,C2358,7,386.04,Authorized Retailer,Europe,8.82,4,5,4,8,3,536,Direct Search,10,Credit Card,Other,2,24
+SNP5ZYAVB1F,MEOOOT,Adobe_MEOOOT_Suite,2023-06-12,C3758,7,70.3,Third-party Retailer,Africa,28.06,11,2,19,9,10,208,Social Media,2,Cryptocurrency,Other,10,6
+SN-MVWJWCL,9BJJD4,Adobe_9BJJD4_Suite,2023-06-19,C1396,7,65.01,Third-party Retailer,North America,29.68,17,2,17,2,1,195,Social Media,4,Cryptocurrency,Product malfunction,14,6
+SN-2FTP4USX,Adobe_Prod_336_Version_9,Adobe_Adobe_Prod_336_Version_9_Suite,2023-02-13,C4827,5,232.33,Direct Sales,Europe,13.17,1,5,4,1,3,552,Direct Search,9,Credit Card,Found cheaper,1,24
+SNYN38P2H6B,ICUG46,Adobe_ICUG46_Suite,2023-12-09,C5941,9,109.26,Authorized Retailer,Asia,28.06,20,2,19,1,3,254,Social Media,2,Cryptocurrency,Other,15,6
+Sn-SQJSN9DB,YCBEJ5,Adobe_YCBEJ5_Suite,2023-04-14,C4946,5,149.13,Third-party Retailer,Asia,24.53,17,1,15,8,4,273,Social Media,5,Cryptocurrency,Not as described,11,6
+SN-Z4MO9BK5,Adobe_Prod_478_Version_1,Adobe_Adobe_Prod_478_Version_1_Suite,2023-09-02,C8223,5,417.95,Authorized Retailer,Europe,7.17,10,5,5,1,3,524,Direct Search,6,PayPal,Other,5,12
+SN-8AXEW8WW,Adobe_Prod_778_Version_9,Adobe_Adobe_Prod_778_Version_9_Suite,2023-07-31,C9022,2,401.9,Direct Sales,South America,8.65,2,5,1,7,1,534,Email Marketing,10,Credit Card,Found cheaper,5,24
+SN-5XPM4WPK,Adobe_Prod_588_Version_5,Adobe_Adobe_Prod_588_Version_5_Suite,2023-01-30,C1963,2,248.15,Direct Sales,Africa,13.09,4,5,1,7,5,707,Email Marketing,7,PayPal,Found cheaper,3,24
+SN-3YJUIO17,Adobe_Prod_802_Version_2,Adobe_Adobe_Prod_802_Version_2_Suite,2023-06-27,C4608,5,277.64,Third-party Retailer,Europe,9.97,5,5,3,2,2,394,Direct Search,10,Credit Card,Other,7,12
+SN-EZHHSK4N,Adobe_Prod_472_Version_9,Adobe_Adobe_Prod_472_Version_9_Suite,2023-07-07,C2357,7,354.37,Direct Sales,South America,13.91,4,4,1,2,5,638,Direct Search,8,PayPal,Other,7,12
+Sn-2SLM2WGK,U2T8QJ,Adobe_U2T8QJ_Suite,2023-11-14,C1170,8,108.38,Unknown Vendor,Europe,25.68,20,2,18,8,5,143,Word of Mouth,4,Cryptocurrency,Other,18,6
+SN-44LSEB9A,Adobe_Prod_114_Version_6,Adobe_Adobe_Prod_114_Version_6_Suite,2023-12-17,C2724,2,305.52,Authorized Retailer,Asia,13.62,2,4,2,1,4,607,Direct Search,9,PayPal,Other,6,24
+SN-85Q9J14,L7IT6K,Adobe_L7IT6K_Suite,2023-09-11,C1797,5,126.41,Third-party Retailer,North America,25.42,17,2,15,2,10,146,Social Media,3,Cryptocurrency,Other,11,6
+SN-3RX45ZUC,Adobe_Prod_58_Version_3,Adobe_Adobe_Prod_58_Version_3_Suite,2023-09-13,C7289,10,370.03,Authorized Retailer,Asia,13.04,1,5,5,3,5,694,Direct Search,6,PayPal,Other,4,24
+SN-L6AEMFX6,Adobe_Prod_982_Version_7,Adobe_Adobe_Prod_982_Version_7_Suite,2023-05-13,C7422,9,404.18,Direct Sales,North America,10.81,6,4,1,8,1,437,Direct Search,7,PayPal,Found cheaper,9,24
+SN-ZR8TJ81X,Adobe_Prod_570_Version_10,Adobe_Adobe_Prod_570_Version_10_Suite,2023-12-16,C9820,4,375.28,Authorized Retailer,South America,9.08,2,5,1,7,5,381,Direct Search,8,PayPal,Found cheaper,6,12
+Sn-PRGWVRC2,IYC2BY,Adobe_IYC2BY_Suite,2023-11-05,C1851,2,77.23,Unknown Vendor,Africa,26.09,12,3,17,2,6,174,Social Media,2,Cryptocurrency,Not as described,15,6
+SNII0VCGZXK,4N57U1,Adobe_4N57U1_Suite,2023-01-01,C1045,2,99.46,Authorized Retailer,Africa,21.62,19,2,20,8,15,231,Word of Mouth,5,Cryptocurrency,Product malfunction,16,6
+SN-FH0CVDTR,Adobe_Prod_790_Version_8,Adobe_Adobe_Prod_790_Version_8_Suite,2023-09-10,C7153,3,391.18,Authorized Retailer,Asia,12.61,10,5,5,9,2,672,Direct Search,7,PayPal,Found cheaper,5,24
+Sn-GUBRQL5K,VHCCEE,Adobe_VHCCEE_Suite,2023-05-02,C5088,5,87.29,Direct Sales,Europe,24.18,18,2,12,2,2,291,Word of Mouth,1,Cryptocurrency,Other,12,6
+SN-LRXRJO2O,Adobe_Prod_199_Version_10,Adobe_Adobe_Prod_199_Version_10_Suite,2023-08-29,C8800,8,466.08,Direct Sales,North America,7.56,8,4,5,8,6,439,Email Marketing,10,Credit Card,Found cheaper,6,24
+SNVNCCHCC98,JXAZJ2,Adobe_JXAZJ2_Suite,2023-12-10,C2561,3,70.56,Third-party Retailer,South America,29.11,14,2,10,9,15,119,Word of Mouth,1,Cryptocurrency,Other,17,6
+Sn-M8FHZQAR,D5GYFB,Adobe_D5GYFB_Suite,2023-09-30,C9246,7,124.58,Unknown Vendor,Asia,25.91,10,2,20,2,4,78,Word of Mouth,1,Cryptocurrency,Not as described,17,6
+SNSCXZ0K5CU,NF8OUT,Adobe_NF8OUT_Suite,2023-01-17,C9078,8,103.59,Unknown Vendor,Europe,24.72,12,3,14,3,1,212,Word of Mouth,5,Cryptocurrency,Product malfunction,14,6
+SN-LQRDWZJ2,Adobe_Prod_322_Version_10,Adobe_Adobe_Prod_322_Version_10_Suite,2023-01-23,C2785,2,270.77,Direct Sales,Europe,13.65,6,5,3,9,1,610,Direct Search,6,PayPal,Found cheaper,8,12
+SN-630G8AUE,Adobe_Prod_62_Version_5,Adobe_Adobe_Prod_62_Version_5_Suite,2023-04-02,C3664,10,271.86,Direct Sales,Africa,5.08,2,4,4,7,7,679,Direct Search,6,PayPal,Other,7,24
+SN-BTPMSN7Y,Adobe_Prod_530_Version_4,Adobe_Adobe_Prod_530_Version_4_Suite,2023-10-12,C5042,9,237.02,Direct Sales,North America,14.51,3,5,1,3,3,675,Email Marketing,7,Credit Card,Other,1,12
+SN-RJ32NQ20,Adobe_Prod_117_Version_1,Adobe_Adobe_Prod_117_Version_1_Suite,2023-05-19,C1507,7,315.38,Direct Sales,Africa,11.77,6,5,1,2,5,505,Email Marketing,8,PayPal,Other,6,24
+SNTR4ODXKPI,XLZ38T,Adobe_XLZ38T_Suite,2023-07-21,C2852,4,86.99,Unknown Vendor,South America,27.4,11,3,15,2,1,255,Word of Mouth,5,Cryptocurrency,Not as described,15,6
+SN-TYG3T08,CVODDY,Adobe_CVODDY_Suite,2023-11-28,C3396,4,93.23,Unknown Vendor,Europe,22.82,20,2,18,1,14,151,Word of Mouth,3,Cryptocurrency,Product malfunction,14,6
+SN-HDIDUPN,KT72PK,Adobe_KT72PK_Suite,2023-11-01,C5847,9,129.08,Unknown Vendor,South America,20.21,20,1,14,1,9,309,Word of Mouth,2,Cryptocurrency,Other,13,6
+SN-T2IM8PX,EZMYTP,Adobe_EZMYTP_Suite,2023-09-20,C6476,6,137.02,Unknown Vendor,Africa,21.19,13,3,13,1,14,42,Social Media,3,Cryptocurrency,Other,20,6
+SN-R6TQ04WT,Adobe_Prod_160_Version_2,Adobe_Adobe_Prod_160_Version_2_Suite,2023-11-14,C2556,2,377.86,Direct Sales,Africa,13.82,4,5,2,2,2,639,Direct Search,8,Credit Card,Other,2,12
+Sn-NEBG962H,8M7FD9,Adobe_8M7FD9_Suite,2023-03-25,C2450,8,115.87,Unknown Vendor,South America,20.2,13,1,10,1,15,112,Social Media,3,Cryptocurrency,Product malfunction,15,6
+SN-7EN6H757,Adobe_Prod_873_Version_7,Adobe_Adobe_Prod_873_Version_7_Suite,2023-09-27,C2830,8,455.11,Authorized Retailer,Asia,8.75,3,4,4,8,2,686,Email Marketing,8,Credit Card,Found cheaper,6,12
+Sn-A417FU0C,STWJHM,Adobe_STWJHM_Suite,2023-04-02,C3643,10,81.71,Unknown Vendor,South America,26.7,18,3,16,7,2,239,Social Media,5,Cryptocurrency,Other,10,6
+Sn-OYNERVU2,RIK2MO,Adobe_RIK2MO_Suite,2023-12-01,C9124,5,98.89,Unknown Vendor,North America,27.15,20,2,18,8,2,238,Word of Mouth,2,Cryptocurrency,Other,10,6
+SN-SYVFOTF,XJXIB0,Adobe_XJXIB0_Suite,2023-07-04,C7738,8,141.24,Third-party Retailer,Europe,28.8,18,2,11,1,14,228,Word of Mouth,2,Cryptocurrency,Product malfunction,14,6
+SN-K9NU8R9X,Adobe_Prod_823_Version_9,Adobe_Adobe_Prod_823_Version_9_Suite,2023-11-27,C4908,2,462.03,Direct Sales,South America,10.49,5,4,1,9,2,631,Direct Search,6,PayPal,Other,10,24
+SN-ITQVOEIM,Adobe_Prod_93_Version_10,Adobe_Adobe_Prod_93_Version_10_Suite,2023-05-22,C4581,4,234.43,Direct Sales,Europe,7.33,6,5,4,1,5,573,Direct Search,8,PayPal,Found cheaper,7,24
+SNGHTXYCVZK,EL4OQB,Adobe_EL4OQB_Suite,2023-08-20,C8181,4,67.52,Unknown Vendor,Asia,27.32,15,1,20,8,12,36,Social Media,1,Cryptocurrency,Not as described,20,6
+SN-YSHP37LE,Adobe_Prod_235_Version_8,Adobe_Adobe_Prod_235_Version_8_Suite,2023-10-19,C9133,4,367.27,Authorized Retailer,Africa,13.47,4,5,4,2,3,448,Direct Search,9,PayPal,Other,5,24
+SN-V02ZQC1,44DZMT,Adobe_44DZMT_Suite,2023-01-05,C4733,6,72.85,Third-party Retailer,Europe,21.2,11,1,20,2,3,271,Social Media,1,Cryptocurrency,Other,11,6
+SN-6VGGHHW6,Adobe_Prod_131_Version_8,Adobe_Adobe_Prod_131_Version_8_Suite,2023-10-29,C4476,2,472.92,Authorized Retailer,Africa,12.22,10,4,4,2,2,726,Direct Search,8,Credit Card,Found cheaper,6,12
+SN-Z00IMZFR,Adobe_Prod_724_Version_4,Adobe_Adobe_Prod_724_Version_4_Suite,2024-01-01,C2437,3,283.82,Direct Sales,South America,14.35,10,4,3,7,5,497,Direct Search,8,Credit Card,Found cheaper,4,12
+SNINC6URV1V,LHN3O4,Adobe_LHN3O4_Suite,2023-02-22,C5004,5,65.94,Unknown Vendor,Asia,22.61,10,3,10,7,13,216,Social Media,3,Cryptocurrency,Not as described,12,6
+SNSUWNQCJHF,A6BHHK,Adobe_A6BHHK_Suite,2023-06-16,C5559,1,144.06,Third-party Retailer,Asia,24.25,18,3,15,8,5,339,Social Media,1,Cryptocurrency,Other,15,6
+SN-3JXQ0NX,UOQGLS,Adobe_UOQGLS_Suite,2023-11-25,C2978,4,86.06,Unknown Vendor,North America,22.57,17,3,12,2,8,61,Word of Mouth,1,Cryptocurrency,Not as described,12,6
+SN-K6TT2A4C,Adobe_Prod_631_Version_2,Adobe_Adobe_Prod_631_Version_2_Suite,2023-09-15,C5346,9,300.25,Authorized Retailer,Africa,9.58,6,5,5,9,7,557,Email Marketing,7,Credit Card,Other,3,12
+SN-XCKY4HK,SOXMX5,Adobe_SOXMX5_Suite,2023-11-28,C4094,1,79.67,Unknown Vendor,South America,29.47,19,1,20,7,8,214,Word of Mouth,4,Cryptocurrency,Other,19,6
+SN-AD074VLU,Adobe_Prod_34_Version_3,Adobe_Adobe_Prod_34_Version_3_Suite,2023-06-04,C1574,3,445.31,Authorized Retailer,Europe,11.08,4,4,3,7,7,388,Email Marketing,9,PayPal,Other,4,12
+Sn-JFE7SMGO,ZXODAL,Adobe_ZXODAL_Suite,2023-05-22,C1159,10,54.94,Third-party Retailer,South America,28.9,20,2,10,8,15,316,Word of Mouth,3,Cryptocurrency,Not as described,20,6
+SN-38P53JTW,Adobe_Prod_449_Version_9,Adobe_Adobe_Prod_449_Version_9_Suite,2023-09-09,C4087,4,205.13,Authorized Retailer,Europe,13.31,7,4,2,1,2,567,Direct Search,8,Credit Card,Other,8,12
+SN-IQRNTG6Q,Adobe_Prod_176_Version_6,Adobe_Adobe_Prod_176_Version_6_Suite,2023-05-04,C4970,4,371.44,Authorized Retailer,Africa,13.61,4,4,3,9,6,728,Direct Search,7,PayPal,Found cheaper,7,24
+SN-4J2RJ9L4,Adobe_Prod_435_Version_6,Adobe_Adobe_Prod_435_Version_6_Suite,2023-01-14,C4965,3,495.75,Direct Sales,Europe,11.4,8,4,5,7,5,671,Direct Search,6,Credit Card,Found cheaper,2,24
+Sn-INP7VAVH,502R10,Adobe_502R10_Suite,2023-11-07,C4040,8,60.97,Unknown Vendor,North America,25.63,16,2,18,3,8,231,Social Media,2,Cryptocurrency,Product malfunction,11,6
+SN-DZ2R9WTK,Adobe_Prod_445_Version_1,Adobe_Adobe_Prod_445_Version_1_Suite,2023-01-12,C2814,8,267.08,Authorized Retailer,Asia,10.77,6,5,1,8,5,579,Email Marketing,10,PayPal,Found cheaper,10,12
+Sn-FM2Q2E8R,2GWH9P,Adobe_2GWH9P_Suite,2023-05-06,C1969,10,78.98,Unknown Vendor,Europe,24.63,19,2,18,8,9,104,Social Media,4,Cryptocurrency,Not as described,12,6
+SN-6KBFRHQ2,Adobe_Prod_657_Version_8,Adobe_Adobe_Prod_657_Version_8_Suite,2023-05-12,C2652,10,377.25,Direct Sales,Europe,12.7,3,5,4,3,6,716,Email Marketing,8,Credit Card,Other,5,24
+SN-MTJW90BS,Adobe_Prod_980_Version_1,Adobe_Adobe_Prod_980_Version_1_Suite,2023-06-04,C6688,3,281.76,Direct Sales,North America,14.64,1,5,2,3,7,665,Direct Search,9,Credit Card,Found cheaper,8,12
+Sn-CPVWL3F0,MYVJT2,Adobe_MYVJT2_Suite,2023-05-28,C6874,6,65.17,Unknown Vendor,Asia,29.01,17,2,13,3,13,52,Word of Mouth,3,Cryptocurrency,Other,17,6
+SN-XXFFFUWS,Adobe_Prod_257_Version_2,Adobe_Adobe_Prod_257_Version_2_Suite,2023-08-01,C7268,6,293.78,Authorized Retailer,Asia,12.88,1,5,2,3,2,478,Email Marketing,10,PayPal,Found cheaper,10,12
+SNINHWM928A,9LNNQ4,Adobe_9LNNQ4_Suite,2023-01-02,C4656,4,144.55,Third-party Retailer,Europe,23.76,12,2,20,3,6,214,Word of Mouth,3,Cryptocurrency,Not as described,13,6
+SN7OHW6L98T,6CBQYV,Adobe_6CBQYV_Suite,2023-01-11,C5903,8,112.67,Third-party Retailer,Africa,26.09,14,3,10,3,13,92,Word of Mouth,5,Cryptocurrency,Not as described,10,6
+SN-WWI5FXI,E14Y74,Adobe_E14Y74_Suite,2023-04-25,C8515,1,54.68,Third-party Retailer,Europe,21.72,17,3,17,9,13,131,Word of Mouth,5,Cryptocurrency,Not as described,15,6
+SN-UHS4OGL,W447LJ,Adobe_W447LJ_Suite,2023-03-08,C8063,1,92.27,Unknown Vendor,South America,28.79,16,2,11,2,7,324,Word of Mouth,5,Cryptocurrency,Product malfunction,19,6
+SNT0W9P1TAW,0YDV84,Adobe_0YDV84_Suite,2023-08-01,C6238,3,110.08,Third-party Retailer,South America,28.17,11,2,14,3,1,133,Word of Mouth,2,Cryptocurrency,Product malfunction,20,6
+Sn-15DX4FUI,9L20VK,Adobe_9L20VK_Suite,2023-12-13,C1159,1,121.17,Third-party Retailer,North America,24.78,14,1,15,7,15,138,Word of Mouth,2,Cryptocurrency,Not as described,17,6
+SN-KUQZ7PAU,Adobe_Prod_558_Version_5,Adobe_Adobe_Prod_558_Version_5_Suite,2023-04-16,C8043,10,242.55,Direct Sales,North America,10.5,5,5,4,7,5,623,Direct Search,8,PayPal,Found cheaper,9,12
+SN-XRO502KY,Adobe_Prod_364_Version_10,Adobe_Adobe_Prod_364_Version_10_Suite,2023-09-21,C6592,1,259.95,Authorized Retailer,South America,14.64,5,4,4,7,1,396,Email Marketing,8,Credit Card,Other,5,24
+SNNNPAZ6HQI,4HRCJ4,Adobe_4HRCJ4_Suite,2023-09-22,C2837,3,103.39,Unknown Vendor,Africa,25.41,15,1,14,7,8,307,Word of Mouth,3,Cryptocurrency,Not as described,14,6
+Sn-QTN0GJN0,ZWAFKR,Adobe_ZWAFKR_Suite,2023-02-22,C4374,10,108.3,Direct Sales,Asia,26.82,17,1,20,1,6,351,Social Media,5,Cryptocurrency,Other,15,6
+SN-6JPDE4MR,Adobe_Prod_222_Version_7,Adobe_Adobe_Prod_222_Version_7_Suite,2023-06-12,C2503,7,205.99,Direct Sales,Asia,6.28,10,5,1,7,3,696,Email Marketing,8,Credit Card,Found cheaper,2,12
+SN-L71Y4WQE,Adobe_Prod_830_Version_7,Adobe_Adobe_Prod_830_Version_7_Suite,2023-04-24,C8184,5,236.86,Direct Sales,North America,14.02,6,4,2,3,2,407,Email Marketing,8,PayPal,Other,4,24
+SN-3NLMD5Z,DWR21H,Adobe_DWR21H_Suite,2023-06-06,C7982,9,111.2,Unknown Vendor,Africa,23.75,13,3,15,2,14,115,Word of Mouth,2,Cryptocurrency,Other,16,6
+SN-E70U5176,Adobe_Prod_472_Version_5,Adobe_Adobe_Prod_472_Version_5_Suite,2023-04-11,C7432,5,314.93,Authorized Retailer,Africa,11.78,4,5,5,8,2,537,Email Marketing,8,PayPal,Other,3,24
+SN3NEL1RFT5,NSXO2Y,Adobe_NSXO2Y_Suite,2023-03-17,C2023,4,96.88,Third-party Retailer,Africa,26.33,14,1,15,8,3,309,Social Media,2,Cryptocurrency,Other,14,6
+SN-FQ40MJE,3O7OSF,Adobe_3O7OSF_Suite,2023-09-19,C7730,7,145.11,Authorized Retailer,Europe,24.28,12,1,15,3,8,214,Social Media,2,Cryptocurrency,Not as described,18,6
+Sn-4ZS5BEFA,ZWM952,Adobe_ZWM952_Suite,2023-11-11,C9543,5,103.37,Third-party Retailer,Europe,21.77,11,3,18,1,3,170,Word of Mouth,5,Cryptocurrency,Other,20,6
+SN-M7BDTE9,0RYUS0,Adobe_0RYUS0_Suite,2023-09-04,C3350,4,63.16,Authorized Retailer,Asia,26.52,10,1,12,2,3,58,Word of Mouth,1,Cryptocurrency,Product malfunction,18,6
+SN-NWQ4IQE3,Adobe_Prod_374_Version_4,Adobe_Adobe_Prod_374_Version_4_Suite,2023-09-30,C5785,6,294.18,Direct Sales,Europe,9.91,3,4,4,7,2,649,Direct Search,9,Credit Card,Found cheaper,1,12
+SN7GS9DKUG5,WMLMRH,Adobe_WMLMRH_Suite,2023-02-25,C8653,8,75.17,Unknown Vendor,South America,22.65,14,2,10,3,10,200,Word of Mouth,4,Cryptocurrency,Not as described,16,6
+SN-BTBH5TFA,Adobe_Prod_675_Version_8,Adobe_Adobe_Prod_675_Version_8_Suite,2023-08-26,C2598,4,480.7,Authorized Retailer,Asia,8.31,2,5,1,8,1,577,Direct Search,9,PayPal,Found cheaper,7,24
+SN11HO6A2A6,7LZQVN,Adobe_7LZQVN_Suite,2023-10-09,C7034,1,80.38,Third-party Retailer,Asia,25.42,20,1,20,3,2,335,Social Media,5,Cryptocurrency,Not as described,13,6
+Sn-P3NE4ALC,6E3B8H,Adobe_6E3B8H_Suite,2023-03-31,C2405,7,61.57,Third-party Retailer,Europe,22.2,10,1,16,9,13,182,Word of Mouth,1,Cryptocurrency,Not as described,19,6
+SN-A1RROLC,WZG358,Adobe_WZG358_Suite,2023-08-15,C2319,5,91.62,Unknown Vendor,North America,23.12,16,1,11,2,10,119,Social Media,2,Cryptocurrency,Not as described,12,6
+Sn-KBFYSALK,VOV06H,Adobe_VOV06H_Suite,2023-06-25,C4049,10,108.73,Unknown Vendor,Europe,25.3,19,2,20,3,10,262,Social Media,2,Cryptocurrency,Product malfunction,13,6
+SN-ESI3SG0N,Adobe_Prod_62_Version_5,Adobe_Adobe_Prod_62_Version_5_Suite,2023-12-26,C5083,2,290.7,Direct Sales,Asia,11.71,5,5,3,3,1,585,Email Marketing,10,Credit Card,Found cheaper,6,12
+SN-Z5UIF33T,Adobe_Prod_501_Version_8,Adobe_Adobe_Prod_501_Version_8_Suite,2023-10-07,C4257,7,382.26,Direct Sales,North America,12.15,9,4,2,2,2,729,Email Marketing,10,Credit Card,Found cheaper,1,24
+SN-TIT8P8GR,Adobe_Prod_359_Version_1,Adobe_Adobe_Prod_359_Version_1_Suite,2023-11-16,C8647,6,370.28,Authorized Retailer,Asia,5.22,4,5,1,9,3,623,Email Marketing,10,Credit Card,Other,4,24
+SN-RQWEQ6D,XLOVQL,Adobe_XLOVQL_Suite,2023-12-27,C6040,4,143.95,Unknown Vendor,North America,23.52,13,3,14,9,12,224,Social Media,1,Cryptocurrency,Other,14,6
+Sn-GI1WZ08I,CVWJLO,Adobe_CVWJLO_Suite,2023-09-19,C5961,10,144.19,Third-party Retailer,Africa,26.71,19,3,12,9,8,265,Word of Mouth,4,Cryptocurrency,Product malfunction,14,6
+SN-10G0SCK,96BOTO,Adobe_96BOTO_Suite,2023-01-13,C3576,9,56.09,Unknown Vendor,Asia,27.18,14,3,16,9,6,210,Social Media,3,Cryptocurrency,Other,11,6
+SN-U3KDCY3L,Adobe_Prod_87_Version_1,Adobe_Adobe_Prod_87_Version_1_Suite,2023-09-27,C2305,1,301.6,Authorized Retailer,South America,7.47,10,5,5,8,5,547,Direct Search,7,PayPal,Other,4,12
+SN-LWD19S7,KHP99Y,Adobe_KHP99Y_Suite,2023-11-28,C4404,3,135.84,Direct Sales,Europe,28.95,17,2,16,2,1,345,Social Media,4,Cryptocurrency,Not as described,18,6
+Sn-LB227IC3,TII8B4,Adobe_TII8B4_Suite,2023-11-16,C6854,9,77.94,Unknown Vendor,Asia,21.22,13,2,16,8,14,248,Word of Mouth,1,Cryptocurrency,Not as described,14,6
+SN-OOYEQXVS,Adobe_Prod_178_Version_3,Adobe_Adobe_Prod_178_Version_3_Suite,2023-09-03,C8725,8,371.25,Direct Sales,Asia,13.64,8,5,3,2,7,406,Email Marketing,9,PayPal,Found cheaper,5,12
+SN-60MSXVNO,Adobe_Prod_556_Version_7,Adobe_Adobe_Prod_556_Version_7_Suite,2023-04-05,C8607,2,343.06,Authorized Retailer,Africa,5.53,1,4,2,3,7,612,Email Marketing,9,PayPal,Other,6,24
+SNWJVZ5156P,RQLKP2,Adobe_RQLKP2_Suite,2023-05-05,C2340,5,135.01,Unknown Vendor,Europe,25.41,17,3,10,7,8,168,Word of Mouth,3,Cryptocurrency,Product malfunction,13,6
+SNATB80E1JQ,FL9ONH,Adobe_FL9ONH_Suite,2023-03-31,C2325,8,129.92,Unknown Vendor,South America,25.96,19,3,14,8,2,272,Word of Mouth,5,Cryptocurrency,Other,10,6
+Sn-OCAS3X7T,F840U0,Adobe_F840U0_Suite,2023-05-16,C7004,9,129.23,Unknown Vendor,Europe,28.11,15,3,18,7,7,277,Social Media,1,Cryptocurrency,Other,16,6
+Sn-S68YY9W3,14HILJ,Adobe_14HILJ_Suite,2023-06-21,C2655,3,133.22,Third-party Retailer,Europe,28.01,17,3,16,1,11,44,Social Media,2,Cryptocurrency,Other,14,6
+SN-SLFJHKC,1BS3N5,Adobe_1BS3N5_Suite,2023-07-18,C6709,10,67.77,Unknown Vendor,Africa,21.08,18,2,17,1,5,343,Social Media,4,Cryptocurrency,Other,14,6
+SN-N2FJZGJI,Adobe_Prod_786_Version_8,Adobe_Adobe_Prod_786_Version_8_Suite,2023-07-22,C5332,3,235.97,Direct Sales,North America,7.37,3,4,4,2,6,692,Direct Search,6,Credit Card,Other,9,12
+SN-Q22VI4KH,Adobe_Prod_535_Version_8,Adobe_Adobe_Prod_535_Version_8_Suite,2023-04-27,C9130,3,449.32,Direct Sales,Africa,14.65,9,5,5,2,6,685,Email Marketing,7,Credit Card,Found cheaper,4,12
+SN-775WS61,FB1B7F,Adobe_FB1B7F_Suite,2023-09-26,C9588,8,64.68,Unknown Vendor,North America,20.82,16,1,14,8,4,155,Social Media,1,Cryptocurrency,Other,18,6
+SN-87PSWLS,JHD5G7,Adobe_JHD5G7_Suite,2023-03-04,C3745,2,76.43,Unknown Vendor,Europe,28.79,11,3,19,7,13,348,Social Media,2,Cryptocurrency,Other,18,6
+SN-V58WVO4,C8FSYZ,Adobe_C8FSYZ_Suite,2023-07-03,C4115,9,143.1,Unknown Vendor,Africa,21.58,11,2,11,8,1,83,Word of Mouth,2,Cryptocurrency,Product malfunction,18,6
+SN-CDWKZHF3,Adobe_Prod_719_Version_1,Adobe_Adobe_Prod_719_Version_1_Suite,2023-10-28,C3402,2,268.88,Direct Sales,Africa,11.27,5,5,1,2,1,555,Direct Search,8,PayPal,Found cheaper,1,24
+SNGIZMMV02F,3U2X5I,Adobe_3U2X5I_Suite,2023-03-25,C7592,9,133.38,Third-party Retailer,North America,29.32,18,1,18,3,13,81,Word of Mouth,3,Cryptocurrency,Other,10,6
+SN-4E97K7Z,Y1JWQ9,Adobe_Y1JWQ9_Suite,2023-04-26,C6178,5,97.87,Authorized Retailer,Asia,20.63,19,3,18,2,5,72,Social Media,5,Cryptocurrency,Not as described,12,6
+SNSBCXTIVHK,JFTI9H,Adobe_JFTI9H_Suite,2023-03-19,C5264,3,76.11,Third-party Retailer,South America,28.24,14,3,11,2,5,175,Word of Mouth,3,Cryptocurrency,Other,10,6
+SN-GTG3L9HJ,Adobe_Prod_579_Version_1,Adobe_Adobe_Prod_579_Version_1_Suite,2023-02-23,C8949,3,347.97,Unknown Vendor,South America,12.16,1,5,3,7,6,528,Direct Search,8,PayPal,Found cheaper,6,12
+SN-W6EOKB0G,Adobe_Prod_798_Version_2,Adobe_Adobe_Prod_798_Version_2_Suite,2023-01-17,C1909,8,238.6,Authorized Retailer,Africa,7.29,3,4,3,2,4,569,Email Marketing,7,Credit Card,Found cheaper,8,12
+SN-VZMPYMJS,Adobe_Prod_42_Version_10,Adobe_Adobe_Prod_42_Version_10_Suite,2023-04-02,C1426,2,287.61,Third-party Retailer,South America,10.74,8,4,4,2,2,540,Email Marketing,7,Credit Card,Other,2,24
+SN-LUJIR9R,QPWDYM,Adobe_QPWDYM_Suite,2023-05-05,C8230,10,81.71,Third-party Retailer,Asia,23.38,15,1,13,8,14,70,Word of Mouth,1,Cryptocurrency,Product malfunction,15,6
+SN-9BX4XBO2,Adobe_Prod_486_Version_9,Adobe_Adobe_Prod_486_Version_9_Suite,2023-05-21,C3789,4,489.03,Direct Sales,Asia,12.76,8,4,4,3,4,599,Direct Search,10,Credit Card,Other,8,12
+SN-27D206LS,Adobe_Prod_14_Version_5,Adobe_Adobe_Prod_14_Version_5_Suite,2023-10-15,C5943,1,305.56,Direct Sales,North America,7.88,3,5,1,1,5,486,Direct Search,7,PayPal,Found cheaper,5,24
+SN-WCTZM849,Adobe_Prod_410_Version_4,Adobe_Adobe_Prod_410_Version_4_Suite,2023-05-12,C9217,8,342.19,Direct Sales,South America,5.85,10,4,2,2,7,730,Email Marketing,10,Credit Card,Other,2,12
+SN-W71UVEJW,Adobe_Prod_337_Version_8,Adobe_Adobe_Prod_337_Version_8_Suite,2023-07-02,C2989,2,432.26,Authorized Retailer,Europe,5.25,4,4,3,1,3,460,Direct Search,10,Credit Card,Found cheaper,3,12
+SN-D63FW1EY,Adobe_Prod_100_Version_3,Adobe_Adobe_Prod_100_Version_3_Suite,2023-01-20,C7709,6,490.43,Authorized Retailer,Europe,14.97,6,4,3,7,7,544,Direct Search,7,PayPal,Other,5,12
+Sn-MOQAVOCR,JGKPQO,Adobe_JGKPQO_Suite,2023-06-19,C9451,5,107.64,Unknown Vendor,North America,20.26,15,3,13,3,7,348,Word of Mouth,2,Cryptocurrency,Not as described,16,6
+SN-G6R78FF,1LF7BC,Adobe_1LF7BC_Suite,2023-10-20,C7906,5,93.89,Unknown Vendor,Asia,21.59,13,1,16,1,2,332,Social Media,5,Cryptocurrency,Not as described,19,6
+Sn-7ERZH9WL,SQ26VV,Adobe_SQ26VV_Suite,2023-07-04,C1252,4,63.64,Unknown Vendor,Africa,25.41,18,3,19,7,6,349,Word of Mouth,2,Cryptocurrency,Not as described,18,6
+SN-KSOXCPOJ,Adobe_Prod_867_Version_2,Adobe_Adobe_Prod_867_Version_2_Suite,2023-08-28,C2550,10,332.42,Direct Sales,Asia,14.2,4,4,3,8,7,680,Direct Search,6,Credit Card,Found cheaper,6,24
+Sn-QXZMN72P,1VKGZG,Adobe_1VKGZG_Suite,2023-09-20,C5252,6,117.81,Unknown Vendor,North America,27.84,12,2,12,9,7,111,Social Media,1,Cryptocurrency,Other,13,6
+SN-OTUZF9T4,Adobe_Prod_271_Version_7,Adobe_Adobe_Prod_271_Version_7_Suite,2023-03-10,C9164,3,258.9,Direct Sales,North America,11.9,1,4,1,9,2,496,Direct Search,9,PayPal,Other,9,24
+Sn-FOW5J4TK,R6SW1X,Adobe_R6SW1X_Suite,2023-05-24,C4633,2,149.54,Unknown Vendor,Asia,22.25,10,1,20,3,10,224,Word of Mouth,2,Cryptocurrency,Not as described,16,6
+SN-YG4U72J4,Adobe_Prod_833_Version_10,Adobe_Adobe_Prod_833_Version_10_Suite,2023-09-11,C8803,5,352.79,Direct Sales,Europe,11.57,10,5,1,9,2,571,Direct Search,10,Credit Card,Other,4,24
+SN2AI7TNIUI,J8LXI0,Adobe_J8LXI0_Suite,2023-10-11,C1531,2,104.46,Unknown Vendor,Europe,21.45,12,1,12,2,6,49,Social Media,2,Cryptocurrency,Not as described,17,6
+SN-4A7HT886,Adobe_Prod_146_Version_9,Adobe_Adobe_Prod_146_Version_9_Suite,2023-03-12,C4529,2,200.08,Third-party Retailer,Asia,6.41,4,4,3,3,1,680,Direct Search,7,PayPal,Found cheaper,7,24
+SN-XT35EG5I,Adobe_Prod_991_Version_4,Adobe_Adobe_Prod_991_Version_4_Suite,2023-07-10,C9851,2,441.35,Authorized Retailer,South America,10.38,3,4,4,3,5,715,Email Marketing,10,PayPal,Other,3,24
+SNASWSXWLHD,SGM7QO,Adobe_SGM7QO_Suite,2023-06-17,C1661,6,63.17,Unknown Vendor,Asia,20.21,11,2,12,3,12,264,Word of Mouth,3,Cryptocurrency,Not as described,12,6
+Sn-W59N7VF1,LGWBGI,Adobe_LGWBGI_Suite,2023-07-27,C4755,2,137.34,Third-party Retailer,North America,21.79,14,1,15,9,13,171,Social Media,4,Cryptocurrency,Other,14,6
+SNZTK785BVW,XUL7GV,Adobe_XUL7GV_Suite,2023-06-03,C9888,10,127.39,Unknown Vendor,South America,22.19,17,1,15,3,7,150,Social Media,3,Cryptocurrency,Not as described,15,6
+SNDJO7VX3WI,5PR1PD,Adobe_5PR1PD_Suite,2023-10-09,C4957,5,121.13,Unknown Vendor,Asia,24.07,12,1,16,7,6,54,Word of Mouth,1,Cryptocurrency,Not as described,10,6
+SN4RLYGBZWE,VIZ6QY,Adobe_VIZ6QY_Suite,2023-07-09,C3056,7,91.2,Third-party Retailer,South America,26.67,20,1,14,1,11,347,Social Media,5,Cryptocurrency,Not as described,14,6
+SN5LJYKPX5F,G9ER9W,Adobe_G9ER9W_Suite,2023-07-29,C3031,5,88.39,Third-party Retailer,North America,24.74,13,2,13,1,13,39,Word of Mouth,4,Cryptocurrency,Not as described,10,6
+Sn-0DHLPEZJ,5S6ZJ1,Adobe_5S6ZJ1_Suite,2023-04-03,C8848,5,124.9,Authorized Retailer,North America,20.61,12,3,10,9,11,317,Social Media,4,Cryptocurrency,Product malfunction,18,6
+Sn-5WWSX1F0,TL8DMX,Adobe_TL8DMX_Suite,2023-12-17,C2889,3,82.07,Unknown Vendor,North America,21.41,13,1,14,1,10,77,Word of Mouth,5,Cryptocurrency,Not as described,16,6
+SN-O857OA9L,Adobe_Prod_606_Version_7,Adobe_Adobe_Prod_606_Version_7_Suite,2023-04-19,C4308,8,343.01,Authorized Retailer,North America,8.41,8,5,1,1,7,516,Direct Search,6,PayPal,Found cheaper,1,24
+SN-WFQGRXCN,Adobe_Prod_706_Version_9,Adobe_Adobe_Prod_706_Version_9_Suite,2023-07-29,C5272,10,495.14,Direct Sales,Europe,7.83,3,5,5,8,6,544,Direct Search,10,PayPal,Found cheaper,1,12
+SN-EIHJWDS6,Adobe_Prod_808_Version_6,Adobe_Adobe_Prod_808_Version_6_Suite,2023-08-14,C9851,10,205.98,Authorized Retailer,South America,14.49,6,5,2,3,1,567,Direct Search,9,PayPal,Other,9,24
+SN-6QH0HDKI,Adobe_Prod_458_Version_10,Adobe_Adobe_Prod_458_Version_10_Suite,2023-12-07,C9489,6,214.71,Authorized Retailer,South America,9.89,10,5,1,8,3,632,Direct Search,6,PayPal,Other,2,24
+SN-2CMD6BJ5,Adobe_Prod_364_Version_2,Adobe_Adobe_Prod_364_Version_2_Suite,2023-09-16,C8140,4,233.53,Authorized Retailer,Asia,14.38,3,4,3,3,7,387,Direct Search,8,PayPal,Found cheaper,1,12
+SN-1XRARAQV,Adobe_Prod_701_Version_5,Adobe_Adobe_Prod_701_Version_5_Suite,2023-01-06,C5287,8,285.47,Authorized Retailer,South America,7.17,3,5,3,3,2,398,Direct Search,10,PayPal,Other,2,24
+SN-ENRJKWZJ,Adobe_Prod_542_Version_2,Adobe_Adobe_Prod_542_Version_2_Suite,2023-10-12,C5793,4,393.85,Direct Sales,Asia,14.97,8,4,5,8,6,401,Email Marketing,7,PayPal,Other,10,24
+SN-2LEBIKE,CDQ56B,Adobe_CDQ56B_Suite,2023-01-15,C9606,10,139.48,Unknown Vendor,South America,20.18,19,1,13,1,4,196,Word of Mouth,1,Cryptocurrency,Other,13,6
+SNJE8UYH31D,T5TM21,Adobe_T5TM21_Suite,2023-02-17,C9226,7,146.74,Unknown Vendor,South America,23.5,13,1,10,7,6,75,Word of Mouth,2,Cryptocurrency,Other,19,6
+SN-67AEXW7,2E87CT,Adobe_2E87CT_Suite,2023-08-28,C6007,2,142.61,Unknown Vendor,Africa,29.23,12,3,20,2,2,135,Word of Mouth,4,Cryptocurrency,Product malfunction,19,6
+SN-0GYC3KP,0TSESM,Adobe_0TSESM_Suite,2023-08-18,C8538,1,75.95,Direct Sales,South America,25.53,18,3,10,3,3,91,Social Media,2,Cryptocurrency,Not as described,15,6
+SN-9RM9I9MF,Adobe_Prod_654_Version_4,Adobe_Adobe_Prod_654_Version_4_Suite,2023-09-27,C3437,2,326.39,Direct Sales,North America,14.07,6,5,4,9,5,561,Email Marketing,10,PayPal,Found cheaper,7,12
+SN-VZ1ZIZM,RBD94S,Adobe_RBD94S_Suite,2023-06-05,C7755,4,63.85,Third-party Retailer,North America,22.7,11,3,18,1,1,36,Word of Mouth,3,Cryptocurrency,Not as described,20,6
+Sn-S1S5RW2O,YV0HNK,Adobe_YV0HNK_Suite,2023-11-18,C9336,8,70.41,Unknown Vendor,Asia,25.15,10,2,15,8,15,99,Social Media,4,Cryptocurrency,Not as described,18,6
+SN-7TPOE67U,Adobe_Prod_289_Version_7,Adobe_Adobe_Prod_289_Version_7_Suite,2023-03-24,C8472,1,390.91,Unknown Vendor,South America,8.3,3,4,1,2,1,567,Direct Search,8,PayPal,Found cheaper,8,24
+SN-9Q0E6FNG,Adobe_Prod_983_Version_6,Adobe_Adobe_Prod_983_Version_6_Suite,2023-03-04,C8027,1,416.05,Authorized Retailer,South America,10.3,5,5,5,7,4,667,Direct Search,9,Credit Card,Other,8,24
+SN-RBPKTVRV,Adobe_Prod_206_Version_7,Adobe_Adobe_Prod_206_Version_7_Suite,2023-07-02,C4592,9,247.06,Authorized Retailer,Asia,11.31,10,4,1,3,2,629,Direct Search,6,Credit Card,Other,5,24
+SN-7CUOPKR9,Adobe_Prod_918_Version_1,Adobe_Adobe_Prod_918_Version_1_Suite,2023-12-29,C6087,8,407.21,Authorized Retailer,North America,11.36,2,4,4,2,4,455,Email Marketing,9,PayPal,Found cheaper,9,24
+Sn-J2VH9F0X,TNIXSG,Adobe_TNIXSG_Suite,2023-01-08,C9809,5,53.44,Unknown Vendor,Asia,26.8,15,3,13,1,8,229,Word of Mouth,4,Cryptocurrency,Product malfunction,19,6
+SN-OG4EVC2A,Adobe_Prod_974_Version_5,Adobe_Adobe_Prod_974_Version_5_Suite,2023-12-13,C7597,1,458.75,Authorized Retailer,South America,12.49,6,5,3,2,6,511,Direct Search,10,Credit Card,Other,4,24
+SN-8OH6ROCN,Adobe_Prod_895_Version_4,Adobe_Adobe_Prod_895_Version_4_Suite,2023-06-18,C8232,8,343.82,Direct Sales,Africa,6.71,6,5,4,2,2,652,Direct Search,10,PayPal,Other,2,24
+SN-BEKOKQ9W,Adobe_Prod_415_Version_2,Adobe_Adobe_Prod_415_Version_2_Suite,2023-02-25,C7289,3,204.52,Direct Sales,Asia,10.48,5,5,2,1,1,404,Email Marketing,6,Credit Card,Other,8,12
+SN-WPGBTHR6,Adobe_Prod_18_Version_8,Adobe_Adobe_Prod_18_Version_8_Suite,2023-08-25,C1975,10,334.09,Direct Sales,Europe,10.69,2,4,3,1,6,719,Email Marketing,10,Credit Card,Other,1,24
+SNRBUHPSCCJ,RMZTHJ,Adobe_RMZTHJ_Suite,2023-11-17,C5487,9,132.96,Unknown Vendor,Asia,23.62,18,3,16,8,11,161,Word of Mouth,4,Cryptocurrency,Not as described,15,6
+Sn-V0NV5SFW,PMWJP8,Adobe_PMWJP8_Suite,2023-12-22,C2936,8,128.73,Third-party Retailer,Europe,21.32,11,1,13,7,1,325,Social Media,4,Cryptocurrency,Other,13,6
+SNPBPAJ1X3U,SZ8M2P,Adobe_SZ8M2P_Suite,2023-07-10,C8267,4,75.38,Unknown Vendor,South America,26.67,18,3,17,7,10,49,Social Media,2,Cryptocurrency,Product malfunction,18,6
+SN-MEVE6D4X,Adobe_Prod_495_Version_10,Adobe_Adobe_Prod_495_Version_10_Suite,2023-01-20,C3500,5,205.81,Direct Sales,North America,8.91,9,5,2,3,1,605,Email Marketing,10,PayPal,Found cheaper,7,24
+Sn-WDGB1CZ0,UNQ3M1,Adobe_UNQ3M1_Suite,2023-02-08,C7748,4,61.73,Third-party Retailer,North America,24.43,11,1,17,3,1,182,Social Media,1,Cryptocurrency,Not as described,19,6
+Sn-BWIAS34Y,BQHI45,Adobe_BQHI45_Suite,2023-11-11,C3302,8,141.21,Unknown Vendor,South America,29.67,20,3,20,2,1,277,Word of Mouth,1,Cryptocurrency,Product malfunction,14,6
+SN-GZFLS6D4,Adobe_Prod_796_Version_10,Adobe_Adobe_Prod_796_Version_10_Suite,2023-03-08,C4172,10,499.77,Direct Sales,North America,11.76,6,4,3,8,6,514,Direct Search,7,Credit Card,Found cheaper,8,24
+SN-ZIU1UYYT,Adobe_Prod_313_Version_8,Adobe_Adobe_Prod_313_Version_8_Suite,2023-12-23,C7573,4,448.62,Authorized Retailer,South America,12.76,8,4,5,9,6,641,Email Marketing,10,Credit Card,Other,2,12
+SN-ZK1QNPR1,Adobe_Prod_733_Version_1,Adobe_Adobe_Prod_733_Version_1_Suite,2023-11-18,C3473,9,469.93,Authorized Retailer,Europe,11.16,4,4,1,8,5,620,Direct Search,10,PayPal,Found cheaper,7,12
+SNIRTWMM976,13QVGL,Adobe_13QVGL_Suite,2023-05-20,C6911,3,122.82,Third-party Retailer,North America,25.14,17,2,12,8,5,300,Social Media,3,Cryptocurrency,Not as described,15,6
+Sn-RCJMMTKR,M0PWSE,Adobe_M0PWSE_Suite,2023-10-08,C8164,7,88.69,Third-party Retailer,Asia,20.67,11,2,10,7,9,275,Social Media,5,Cryptocurrency,Other,11,6
+SNI5FRCNSKI,YPLPJT,Adobe_YPLPJT_Suite,2023-05-06,C5142,3,103.68,Third-party Retailer,Africa,22.28,14,1,14,3,7,82,Social Media,2,Cryptocurrency,Other,18,6
+Sn-NF9ZLZZ4,0SKBMJ,Adobe_0SKBMJ_Suite,2023-12-27,C2074,7,83.46,Third-party Retailer,Asia,20.77,16,3,17,9,14,88,Social Media,4,Cryptocurrency,Not as described,18,6
+SN-1GPRIIRO,Adobe_Prod_551_Version_9,Adobe_Adobe_Prod_551_Version_9_Suite,2023-04-04,C9647,1,310.01,Authorized Retailer,North America,10.06,8,5,2,2,6,683,Email Marketing,7,Credit Card,Other,4,24
+SN-MS5WVCO5,Adobe_Prod_865_Version_9,Adobe_Adobe_Prod_865_Version_9_Suite,2023-07-14,C1133,7,476.29,Authorized Retailer,South America,9.65,8,4,5,9,5,600,Email Marketing,9,PayPal,Other,4,12
+Sn-QN7DKX0N,SES76V,Adobe_SES76V_Suite,2023-07-10,C5150,8,59.53,Unknown Vendor,Africa,27.64,20,3,15,9,1,190,Social Media,5,Cryptocurrency,Product malfunction,13,6
+Sn-6DDOYDUZ,S5AZDI,Adobe_S5AZDI_Suite,2023-09-15,C5102,6,73.93,Third-party Retailer,Africa,26.53,18,2,15,2,12,105,Social Media,5,Cryptocurrency,Other,14,6
+SNNKLH1QN97,A6YATC,Adobe_A6YATC_Suite,2023-07-28,C4347,10,133.18,Third-party Retailer,Asia,24.51,13,1,18,8,4,166,Social Media,5,Cryptocurrency,Other,20,6
+SN-V6VN375W,Adobe_Prod_506_Version_8,Adobe_Adobe_Prod_506_Version_8_Suite,2023-10-24,C1047,6,420.21,Authorized Retailer,Africa,8.03,4,5,1,2,1,514,Email Marketing,6,Credit Card,Other,5,24
+SN-URBLKX4J,Adobe_Prod_438_Version_1,Adobe_Adobe_Prod_438_Version_1_Suite,2023-09-11,C4770,3,444.09,Direct Sales,North America,6.67,5,5,3,9,1,459,Direct Search,7,PayPal,Found cheaper,1,24
+SN-6OARXHX,147C9E,Adobe_147C9E_Suite,2023-12-19,C9073,9,102.48,Unknown Vendor,Africa,22.71,15,1,20,9,1,198,Word of Mouth,2,Cryptocurrency,Other,17,6
+Sn-4W04V6UE,O8F4OT,Adobe_O8F4OT_Suite,2023-03-17,C8029,5,80.48,Third-party Retailer,Europe,27.49,11,1,15,7,13,74,Social Media,2,Cryptocurrency,Product malfunction,11,6
+SN-DVLTKU6,1MKWSL,Adobe_1MKWSL_Suite,2023-02-15,C1756,4,64.26,Third-party Retailer,South America,21.71,14,1,13,7,12,340,Word of Mouth,3,Cryptocurrency,Product malfunction,10,6
+SN-9FX2M96O,Adobe_Prod_715_Version_3,Adobe_Adobe_Prod_715_Version_3_Suite,2023-08-22,C4526,3,262.48,Direct Sales,North America,12.87,7,4,2,1,3,440,Direct Search,6,Credit Card,Other,8,12
+Sn-VU88T1WC,6OEWRW,Adobe_6OEWRW_Suite,2023-03-01,C9593,8,79.15,Unknown Vendor,Europe,28.88,14,2,15,1,6,167,Word of Mouth,2,Cryptocurrency,Product malfunction,14,6
+SN-XMSUNSR9,Adobe_Prod_197_Version_6,Adobe_Adobe_Prod_197_Version_6_Suite,2023-08-14,C3501,8,265.23,Authorized Retailer,Europe,10.22,8,5,5,1,7,493,Email Marketing,8,Credit Card,Other,2,24
+SNOMHWINLQH,48PLAF,Adobe_48PLAF_Suite,2023-08-18,C5349,7,58.96,Unknown Vendor,North America,27.36,12,3,17,9,6,119,Word of Mouth,2,Cryptocurrency,Product malfunction,11,6
+Sn-0R2ZOSHW,WJIEZZ,Adobe_WJIEZZ_Suite,2023-08-20,C2486,8,115.94,Unknown Vendor,South America,26.66,19,3,15,7,2,134,Social Media,5,Cryptocurrency,Not as described,11,6
+SN-9I0EXRZ,RRUIMG,Adobe_RRUIMG_Suite,2023-04-21,C9458,2,106.9,Unknown Vendor,North America,26.46,17,3,15,8,5,308,Word of Mouth,4,Cryptocurrency,Product malfunction,10,6
+SN-X617GQ37,Adobe_Prod_36_Version_1,Adobe_Adobe_Prod_36_Version_1_Suite,2023-02-07,C6552,9,430.57,Authorized Retailer,South America,9.81,3,5,5,3,7,723,Email Marketing,7,Credit Card,Other,8,24
+SN-9LJTF1DW,Adobe_Prod_62_Version_6,Adobe_Adobe_Prod_62_Version_6_Suite,2023-10-04,C7307,10,465.07,Direct Sales,Africa,5.06,9,4,4,2,4,372,Email Marketing,6,PayPal,Found cheaper,10,24
+Sn-1SI2U8WQ,C7UZ6B,Adobe_C7UZ6B_Suite,2023-02-07,C8325,5,81.17,Third-party Retailer,Asia,24.49,18,3,11,1,7,41,Social Media,5,Cryptocurrency,Other,19,6
+SN-W7TKN18,6JJNTV,Adobe_6JJNTV_Suite,2023-01-11,C9792,5,132.94,Unknown Vendor,South America,23.33,12,3,12,9,8,267,Social Media,1,Cryptocurrency,Product malfunction,17,6
+SN-IHYALNWJ,Adobe_Prod_825_Version_6,Adobe_Adobe_Prod_825_Version_6_Suite,2023-05-21,C1356,9,327.26,Direct Sales,Europe,9.48,8,5,3,1,5,681,Email Marketing,9,Credit Card,Found cheaper,1,12
+SNY4TNQOP60,7AQWM9,Adobe_7AQWM9_Suite,2023-04-11,C8034,9,93.97,Unknown Vendor,Europe,28.53,10,2,17,8,13,302,Social Media,2,Cryptocurrency,Other,13,6
+SN-GL8EMB8O,Adobe_Prod_565_Version_5,Adobe_Adobe_Prod_565_Version_5_Suite,2023-12-31,C5213,9,271.32,Authorized Retailer,South America,13.19,10,5,3,8,4,723,Direct Search,7,Credit Card,Other,8,24
+SN-46NSNH4,5YH162,Adobe_5YH162_Suite,2023-06-05,C1667,2,95.86,Third-party Retailer,South America,29.18,10,2,10,8,7,270,Word of Mouth,3,Cryptocurrency,Product malfunction,12,6
+SN-CGHVD5QW,Adobe_Prod_752_Version_1,Adobe_Adobe_Prod_752_Version_1_Suite,2023-07-27,C3937,9,440.2,Direct Sales,Asia,5.23,5,5,3,2,7,625,Email Marketing,10,PayPal,Found cheaper,7,24
+Sn-OPH8BMCV,KU63TQ,Adobe_KU63TQ_Suite,2023-09-22,C3292,4,119.54,Unknown Vendor,Europe,26.34,20,2,12,9,13,175,Social Media,2,Cryptocurrency,Not as described,12,6
+SN-KJA5TM9G,Adobe_Prod_370_Version_2,Adobe_Adobe_Prod_370_Version_2_Suite,2023-06-03,C5199,10,299.86,Third-party Retailer,South America,7.73,3,5,1,3,5,571,Direct Search,7,PayPal,Other,10,12
+SN-MESEPXL,TD9LWO,Adobe_TD9LWO_Suite,2023-01-06,C4678,6,86.66,Unknown Vendor,Europe,26.98,17,3,16,9,11,346,Social Media,2,Cryptocurrency,Other,13,6
+SN-AEIHRXEL,Adobe_Prod_62_Version_1,Adobe_Adobe_Prod_62_Version_1_Suite,2023-08-16,C6237,4,389.92,Direct Sales,Asia,5.19,10,5,2,2,1,608,Direct Search,7,PayPal,Other,7,24
+SN-L16MB1LF,Adobe_Prod_502_Version_7,Adobe_Adobe_Prod_502_Version_7_Suite,2023-10-22,C6980,10,356.13,Authorized Retailer,North America,7.4,8,4,4,8,5,519,Email Marketing,7,PayPal,Other,10,12
+SN-YSG04AZ7,Adobe_Prod_309_Version_5,Adobe_Adobe_Prod_309_Version_5_Suite,2023-08-11,C6674,9,482.89,Authorized Retailer,North America,6.57,9,5,4,3,7,715,Email Marketing,8,PayPal,Other,9,24
+SN954CLUNQL,IETLWR,Adobe_IETLWR_Suite,2023-03-23,C3239,5,134.14,Unknown Vendor,Europe,25.79,16,3,16,2,8,117,Social Media,3,Cryptocurrency,Not as described,15,6
+SN-LRPVS04,BBSBZI,Adobe_BBSBZI_Suite,2023-07-30,C1407,3,68.36,Third-party Retailer,South America,23.85,20,3,18,8,9,339,Social Media,3,Cryptocurrency,Other,18,6
+SN-MHGTR1W9,Adobe_Prod_805_Version_10,Adobe_Adobe_Prod_805_Version_10_Suite,2023-12-31,C2688,2,297.43,Authorized Retailer,South America,14.88,4,4,3,9,1,476,Direct Search,6,PayPal,Found cheaper,9,12
+SN-8M6Y5KKN,Adobe_Prod_954_Version_5,Adobe_Adobe_Prod_954_Version_5_Suite,2023-09-13,C5275,5,205.18,Direct Sales,South America,12.32,7,5,1,1,7,724,Direct Search,6,Credit Card,Other,10,12
+Sn-DZGXOJLS,SOKRF7,Adobe_SOKRF7_Suite,2023-07-03,C6088,5,54.49,Unknown Vendor,Europe,22.84,20,3,15,1,10,267,Social Media,5,Cryptocurrency,Product malfunction,11,6
+SNZ4UVFOTBH,9LFEI8,Adobe_9LFEI8_Suite,2023-01-29,C6926,3,109.54,Third-party Retailer,Europe,20.07,11,3,15,1,4,87,Word of Mouth,2,Cryptocurrency,Other,15,6
+SN-R6N3M6KT,Adobe_Prod_72_Version_8,Adobe_Adobe_Prod_72_Version_8_Suite,2023-07-21,C1193,9,273.2,Direct Sales,South America,5.47,3,4,3,8,2,459,Direct Search,7,PayPal,Other,6,12
+SNGV3ACU4BP,7WSKOA,Adobe_7WSKOA_Suite,2023-09-22,C3214,5,63.68,Third-party Retailer,Europe,29.79,15,1,19,1,2,106,Social Media,4,Cryptocurrency,Product malfunction,20,6
+SN-5DTVBJI7,Adobe_Prod_789_Version_10,Adobe_Adobe_Prod_789_Version_10_Suite,2023-01-05,C1911,4,400.27,Authorized Retailer,South America,7.27,8,5,1,1,3,712,Email Marketing,8,Credit Card,Found cheaper,4,24
+SNTYXQKHLIK,CC6HRQ,Adobe_CC6HRQ_Suite,2023-11-05,C7284,1,68.69,Unknown Vendor,North America,29.83,15,1,13,9,12,248,Word of Mouth,3,Cryptocurrency,Not as described,15,6
+Sn-C7U738O0,TTIEPF,Adobe_TTIEPF_Suite,2023-02-28,C3062,1,146.06,Third-party Retailer,Europe,23.9,11,1,20,9,2,122,Word of Mouth,4,Cryptocurrency,Product malfunction,12,6
+SN-E2CFDIY8,Adobe_Prod_803_Version_7,Adobe_Adobe_Prod_803_Version_7_Suite,2023-11-05,C2135,7,414.05,Direct Sales,Africa,5.58,4,4,5,9,6,453,Email Marketing,10,Credit Card,Other,7,12
+SNJPI16W67V,2UI9WB,Adobe_2UI9WB_Suite,2023-02-07,C7575,5,86.32,Unknown Vendor,South America,22.05,20,2,17,9,7,248,Word of Mouth,2,Cryptocurrency,Not as described,14,6
+SN-RB5KDFI,2NNYUI,Adobe_2NNYUI_Suite,2023-01-06,C1248,7,119.92,Third-party Retailer,Europe,28.82,17,3,15,8,4,47,Social Media,3,Cryptocurrency,Not as described,17,6
+SN-BB6KBTD4,Adobe_Prod_508_Version_1,Adobe_Adobe_Prod_508_Version_1_Suite,2023-05-28,C1220,8,469.5,Direct Sales,Asia,10.59,4,4,5,7,1,721,Email Marketing,6,Credit Card,Other,2,24
+SN-KUBRJOCF,Adobe_Prod_568_Version_2,Adobe_Adobe_Prod_568_Version_2_Suite,2023-03-04,C4434,5,271.06,Direct Sales,Europe,6.27,4,5,5,2,4,625,Direct Search,10,Credit Card,Other,6,12
+SN-8GV3PJU,5DMDNX,Adobe_5DMDNX_Suite,2023-07-10,C4422,2,139.36,Third-party Retailer,Africa,27.97,18,3,19,7,1,205,Word of Mouth,5,Cryptocurrency,Product malfunction,10,6
+SNI062S8T5H,R8FWE1,Adobe_R8FWE1_Suite,2023-12-30,C8261,2,64.68,Third-party Retailer,Europe,27.59,17,3,14,3,7,256,Social Media,4,Cryptocurrency,Other,12,6
+SN-49BO9L6,TRNB11,Adobe_TRNB11_Suite,2023-01-14,C4342,2,77.65,Unknown Vendor,South America,28.94,14,1,20,2,8,210,Word of Mouth,3,Cryptocurrency,Other,11,6
+SN-6M6M9N5,287BUP,Adobe_287BUP_Suite,2023-05-10,C8686,1,63.9,Third-party Retailer,Europe,26.84,15,2,17,7,10,245,Social Media,4,Cryptocurrency,Product malfunction,10,6
+SN-8G8SE7T,QIZKRF,Adobe_QIZKRF_Suite,2023-07-05,C3185,4,88.06,Third-party Retailer,Europe,23.26,18,2,15,2,9,187,Social Media,5,Cryptocurrency,Other,13,6
+SN-1UWUETZG,Adobe_Prod_715_Version_3,Adobe_Adobe_Prod_715_Version_3_Suite,2023-10-23,C5058,4,458.73,Authorized Retailer,North America,11.32,1,4,5,2,7,420,Email Marketing,8,Credit Card,Other,6,12
+SN-PONXMZ0T,Adobe_Prod_292_Version_5,Adobe_Adobe_Prod_292_Version_5_Suite,2023-05-10,C7515,8,258.55,Direct Sales,Asia,10.85,6,4,2,1,6,729,Direct Search,6,Credit Card,Other,6,24
+SN-TL6720E,Y6VM6F,Adobe_Y6VM6F_Suite,2023-10-22,C5842,9,133.8,Unknown Vendor,Africa,25.08,18,2,10,2,1,111,Word of Mouth,1,Cryptocurrency,Other,16,6
+SN-M3JWORKH,Adobe_Prod_816_Version_4,Adobe_Adobe_Prod_816_Version_4_Suite,2023-06-27,C4717,1,259.64,Authorized Retailer,North America,6.05,8,4,5,9,4,550,Direct Search,8,PayPal,Found cheaper,8,24
+SN-WW3BHJ9R,Adobe_Prod_580_Version_1,Adobe_Adobe_Prod_580_Version_1_Suite,2023-12-18,C4835,1,448.96,Direct Sales,Europe,10.71,6,4,4,8,2,474,Direct Search,8,PayPal,Other,8,24
+SN-T758C2H,O6SEKL,Adobe_O6SEKL_Suite,2023-11-10,C6553,7,143.78,Unknown Vendor,South America,25.44,13,3,18,8,11,335,Social Media,5,Cryptocurrency,Product malfunction,10,6
+SN-F88XHKYH,Adobe_Prod_148_Version_4,Adobe_Adobe_Prod_148_Version_4_Suite,2023-06-28,C5079,4,249.17,Unknown Vendor,North America,9.77,4,5,5,1,2,462,Email Marketing,7,Credit Card,Other,7,24
+SN-HMSTM4JP,Adobe_Prod_977_Version_7,Adobe_Adobe_Prod_977_Version_7_Suite,2023-06-21,C7125,2,351.38,Direct Sales,Asia,13.65,7,5,2,3,4,641,Email Marketing,9,Credit Card,Found cheaper,6,12
+SN-QZT238D,5B5EG9,Adobe_5B5EG9_Suite,2023-08-28,C4343,7,92.56,Third-party Retailer,North America,24.68,11,3,17,8,1,329,Social Media,1,Cryptocurrency,Product malfunction,16,6
+SN-21JQIAD,AUOF52,Adobe_AUOF52_Suite,2023-09-27,C4330,2,59.92,Unknown Vendor,North America,21.17,17,1,17,9,4,202,Word of Mouth,5,Cryptocurrency,Not as described,16,6
+SN-R0N015S,A30AKF,Adobe_A30AKF_Suite,2023-11-06,C4586,6,93.69,Unknown Vendor,South America,29.29,13,3,13,3,2,96,Social Media,1,Cryptocurrency,Product malfunction,10,6
+SNWJ2AXIQQD,DUDKIB,Adobe_DUDKIB_Suite,2023-12-04,C2057,9,121.63,Unknown Vendor,Asia,20.73,14,3,15,1,9,252,Social Media,5,Cryptocurrency,Other,12,6
+SND2XL10QFU,T44TSR,Adobe_T44TSR_Suite,2023-11-09,C9185,8,139.51,Third-party Retailer,Europe,23.43,10,2,10,9,11,150,Social Media,4,Cryptocurrency,Product malfunction,12,6
+SN-S7JMF25Y,Adobe_Prod_329_Version_8,Adobe_Adobe_Prod_329_Version_8_Suite,2023-02-28,C8857,9,214.71,Authorized Retailer,South America,5.08,9,4,1,8,1,580,Email Marketing,9,Credit Card,Found cheaper,6,12
+SN-Z0PFL1ZJ,Adobe_Prod_191_Version_6,Adobe_Adobe_Prod_191_Version_6_Suite,2023-03-02,C9649,9,401.44,Direct Sales,Africa,7.5,9,5,2,7,4,669,Email Marketing,6,Credit Card,Found cheaper,10,12
+Sn-VEQWT4WH,QICLEN,Adobe_QICLEN_Suite,2023-09-22,C5071,8,90.09,Third-party Retailer,South America,23.5,15,1,11,2,7,310,Word of Mouth,5,Cryptocurrency,Other,16,6
+SN-DJ3WK7J,KUWJK3,Adobe_KUWJK3_Suite,2023-05-07,C7735,2,66.92,Third-party Retailer,Asia,28.77,18,2,19,3,3,159,Word of Mouth,4,Cryptocurrency,Not as described,10,6
+SN-SFEDNLVX,Adobe_Prod_821_Version_7,Adobe_Adobe_Prod_821_Version_7_Suite,2023-09-28,C6001,7,400.71,Authorized Retailer,Africa,6.04,9,5,2,8,2,706,Direct Search,6,PayPal,Other,1,24
+SNG50WBK06R,GDHKP4,Adobe_GDHKP4_Suite,2023-06-24,C5870,10,135.22,Third-party Retailer,Europe,29.89,15,1,10,1,6,188,Word of Mouth,5,Cryptocurrency,Other,13,6
+SNI1W075Y2Q,OCE4VK,Adobe_OCE4VK_Suite,2023-09-20,C2709,2,75.74,Unknown Vendor,North America,20.93,16,1,17,1,12,197,Social Media,5,Cryptocurrency,Other,12,6
+SNOM88Y5LJK,DQZ8RH,Adobe_DQZ8RH_Suite,2023-07-06,C6404,7,90.46,Unknown Vendor,Europe,24.22,16,2,11,8,5,72,Social Media,2,Cryptocurrency,Product malfunction,16,6
+SN-6M31Z9CP,Adobe_Prod_432_Version_8,Adobe_Adobe_Prod_432_Version_8_Suite,2023-08-16,C7069,2,400.35,Direct Sales,Africa,11.65,5,5,4,2,6,464,Direct Search,7,Credit Card,Other,2,24
+SN-7QDAEIZ1,Adobe_Prod_492_Version_6,Adobe_Adobe_Prod_492_Version_6_Suite,2023-03-30,C6762,3,475.65,Direct Sales,North America,9.57,3,5,5,3,6,713,Direct Search,10,PayPal,Found cheaper,2,24
+SN-UJH33JRE,Adobe_Prod_197_Version_2,Adobe_Adobe_Prod_197_Version_2_Suite,2023-03-10,C7119,7,406.73,Authorized Retailer,Africa,8.65,7,4,4,8,3,709,Email Marketing,7,PayPal,Found cheaper,9,24
+SN-9ZVFE4K,RXPB3T,Adobe_RXPB3T_Suite,2023-04-05,C9078,3,133.7,Third-party Retailer,Europe,26.2,10,2,11,9,10,329,Word of Mouth,4,Cryptocurrency,Not as described,11,6
+SN-F0D37S2K,Adobe_Prod_207_Version_5,Adobe_Adobe_Prod_207_Version_5_Suite,2023-01-20,C7211,8,293.74,Third-party Retailer,Europe,11.66,5,4,5,8,1,676,Direct Search,10,Credit Card,Other,8,24
+SN-07XH8XEE,Adobe_Prod_476_Version_8,Adobe_Adobe_Prod_476_Version_8_Suite,2023-04-18,C9088,9,269.94,Authorized Retailer,Europe,10.91,5,5,5,3,4,576,Direct Search,7,Credit Card,Other,6,24
+SN-9H3FHHA6,Adobe_Prod_978_Version_8,Adobe_Adobe_Prod_978_Version_8_Suite,2023-12-24,C2558,4,429.76,Direct Sales,South America,12.85,5,4,2,2,6,376,Email Marketing,10,Credit Card,Other,8,24
+SN-GJ128W6T,Adobe_Prod_72_Version_7,Adobe_Adobe_Prod_72_Version_7_Suite,2023-05-20,C8756,2,340.99,Direct Sales,Africa,8.62,7,5,5,1,4,710,Direct Search,10,Credit Card,Found cheaper,3,24
+SN-WIWCCC0F,Adobe_Prod_204_Version_10,Adobe_Adobe_Prod_204_Version_10_Suite,2023-06-21,C7971,4,310.63,Direct Sales,Asia,8.73,1,4,4,7,2,422,Direct Search,10,Credit Card,Found cheaper,8,12
+SN-LMZQBEZ6,Adobe_Prod_663_Version_1,Adobe_Adobe_Prod_663_Version_1_Suite,2023-06-15,C5462,5,341.08,Direct Sales,South America,6.42,9,4,2,7,1,671,Direct Search,7,Credit Card,Found cheaper,8,12
+SN-F8MKWC9,E6273A,Adobe_E6273A_Suite,2023-02-24,C6586,10,58.57,Direct Sales,Europe,26.38,16,2,14,3,5,303,Word of Mouth,4,Cryptocurrency,Not as described,13,6
+Sn-CUG07N1L,JJ9IWQ,Adobe_JJ9IWQ_Suite,2023-06-04,C6939,6,95.91,Third-party Retailer,South America,23.8,10,3,12,8,11,295,Word of Mouth,1,Cryptocurrency,Not as described,14,6
+SNPTE0PV3MG,GP9S29,Adobe_GP9S29_Suite,2023-04-17,C1717,4,100.34,Authorized Retailer,Asia,24.22,18,3,18,2,1,330,Social Media,5,Cryptocurrency,Product malfunction,10,6
+SN-LAT721A0,Adobe_Prod_306_Version_9,Adobe_Adobe_Prod_306_Version_9_Suite,2023-12-18,C1418,9,373.06,Authorized Retailer,North America,6.59,1,5,1,7,3,646,Email Marketing,6,PayPal,Other,8,24
+Sn-BUB0WCRQ,A11K5C,Adobe_A11K5C_Suite,2023-07-13,C6953,9,61.12,Authorized Retailer,Africa,20.83,12,2,10,7,5,310,Social Media,3,Cryptocurrency,Product malfunction,18,6
+SN-CY1OTXK,XRKDLQ,Adobe_XRKDLQ_Suite,2023-01-14,C2090,5,92.98,Unknown Vendor,South America,23.14,10,2,18,9,11,356,Word of Mouth,1,Cryptocurrency,Product malfunction,13,6
+Sn-F2CPHMPV,IKJCVJ,Adobe_IKJCVJ_Suite,2023-05-20,C4410,9,134.91,Third-party Retailer,Africa,20.33,18,2,19,2,12,296,Social Media,3,Cryptocurrency,Other,18,6
+SN-JD11BVH,MBK3NR,Adobe_MBK3NR_Suite,2023-02-22,C3060,2,111.91,Third-party Retailer,South America,29.62,18,3,15,2,8,270,Social Media,1,Cryptocurrency,Product malfunction,14,6
+SN-J17KGSPN,Adobe_Prod_987_Version_5,Adobe_Adobe_Prod_987_Version_5_Suite,2023-11-02,C9528,4,354.66,Authorized Retailer,Africa,11.66,4,5,5,7,4,470,Direct Search,6,PayPal,Other,3,12
+SN-JTXZHYYE,Adobe_Prod_55_Version_10,Adobe_Adobe_Prod_55_Version_10_Suite,2023-11-06,C9414,7,227.69,Direct Sales,North America,13.99,5,5,4,2,2,671,Direct Search,10,PayPal,Found cheaper,2,24
+SN-VFKFTF6V,Adobe_Prod_901_Version_9,Adobe_Adobe_Prod_901_Version_9_Suite,2023-03-22,C1246,4,349.22,Direct Sales,Africa,13.16,9,5,1,3,4,664,Email Marketing,7,PayPal,Found cheaper,1,12
+SN-UC5CD0M5,Adobe_Prod_74_Version_4,Adobe_Adobe_Prod_74_Version_4_Suite,2023-12-03,C6802,3,282.11,Direct Sales,Africa,7.72,8,4,5,8,5,531,Direct Search,9,PayPal,Other,3,24
+SN-0J4RDKXB,Adobe_Prod_177_Version_3,Adobe_Adobe_Prod_177_Version_3_Suite,2023-06-12,C7967,8,293.42,Authorized Retailer,Europe,9.86,7,4,4,3,6,681,Direct Search,8,Credit Card,Found cheaper,7,12
+SN-5EDQTALA,Adobe_Prod_534_Version_3,Adobe_Adobe_Prod_534_Version_3_Suite,2023-02-16,C5467,8,277.38,Direct Sales,South America,12.73,7,5,2,1,2,718,Email Marketing,8,Credit Card,Other,5,24
+SN-UZLKY6HY,Adobe_Prod_809_Version_8,Adobe_Adobe_Prod_809_Version_8_Suite,2023-11-24,C4739,5,267.78,Direct Sales,South America,14.73,1,5,4,8,5,616,Direct Search,9,Credit Card,Found cheaper,6,12
+SN-4MR3E82B,Adobe_Prod_140_Version_8,Adobe_Adobe_Prod_140_Version_8_Suite,2023-03-09,C7181,3,344.0,Direct Sales,South America,13.17,1,5,1,2,6,645,Direct Search,10,Credit Card,Other,9,24
+SN-LHC98WU,FEX2DJ,Adobe_FEX2DJ_Suite,2023-12-18,C8385,9,137.33,Third-party Retailer,Asia,25.36,15,1,15,2,9,161,Social Media,2,Cryptocurrency,Product malfunction,17,6
+Sn-DY65H0Q3,9ZRQHX,Adobe_9ZRQHX_Suite,2023-03-12,C7999,1,93.31,Third-party Retailer,North America,29.92,15,3,18,9,14,330,Word of Mouth,3,Cryptocurrency,Not as described,11,6
+SN-3U6NOKWV,Adobe_Prod_715_Version_7,Adobe_Adobe_Prod_715_Version_7_Suite,2023-05-04,C4585,3,399.39,Authorized Retailer,Asia,14.8,7,5,3,1,1,623,Direct Search,7,PayPal,Other,7,24
+SN-GWS1R5KP,Adobe_Prod_480_Version_8,Adobe_Adobe_Prod_480_Version_8_Suite,2023-02-27,C4959,1,394.72,Authorized Retailer,Asia,8.04,5,4,2,1,2,513,Direct Search,10,Credit Card,Other,7,12
+SN-Y434UUGW,Adobe_Prod_401_Version_5,Adobe_Adobe_Prod_401_Version_5_Suite,2023-05-22,C2849,7,442.05,Unknown Vendor,Asia,10.03,9,5,5,3,4,613,Email Marketing,10,PayPal,Found cheaper,7,24
+SNI8WYROJ8X,DGRPIA,Adobe_DGRPIA_Suite,2023-04-25,C2073,5,51.65,Third-party Retailer,South America,25.58,11,3,17,1,10,223,Word of Mouth,1,Cryptocurrency,Product malfunction,17,6
+SN-3LLLDW5I,Adobe_Prod_179_Version_6,Adobe_Adobe_Prod_179_Version_6_Suite,2023-01-05,C4667,4,327.51,Authorized Retailer,Asia,6.37,1,4,4,2,2,456,Email Marketing,8,Credit Card,Other,4,24
+SN-YWUM5T72,Adobe_Prod_827_Version_6,Adobe_Adobe_Prod_827_Version_6_Suite,2023-11-08,C7175,2,266.89,Authorized Retailer,North America,11.94,5,4,5,9,3,524,Email Marketing,8,Credit Card,Other,8,24
+SN-GKP8WUW9,Adobe_Prod_161_Version_8,Adobe_Adobe_Prod_161_Version_8_Suite,2023-03-03,C7345,5,256.34,Direct Sales,North America,6.16,7,4,5,9,3,605,Direct Search,7,PayPal,Other,3,24
+Sn-T24U8FRU,JC9VXR,Adobe_JC9VXR_Suite,2023-08-11,C7796,8,76.28,Third-party Retailer,North America,25.74,14,1,15,3,15,77,Word of Mouth,1,Cryptocurrency,Other,18,6
+SN-PTDDDGIS,Adobe_Prod_859_Version_8,Adobe_Adobe_Prod_859_Version_8_Suite,2023-08-01,C2644,6,373.42,Direct Sales,Asia,6.64,3,5,1,8,7,667,Email Marketing,8,PayPal,Other,4,12
+SN-O3OCITK,3JQE61,Adobe_3JQE61_Suite,2023-12-29,C6411,4,94.75,Unknown Vendor,Africa,20.44,12,3,14,1,8,98,Social Media,3,Cryptocurrency,Product malfunction,18,6
+SN-FBVNBQ3F,Adobe_Prod_586_Version_7,Adobe_Adobe_Prod_586_Version_7_Suite,2023-05-07,C6763,4,322.86,Direct Sales,South America,14.13,5,4,5,1,4,703,Email Marketing,10,Credit Card,Other,5,12
+Sn-4MRQA5G9,B3VC4Q,Adobe_B3VC4Q_Suite,2023-11-26,C8138,6,80.29,Third-party Retailer,Europe,21.4,12,1,14,9,8,343,Word of Mouth,4,Cryptocurrency,Product malfunction,18,6
+SN9KQ7GR0EC,LEP9TX,Adobe_LEP9TX_Suite,2023-05-06,C3023,3,144.68,Unknown Vendor,Africa,23.89,12,2,13,3,11,168,Word of Mouth,2,Cryptocurrency,Not as described,15,6
+SN-O2KYTP1G,Adobe_Prod_633_Version_10,Adobe_Adobe_Prod_633_Version_10_Suite,2023-02-28,C7560,3,238.8,Direct Sales,Africa,12.89,1,5,1,2,1,540,Email Marketing,10,Credit Card,Other,4,12
+Sn-Q4OMUVMX,M7VLPA,Adobe_M7VLPA_Suite,2023-01-01,C3377,6,80.58,Third-party Retailer,Africa,29.7,20,3,17,1,14,244,Word of Mouth,5,Cryptocurrency,Not as described,14,6
+SN-F519MYB5,Adobe_Prod_852_Version_9,Adobe_Adobe_Prod_852_Version_9_Suite,2023-10-08,C8556,4,413.04,Third-party Retailer,Europe,12.23,6,5,2,2,5,510,Email Marketing,6,PayPal,Found cheaper,3,24
+Sn-TUJY0G6C,AFFOMQ,Adobe_AFFOMQ_Suite,2023-08-22,C4391,4,60.54,Unknown Vendor,Europe,25.62,19,1,12,2,9,137,Word of Mouth,5,Cryptocurrency,Other,14,6
+SN-N2BF2IW,UHKECZ,Adobe_UHKECZ_Suite,2023-08-12,C4722,10,109.33,Third-party Retailer,North America,23.94,19,1,15,1,11,180,Social Media,5,Cryptocurrency,Other,15,6
+SNBYEOWNS3H,F691KT,Adobe_F691KT_Suite,2023-09-13,C8877,2,93.75,Unknown Vendor,Europe,22.04,14,1,11,3,13,284,Social Media,2,Cryptocurrency,Other,20,6
+SN-B3P0GNVE,Adobe_Prod_899_Version_8,Adobe_Adobe_Prod_899_Version_8_Suite,2023-01-24,C3352,7,400.76,Direct Sales,Europe,14.38,8,4,2,7,1,692,Email Marketing,7,PayPal,Found cheaper,9,12
+Sn-5N999TDL,JUY62Z,Adobe_JUY62Z_Suite,2023-10-04,C2890,8,112.35,Third-party Retailer,Asia,28.07,18,3,20,8,7,95,Social Media,1,Cryptocurrency,Product malfunction,19,6
+SN-MROJES9Y,Adobe_Prod_796_Version_10,Adobe_Adobe_Prod_796_Version_10_Suite,2023-06-21,C1064,8,373.2,Authorized Retailer,Asia,14.71,8,5,5,8,4,440,Direct Search,6,PayPal,Found cheaper,8,24
+SN-BHP40G2X,Adobe_Prod_296_Version_9,Adobe_Adobe_Prod_296_Version_9_Suite,2023-10-17,C8717,2,435.88,Direct Sales,Africa,5.83,9,4,3,1,2,401,Email Marketing,8,PayPal,Found cheaper,5,24
+Sn-Q7FDGCRN,1L7KH8,Adobe_1L7KH8_Suite,2023-11-23,C9407,5,63.26,Unknown Vendor,South America,28.48,14,1,19,1,12,150,Word of Mouth,4,Cryptocurrency,Other,18,6
+SNOTAPK9M7L,HUZFGU,Adobe_HUZFGU_Suite,2023-08-30,C3522,2,51.8,Third-party Retailer,South America,24.18,10,2,17,8,5,215,Word of Mouth,5,Cryptocurrency,Other,19,6
+SNGE4JLXB7X,GM6LQK,Adobe_GM6LQK_Suite,2023-04-04,C9283,2,80.95,Unknown Vendor,Europe,27.14,20,3,19,8,9,120,Social Media,5,Cryptocurrency,Other,14,6
+Sn-46RFRAWO,7WPA1Y,Adobe_7WPA1Y_Suite,2023-12-17,C3358,5,59.21,Third-party Retailer,North America,25.19,14,1,20,2,14,127,Social Media,2,Cryptocurrency,Other,17,6
+SN-1CMZZEJ9,Adobe_Prod_369_Version_2,Adobe_Adobe_Prod_369_Version_2_Suite,2023-07-16,C3660,10,417.38,Direct Sales,Asia,9.71,5,4,4,9,1,611,Email Marketing,8,Credit Card,Other,1,12
+Sn-7571H9SM,7AJJI4,Adobe_7AJJI4_Suite,2023-05-19,C5519,1,80.71,Third-party Retailer,Europe,26.65,15,2,14,2,7,293,Social Media,3,Cryptocurrency,Other,10,6
+SNO3K4IV6UN,1DLGWG,Adobe_1DLGWG_Suite,2023-01-20,C9015,7,147.79,Unknown Vendor,Africa,21.22,15,2,15,9,10,88,Social Media,4,Cryptocurrency,Product malfunction,15,6
+Sn-K961X381,12X94P,Adobe_12X94P_Suite,2023-06-10,C6159,2,75.24,Third-party Retailer,North America,25.53,14,2,11,9,11,245,Social Media,2,Cryptocurrency,Not as described,10,6
+SN-1Z3NJ6D,XQOWGT,Adobe_XQOWGT_Suite,2023-10-13,C3374,6,109.79,Unknown Vendor,Europe,26.63,20,1,13,1,8,176,Social Media,2,Cryptocurrency,Other,10,6
+SNVN5RR6JGG,KSWLT0,Adobe_KSWLT0_Suite,2023-09-06,C1745,6,105.46,Third-party Retailer,Africa,29.4,13,2,11,9,10,244,Word of Mouth,1,Cryptocurrency,Not as described,10,6
+SN-V8DM1X59,Adobe_Prod_983_Version_1,Adobe_Adobe_Prod_983_Version_1_Suite,2023-04-18,C3651,8,282.28,Third-party Retailer,Asia,9.0,3,5,4,3,2,559,Direct Search,10,Credit Card,Other,1,12
+SNSBGKH6XHK,L6K7PR,Adobe_L6K7PR_Suite,2023-11-20,C5994,3,129.22,Direct Sales,Europe,24.82,11,2,11,2,15,246,Social Media,3,Cryptocurrency,Other,17,6
+SNW5JWZ4PVA,OGIFUX,Adobe_OGIFUX_Suite,2023-03-10,C6755,1,83.41,Unknown Vendor,Asia,20.79,11,2,10,1,3,135,Word of Mouth,3,Cryptocurrency,Product malfunction,10,6
+SN-4I5IV6HO,Adobe_Prod_624_Version_8,Adobe_Adobe_Prod_624_Version_8_Suite,2023-01-12,C9601,8,368.24,Direct Sales,Europe,9.36,4,4,1,3,2,607,Email Marketing,9,Credit Card,Other,2,12
+SN-8F6VVA4F,Adobe_Prod_83_Version_1,Adobe_Adobe_Prod_83_Version_1_Suite,2023-12-05,C5786,7,455.13,Direct Sales,Asia,10.78,1,5,3,9,7,523,Direct Search,8,PayPal,Other,9,12
+Sn-W46O1S2D,YRRAB1,Adobe_YRRAB1_Suite,2023-04-07,C8938,9,137.28,Unknown Vendor,Africa,26.35,13,3,18,3,3,355,Word of Mouth,5,Cryptocurrency,Other,20,6
+SN-CQAXOKOG,Adobe_Prod_741_Version_6,Adobe_Adobe_Prod_741_Version_6_Suite,2023-06-29,C1789,7,414.28,Direct Sales,Africa,10.58,8,5,1,8,4,446,Email Marketing,7,PayPal,Found cheaper,5,24
+SN-9PFZYR7I,Adobe_Prod_850_Version_8,Adobe_Adobe_Prod_850_Version_8_Suite,2023-08-25,C9868,10,299.86,Direct Sales,Europe,12.88,6,5,5,2,1,688,Email Marketing,10,PayPal,Found cheaper,6,24
+SN-CN0BDTMD,Adobe_Prod_249_Version_7,Adobe_Adobe_Prod_249_Version_7_Suite,2023-07-01,C2148,3,284.37,Authorized Retailer,Europe,14.09,2,5,2,1,4,600,Email Marketing,6,PayPal,Found cheaper,3,12
+SN-Z5EBATT1,Adobe_Prod_10_Version_10,Adobe_Adobe_Prod_10_Version_10_Suite,2023-01-18,C6860,5,372.24,Third-party Retailer,Africa,8.22,5,4,2,3,2,507,Direct Search,6,Credit Card,Other,6,12
+SN1LS8BEV8A,VP5C8X,Adobe_VP5C8X_Suite,2023-06-11,C7284,5,79.17,Unknown Vendor,Europe,23.89,15,1,15,9,4,222,Word of Mouth,5,Cryptocurrency,Product malfunction,20,6
+SN-KHRVX6S6,Adobe_Prod_155_Version_7,Adobe_Adobe_Prod_155_Version_7_Suite,2023-09-18,C1865,5,474.37,Direct Sales,Europe,9.55,9,4,4,8,6,411,Email Marketing,8,Credit Card,Found cheaper,5,12
+Sn-BGNVK6FI,VC7MJ9,Adobe_VC7MJ9_Suite,2023-12-12,C3443,3,83.71,Unknown Vendor,Africa,24.04,11,3,13,3,10,365,Word of Mouth,3,Cryptocurrency,Other,12,6
+SN50JIP7GU4,76RKHD,Adobe_76RKHD_Suite,2023-04-22,C5196,2,89.88,Unknown Vendor,Africa,20.26,10,2,14,1,5,306,Social Media,1,Cryptocurrency,Not as described,15,6
+SN-SL0YPE9A,Adobe_Prod_253_Version_1,Adobe_Adobe_Prod_253_Version_1_Suite,2023-01-31,C3638,1,385.15,Authorized Retailer,North America,12.8,9,4,2,7,3,551,Email Marketing,7,Credit Card,Found cheaper,4,24
+Sn-70N5P8P0,WIQZK2,Adobe_WIQZK2_Suite,2023-05-15,C3793,10,95.34,Unknown Vendor,Asia,28.79,17,3,10,2,10,175,Word of Mouth,5,Cryptocurrency,Not as described,13,6
+Sn-V56QNG3J,YZL6AB,Adobe_YZL6AB_Suite,2023-10-25,C4742,6,146.69,Unknown Vendor,North America,29.36,11,3,18,7,9,308,Word of Mouth,3,Cryptocurrency,Other,18,6
+Sn-MF067R4Z,9UIR26,Adobe_9UIR26_Suite,2023-09-17,C4885,9,149.43,Unknown Vendor,North America,28.56,16,2,14,1,1,313,Word of Mouth,3,Cryptocurrency,Not as described,18,6
+SN-BKDTWVL,HOIYW9,Adobe_HOIYW9_Suite,2023-07-07,C6316,9,85.33,Direct Sales,Africa,29.64,17,2,11,7,12,354,Word of Mouth,5,Cryptocurrency,Not as described,20,6
+SN-1E983HKW,Adobe_Prod_127_Version_10,Adobe_Adobe_Prod_127_Version_10_Suite,2023-01-08,C4652,6,294.97,Authorized Retailer,North America,12.88,5,5,1,8,7,617,Direct Search,10,Credit Card,Other,9,24
+Sn-V277W0TU,C8DT3J,Adobe_C8DT3J_Suite,2023-01-07,C1609,5,67.7,Unknown Vendor,Europe,26.94,11,1,12,1,5,67,Word of Mouth,3,Cryptocurrency,Other,12,6
+SN-3M294LY,2LE0SR,Adobe_2LE0SR_Suite,2023-10-24,C2712,7,101.22,Unknown Vendor,North America,23.46,15,1,14,3,13,309,Word of Mouth,4,Cryptocurrency,Product malfunction,20,6
+Sn-T9EYYVYM,CFI3JO,Adobe_CFI3JO_Suite,2023-09-15,C5526,1,100.88,Third-party Retailer,North America,24.8,15,1,17,7,11,326,Word of Mouth,3,Cryptocurrency,Not as described,20,6
+SN-169NOUG4,Adobe_Prod_169_Version_9,Adobe_Adobe_Prod_169_Version_9_Suite,2023-10-17,C5789,5,393.35,Direct Sales,North America,5.37,9,5,3,8,5,595,Direct Search,7,PayPal,Found cheaper,2,24
+SN-1LGRQRN,RBH8KN,Adobe_RBH8KN_Suite,2023-04-22,C8031,6,63.89,Unknown Vendor,Europe,26.56,16,2,16,7,10,283,Word of Mouth,5,Cryptocurrency,Not as described,13,6
+Sn-3B4EQPAR,S2UEP9,Adobe_S2UEP9_Suite,2023-07-20,C4978,6,124.71,Unknown Vendor,North America,24.25,20,3,19,9,5,345,Word of Mouth,5,Cryptocurrency,Product malfunction,15,6
+SN-TG5URQYD,Adobe_Prod_966_Version_10,Adobe_Adobe_Prod_966_Version_10_Suite,2023-10-01,C1469,3,397.2,Direct Sales,South America,14.64,1,4,4,2,7,559,Direct Search,7,PayPal,Found cheaper,3,12
+SN-TWKVMGT,1V2DQB,Adobe_1V2DQB_Suite,2023-04-02,C3093,6,115.74,Third-party Retailer,South America,25.17,19,1,20,3,9,353,Social Media,2,Cryptocurrency,Not as described,12,6
+Sn-1EQ7XBPQ,8Y6X6P,Adobe_8Y6X6P_Suite,2023-11-15,C5950,8,93.52,Third-party Retailer,Asia,28.63,11,2,10,9,1,315,Word of Mouth,2,Cryptocurrency,Product malfunction,10,6
+SN-XZILFI4C,Adobe_Prod_23_Version_7,Adobe_Adobe_Prod_23_Version_7_Suite,2023-02-21,C3004,8,474.78,Direct Sales,Europe,5.92,5,4,5,9,6,583,Email Marketing,9,PayPal,Found cheaper,4,24
+SN-PYR6VIE4,Adobe_Prod_368_Version_7,Adobe_Adobe_Prod_368_Version_7_Suite,2023-10-29,C8758,7,365.79,Third-party Retailer,South America,7.15,2,5,5,8,7,395,Direct Search,8,Credit Card,Found cheaper,4,24
+SN6F53Q9405,4EQ4RU,Adobe_4EQ4RU_Suite,2023-04-22,C3973,9,93.78,Third-party Retailer,Africa,27.97,10,1,19,7,2,221,Social Media,2,Cryptocurrency,Product malfunction,12,6
+SN-ESA1N2LR,Adobe_Prod_235_Version_4,Adobe_Adobe_Prod_235_Version_4_Suite,2023-08-23,C5849,9,464.53,Authorized Retailer,Europe,10.31,8,4,2,9,7,697,Email Marketing,6,PayPal,Found cheaper,7,24
+SN-MRBKPUWU,Adobe_Prod_924_Version_1,Adobe_Adobe_Prod_924_Version_1_Suite,2023-07-18,C8927,10,295.33,Direct Sales,Africa,10.06,9,5,3,1,3,399,Direct Search,6,Credit Card,Other,5,12
+SN-QTZVKDPZ,Adobe_Prod_45_Version_2,Adobe_Adobe_Prod_45_Version_2_Suite,2023-06-20,C5791,9,487.33,Authorized Retailer,Asia,9.77,5,5,4,3,3,369,Direct Search,8,Credit Card,Other,4,24
+SN-5UN0ZX6U,Adobe_Prod_766_Version_5,Adobe_Adobe_Prod_766_Version_5_Suite,2023-11-24,C1597,1,225.77,Direct Sales,Asia,13.47,10,5,2,7,2,459,Email Marketing,7,PayPal,Found cheaper,8,24
+SN-2KHPGMH,IYTGEK,Adobe_IYTGEK_Suite,2023-12-03,C7848,8,91.16,Unknown Vendor,Asia,20.87,14,3,16,8,10,42,Social Media,4,Cryptocurrency,Other,17,6
+SN-I8J681H3,Adobe_Prod_390_Version_3,Adobe_Adobe_Prod_390_Version_3_Suite,2023-01-12,C1121,9,463.27,Direct Sales,Europe,14.64,4,5,1,9,1,518,Direct Search,7,Credit Card,Found cheaper,3,24
+SN-YRMCPQ8M,Adobe_Prod_888_Version_8,Adobe_Adobe_Prod_888_Version_8_Suite,2023-09-20,C4471,3,306.55,Authorized Retailer,Asia,14.04,6,4,1,1,4,730,Direct Search,6,PayPal,Other,1,24
+Sn-RV7C6BZL,7O4AJC,Adobe_7O4AJC_Suite,2023-09-19,C1173,4,122.92,Third-party Retailer,North America,27.31,20,3,10,3,14,359,Social Media,1,Cryptocurrency,Other,18,6
+SN-UTP0LYA,SZM6KW,Adobe_SZM6KW_Suite,2023-07-13,C1934,10,70.18,Third-party Retailer,North America,26.16,19,2,18,8,13,178,Word of Mouth,4,Cryptocurrency,Product malfunction,16,6
+SN-2W9N0VYB,Adobe_Prod_752_Version_9,Adobe_Adobe_Prod_752_Version_9_Suite,2023-03-12,C7909,4,267.56,Direct Sales,South America,10.07,10,5,1,3,6,445,Email Marketing,6,Credit Card,Other,10,12
+SN-O1QG8PAJ,Adobe_Prod_897_Version_7,Adobe_Adobe_Prod_897_Version_7_Suite,2023-06-26,C4097,5,239.54,Unknown Vendor,Asia,8.7,8,5,2,1,4,440,Email Marketing,9,PayPal,Found cheaper,5,24
+SNLWS1HB23U,RHG8CW,Adobe_RHG8CW_Suite,2023-08-31,C8154,2,53.34,Unknown Vendor,Asia,21.18,15,1,11,9,4,79,Social Media,3,Cryptocurrency,Product malfunction,19,6
+SN-57ERZB1K,Adobe_Prod_26_Version_1,Adobe_Adobe_Prod_26_Version_1_Suite,2023-09-04,C8273,2,257.17,Direct Sales,Europe,10.88,5,5,2,3,3,638,Email Marketing,7,Credit Card,Other,8,12
+SN-089U0LO,DDDT16,Adobe_DDDT16_Suite,2023-10-25,C6365,2,139.68,Unknown Vendor,Europe,20.75,14,3,11,1,8,159,Social Media,1,Cryptocurrency,Not as described,18,6
+SN-GQRZ0EOH,Adobe_Prod_192_Version_1,Adobe_Adobe_Prod_192_Version_1_Suite,2023-05-06,C8633,6,200.56,Direct Sales,Africa,8.99,9,4,1,7,6,547,Email Marketing,6,Credit Card,Other,7,24
+Sn-1EOOCJK2,C33OK9,Adobe_C33OK9_Suite,2023-01-14,C9276,2,84.44,Third-party Retailer,Africa,23.95,20,2,10,9,2,46,Social Media,1,Cryptocurrency,Not as described,15,6
+SN-WUCSN59R,Adobe_Prod_544_Version_3,Adobe_Adobe_Prod_544_Version_3_Suite,2023-02-19,C5879,6,485.45,Authorized Retailer,North America,12.73,10,5,1,7,7,566,Direct Search,6,Credit Card,Other,9,24
+SN-8CVQBSRG,Adobe_Prod_478_Version_7,Adobe_Adobe_Prod_478_Version_7_Suite,2023-03-21,C4184,5,320.85,Authorized Retailer,Asia,13.0,10,4,5,8,3,723,Direct Search,9,Credit Card,Found cheaper,1,12
+SNB7KOAAISG,T3T0DK,Adobe_T3T0DK_Suite,2023-01-20,C6216,5,71.55,Third-party Retailer,South America,26.52,14,3,14,1,4,245,Social Media,2,Cryptocurrency,Not as described,13,6
+SN-FCASPZVR,Adobe_Prod_958_Version_1,Adobe_Adobe_Prod_958_Version_1_Suite,2023-09-21,C8307,7,286.19,Authorized Retailer,North America,14.09,5,4,5,8,4,454,Direct Search,10,PayPal,Other,4,24
+SN-9DKV1BS,0ELZTC,Adobe_0ELZTC_Suite,2023-01-01,C4785,9,108.97,Third-party Retailer,Asia,23.79,10,1,11,1,13,315,Social Media,1,Cryptocurrency,Other,14,6
+Sn-GI94OT3E,SX8KKZ,Adobe_SX8KKZ_Suite,2023-05-04,C6473,6,131.01,Third-party Retailer,North America,29.74,15,1,16,3,9,167,Word of Mouth,2,Cryptocurrency,Not as described,12,6
+SN-G231PGQU,Adobe_Prod_411_Version_7,Adobe_Adobe_Prod_411_Version_7_Suite,2023-08-13,C6295,8,457.58,Authorized Retailer,Europe,5.5,9,4,5,9,5,592,Email Marketing,10,Credit Card,Found cheaper,2,12
+SN-XB02YS8N,Adobe_Prod_240_Version_9,Adobe_Adobe_Prod_240_Version_9_Suite,2023-11-19,C3632,1,456.52,Authorized Retailer,North America,10.08,3,5,1,7,7,632,Direct Search,6,Credit Card,Found cheaper,10,12
+SN-ISLX14PX,Adobe_Prod_329_Version_2,Adobe_Adobe_Prod_329_Version_2_Suite,2023-02-21,C5128,5,211.44,Authorized Retailer,North America,5.81,3,5,3,7,4,679,Direct Search,10,PayPal,Other,2,24
+SN-705VHB88,Adobe_Prod_411_Version_2,Adobe_Adobe_Prod_411_Version_2_Suite,2023-12-11,C1271,3,450.48,Authorized Retailer,Africa,8.92,6,4,1,3,4,454,Direct Search,10,PayPal,Other,5,24
+SN-V9O28U02,Adobe_Prod_619_Version_10,Adobe_Adobe_Prod_619_Version_10_Suite,2023-03-31,C8553,5,205.41,Direct Sales,Asia,12.61,3,4,5,1,2,398,Email Marketing,10,Credit Card,Found cheaper,9,24
+SN9FJ0FD36G,7GTE3K,Adobe_7GTE3K_Suite,2023-08-22,C5720,3,132.24,Third-party Retailer,Europe,27.4,17,3,12,7,15,242,Word of Mouth,3,Cryptocurrency,Product malfunction,20,6
+Sn-6WHUCN9G,V5KOV9,Adobe_V5KOV9_Suite,2023-11-23,C3726,2,98.93,Unknown Vendor,Asia,27.42,10,1,14,3,14,319,Word of Mouth,4,Cryptocurrency,Not as described,20,6
+SN-2FDXMYPE,Adobe_Prod_482_Version_1,Adobe_Adobe_Prod_482_Version_1_Suite,2023-07-03,C9623,7,311.18,Unknown Vendor,North America,6.08,4,5,2,1,4,398,Direct Search,9,PayPal,Other,6,24
+SN-30HKBOI,5T9TD4,Adobe_5T9TD4_Suite,2023-05-28,C9020,3,105.79,Unknown Vendor,South America,27.79,10,3,13,8,13,158,Word of Mouth,2,Cryptocurrency,Product malfunction,17,6
+SN-V3682B20,Adobe_Prod_343_Version_5,Adobe_Adobe_Prod_343_Version_5_Suite,2023-04-22,C1577,9,491.94,Authorized Retailer,Asia,6.95,2,5,1,1,3,402,Direct Search,6,Credit Card,Other,7,24
+SNOGZC6HRZG,F52UUL,Adobe_F52UUL_Suite,2023-04-30,C8285,3,69.41,Third-party Retailer,Asia,26.46,13,2,18,3,5,239,Social Media,3,Cryptocurrency,Product malfunction,17,6
+SN-23SXNZJ,J6F9KQ,Adobe_J6F9KQ_Suite,2023-08-30,C5941,8,125.96,Third-party Retailer,North America,27.74,14,3,18,2,11,354,Word of Mouth,1,Cryptocurrency,Other,16,6
+SN-VDH4TOMW,Adobe_Prod_325_Version_10,Adobe_Adobe_Prod_325_Version_10_Suite,2023-08-20,C4741,5,208.65,Direct Sales,Africa,11.85,5,5,2,9,2,552,Direct Search,8,PayPal,Other,1,24
+SN-0KW0LVOK,Adobe_Prod_379_Version_3,Adobe_Adobe_Prod_379_Version_3_Suite,2023-05-02,C5310,7,231.43,Authorized Retailer,South America,14.91,6,5,3,8,1,616,Direct Search,10,PayPal,Found cheaper,1,24
+SN-R5YXSV5N,Adobe_Prod_393_Version_6,Adobe_Adobe_Prod_393_Version_6_Suite,2023-10-04,C8830,2,495.97,Third-party Retailer,Asia,6.88,1,4,5,9,1,506,Direct Search,9,Credit Card,Other,4,24
+SN-HPXJMFJQ,Adobe_Prod_638_Version_4,Adobe_Adobe_Prod_638_Version_4_Suite,2023-12-20,C9544,6,414.69,Authorized Retailer,Asia,10.82,9,4,4,8,7,530,Email Marketing,10,Credit Card,Other,4,12
+SN-20CI879B,Adobe_Prod_131_Version_7,Adobe_Adobe_Prod_131_Version_7_Suite,2023-08-13,C5634,3,405.5,Direct Sales,Asia,7.38,7,5,3,3,3,641,Email Marketing,10,Credit Card,Found cheaper,10,24
+SNP04JVTTSL,TE510K,Adobe_TE510K_Suite,2023-04-11,C7767,5,138.2,Unknown Vendor,South America,23.72,18,1,18,7,13,184,Word of Mouth,5,Cryptocurrency,Not as described,15,6
+SN-GJSI7HTA,Adobe_Prod_727_Version_8,Adobe_Adobe_Prod_727_Version_8_Suite,2023-11-03,C5558,8,312.57,Direct Sales,Africa,6.31,3,4,5,3,7,705,Email Marketing,7,Credit Card,Found cheaper,10,12
+SNDJFNJN6L4,SRJKLM,Adobe_SRJKLM_Suite,2023-07-22,C2756,1,141.09,Unknown Vendor,Asia,28.99,15,3,12,2,9,165,Word of Mouth,5,Cryptocurrency,Other,20,6
+SN-S6OGEQD,UPU940,Adobe_UPU940_Suite,2023-07-23,C8881,10,57.06,Unknown Vendor,North America,21.89,16,2,16,8,15,99,Word of Mouth,3,Cryptocurrency,Not as described,12,6
+SN-1EC1O2C0,Adobe_Prod_481_Version_8,Adobe_Adobe_Prod_481_Version_8_Suite,2023-12-11,C3581,8,278.23,Direct Sales,Asia,10.58,3,4,1,3,3,485,Email Marketing,9,Credit Card,Found cheaper,10,24
+SN-B9VFLTV,0BZLC2,Adobe_0BZLC2_Suite,2023-05-18,C9524,9,71.85,Third-party Retailer,Africa,24.66,14,3,19,1,2,201,Social Media,1,Cryptocurrency,Other,19,6
+SN-JBH1FZFS,Adobe_Prod_48_Version_6,Adobe_Adobe_Prod_48_Version_6_Suite,2023-01-21,C8704,9,305.58,Direct Sales,Europe,9.91,7,5,4,2,6,531,Email Marketing,7,PayPal,Found cheaper,4,12
+SN-HWCUAJC0,Adobe_Prod_491_Version_6,Adobe_Adobe_Prod_491_Version_6_Suite,2023-08-02,C8989,6,372.16,Direct Sales,South America,9.84,3,5,4,9,2,479,Direct Search,8,Credit Card,Found cheaper,4,24
+SN-CM7UC9Q1,Adobe_Prod_744_Version_2,Adobe_Adobe_Prod_744_Version_2_Suite,2023-02-03,C8531,3,448.94,Authorized Retailer,Africa,5.5,4,4,3,8,6,371,Email Marketing,8,Credit Card,Found cheaper,9,12
+SN-35XDBF64,Adobe_Prod_251_Version_1,Adobe_Adobe_Prod_251_Version_1_Suite,2023-05-31,C9742,2,228.66,Authorized Retailer,Europe,14.05,6,4,3,1,5,419,Direct Search,10,PayPal,Found cheaper,3,12
+SN-MSY1812M,Adobe_Prod_88_Version_2,Adobe_Adobe_Prod_88_Version_2_Suite,2023-07-02,C9988,4,436.15,Authorized Retailer,Europe,13.6,8,5,5,1,2,368,Direct Search,9,Credit Card,Found cheaper,5,24
+Sn-Y8WWGJPK,A0H8I6,Adobe_A0H8I6_Suite,2023-03-28,C2755,9,74.94,Unknown Vendor,North America,23.42,15,3,10,3,14,329,Word of Mouth,5,Cryptocurrency,Product malfunction,12,6
+SN-1ZEJMQZP,Adobe_Prod_914_Version_6,Adobe_Adobe_Prod_914_Version_6_Suite,2023-11-06,C1271,3,466.73,Direct Sales,South America,7.82,7,4,3,1,4,567,Email Marketing,10,Credit Card,Other,7,24
+SN-J00483VK,Adobe_Prod_429_Version_4,Adobe_Adobe_Prod_429_Version_4_Suite,2023-01-15,C7539,8,449.94,Authorized Retailer,Africa,10.69,5,4,5,2,7,644,Direct Search,9,Credit Card,Other,9,12
+SN-LQ22PZHF,Adobe_Prod_649_Version_6,Adobe_Adobe_Prod_649_Version_6_Suite,2023-11-05,C5528,3,349.08,Direct Sales,North America,12.19,6,4,3,9,5,611,Direct Search,10,Credit Card,Found cheaper,8,24
+Sn-ARUEGAF1,FJWGK4,Adobe_FJWGK4_Suite,2023-02-27,C6045,5,95.1,Unknown Vendor,Asia,20.81,13,1,14,9,13,55,Social Media,3,Cryptocurrency,Not as described,13,6
+SN-S14R7PJP,Adobe_Prod_774_Version_7,Adobe_Adobe_Prod_774_Version_7_Suite,2023-05-20,C4863,1,243.86,Direct Sales,Europe,5.37,7,5,3,1,1,641,Email Marketing,9,Credit Card,Found cheaper,1,12
+SNCTDYV8R3Z,E8KPBY,Adobe_E8KPBY_Suite,2023-11-05,C4965,4,91.82,Unknown Vendor,North America,27.62,17,1,12,8,7,77,Social Media,3,Cryptocurrency,Other,15,6
+SNIQ1I0PAE0,45PO32,Adobe_45PO32_Suite,2023-02-18,C4195,9,66.3,Third-party Retailer,Africa,21.52,11,1,12,7,4,342,Social Media,5,Cryptocurrency,Product malfunction,11,6
+SN-S20GYME3,Adobe_Prod_278_Version_10,Adobe_Adobe_Prod_278_Version_10_Suite,2023-11-20,C7767,1,253.57,Authorized Retailer,North America,14.59,7,4,2,1,3,371,Email Marketing,8,Credit Card,Found cheaper,3,24
+SN-83MWY83M,Adobe_Prod_188_Version_10,Adobe_Adobe_Prod_188_Version_10_Suite,2023-07-05,C6521,8,222.96,Direct Sales,Europe,14.89,10,4,5,3,3,401,Email Marketing,10,PayPal,Other,7,24
+Sn-KAATW957,1OJKNX,Adobe_1OJKNX_Suite,2023-05-02,C9326,9,75.24,Unknown Vendor,South America,25.05,15,2,18,8,12,89,Social Media,2,Cryptocurrency,Product malfunction,17,6
+Sn-VUAKOWJA,SLR437,Adobe_SLR437_Suite,2023-07-14,C2827,7,105.0,Unknown Vendor,Europe,23.25,10,1,12,8,7,161,Social Media,1,Cryptocurrency,Product malfunction,18,6
+SN4Z7FIVL9Q,JZ2MI5,Adobe_JZ2MI5_Suite,2023-04-07,C2216,2,54.33,Third-party Retailer,South America,25.34,18,1,12,3,11,207,Social Media,2,Cryptocurrency,Not as described,12,6
+SN-HO5YUJYP,Adobe_Prod_582_Version_7,Adobe_Adobe_Prod_582_Version_7_Suite,2023-06-30,C7558,3,308.78,Authorized Retailer,South America,12.45,5,5,2,2,1,572,Email Marketing,7,Credit Card,Found cheaper,5,24
+SN-I8QZZZ48,Adobe_Prod_690_Version_1,Adobe_Adobe_Prod_690_Version_1_Suite,2023-03-02,C1969,2,336.0,Direct Sales,South America,6.78,2,5,4,3,3,706,Direct Search,8,PayPal,Other,5,12
+SN-JBOUSAH2,Adobe_Prod_528_Version_9,Adobe_Adobe_Prod_528_Version_9_Suite,2023-02-02,C8990,10,456.59,Authorized Retailer,Africa,13.1,8,5,4,7,1,487,Email Marketing,6,PayPal,Other,4,12
+SNPDDHIHQJ8,RPFWVB,Adobe_RPFWVB_Suite,2023-11-26,C2626,6,101.81,Unknown Vendor,Africa,27.46,10,3,18,7,12,289,Social Media,4,Cryptocurrency,Product malfunction,14,6
+SN-RK0AKMCL,Adobe_Prod_245_Version_5,Adobe_Adobe_Prod_245_Version_5_Suite,2023-10-10,C9177,9,449.68,Direct Sales,North America,12.66,6,4,5,9,3,643,Email Marketing,6,Credit Card,Other,9,12
+SN-RRH9T53,IFQDUW,Adobe_IFQDUW_Suite,2023-01-21,C5626,8,101.32,Third-party Retailer,North America,23.14,12,2,13,3,10,352,Word of Mouth,3,Cryptocurrency,Other,11,6
+SNBMI0SRARO,TUBF8F,Adobe_TUBF8F_Suite,2023-10-09,C4413,3,136.08,Third-party Retailer,Asia,27.64,20,1,15,8,5,272,Social Media,5,Cryptocurrency,Other,10,6
+SN-75FXDBB,LEMIBB,Adobe_LEMIBB_Suite,2023-05-08,C9616,9,53.69,Unknown Vendor,Africa,29.02,12,3,14,3,8,291,Social Media,4,Cryptocurrency,Not as described,13,6
+SN-UEPD872Y,Adobe_Prod_613_Version_7,Adobe_Adobe_Prod_613_Version_7_Suite,2023-04-12,C1421,8,388.43,Authorized Retailer,South America,10.98,8,4,4,3,5,549,Direct Search,6,PayPal,Found cheaper,1,24
+Sn-MSI02SDQ,ZLBQGM,Adobe_ZLBQGM_Suite,2023-08-18,C5907,1,66.65,Third-party Retailer,South America,21.83,19,3,14,7,6,93,Social Media,3,Cryptocurrency,Not as described,16,6
+SN-0N4J0SSH,Adobe_Prod_702_Version_4,Adobe_Adobe_Prod_702_Version_4_Suite,2023-07-07,C6382,9,205.05,Direct Sales,Africa,10.91,3,5,4,3,2,370,Email Marketing,9,PayPal,Found cheaper,10,12
+SNXIXY2S9D9,WZM3J1,Adobe_WZM3J1_Suite,2023-08-09,C2545,1,122.04,Unknown Vendor,North America,21.83,14,1,13,8,1,154,Social Media,4,Cryptocurrency,Not as described,14,6
+SN-EZ2SP7D,H199JU,Adobe_H199JU_Suite,2023-02-04,C9162,1,50.34,Third-party Retailer,Europe,21.93,16,3,18,3,10,179,Word of Mouth,4,Cryptocurrency,Not as described,17,6
+Sn-M16JJPF8,HHFOZG,Adobe_HHFOZG_Suite,2023-12-23,C2646,1,135.39,Third-party Retailer,North America,23.02,12,2,13,7,10,82,Word of Mouth,1,Cryptocurrency,Not as described,11,6
+SN-7J2Q33I2,Adobe_Prod_661_Version_7,Adobe_Adobe_Prod_661_Version_7_Suite,2023-02-22,C8183,5,440.3,Direct Sales,Asia,5.68,7,5,4,7,1,698,Direct Search,8,PayPal,Found cheaper,6,24
+SN-EA10YRLT,Adobe_Prod_802_Version_7,Adobe_Adobe_Prod_802_Version_7_Suite,2023-01-02,C9569,6,476.38,Direct Sales,Europe,5.06,7,4,3,9,4,474,Email Marketing,10,Credit Card,Found cheaper,5,24
+SN-8WVA7IDS,Adobe_Prod_71_Version_4,Adobe_Adobe_Prod_71_Version_4_Suite,2023-04-27,C1317,8,369.48,Authorized Retailer,South America,7.64,10,5,4,2,4,576,Direct Search,6,PayPal,Other,4,24
+SN-AYJ4358,PXJSIC,Adobe_PXJSIC_Suite,2023-06-26,C1768,6,90.56,Third-party Retailer,Asia,21.0,12,2,10,3,7,218,Social Media,5,Cryptocurrency,Not as described,17,6
+SN-C90XV59H,Adobe_Prod_315_Version_4,Adobe_Adobe_Prod_315_Version_4_Suite,2023-01-04,C2852,9,451.58,Direct Sales,Africa,12.02,9,4,5,2,3,681,Direct Search,7,PayPal,Other,2,12
+SN-3PET0GLH,Adobe_Prod_633_Version_3,Adobe_Adobe_Prod_633_Version_3_Suite,2023-03-19,C1187,3,251.29,Direct Sales,North America,9.15,2,5,5,3,3,690,Email Marketing,9,PayPal,Other,4,12
+SNNIQ9ZDO2I,6ZJATS,Adobe_6ZJATS_Suite,2023-05-01,C9659,8,97.23,Third-party Retailer,Europe,28.86,13,2,20,9,15,112,Social Media,4,Cryptocurrency,Not as described,16,6
+SN-GG1M2G8I,Adobe_Prod_97_Version_1,Adobe_Adobe_Prod_97_Version_1_Suite,2023-03-25,C5686,8,204.55,Direct Sales,Europe,5.97,1,4,4,9,1,727,Direct Search,7,PayPal,Other,1,12
+SN3OQAMAFEA,HODPG3,Adobe_HODPG3_Suite,2023-10-09,C6461,6,110.93,Third-party Retailer,Europe,23.3,17,3,10,2,14,119,Social Media,4,Cryptocurrency,Not as described,13,6
+SN-ETOCYT2A,Adobe_Prod_186_Version_4,Adobe_Adobe_Prod_186_Version_4_Suite,2023-06-15,C9540,6,338.39,Authorized Retailer,South America,14.87,6,4,5,8,6,409,Direct Search,7,PayPal,Found cheaper,6,24
+Sn-9YU9LZHK,JJGFCU,Adobe_JJGFCU_Suite,2023-06-14,C1890,9,93.45,Unknown Vendor,Europe,22.8,17,2,20,3,4,270,Social Media,5,Cryptocurrency,Not as described,13,6
+SND70MBZYA1,XHP9HH,Adobe_XHP9HH_Suite,2023-03-17,C9022,5,103.12,Third-party Retailer,Africa,29.66,19,3,18,1,6,119,Social Media,1,Cryptocurrency,Product malfunction,18,6
+Sn-TWQ0X8OW,D7NYNE,Adobe_D7NYNE_Suite,2023-10-14,C3678,2,136.78,Unknown Vendor,North America,26.88,19,1,12,3,5,156,Word of Mouth,2,Cryptocurrency,Not as described,14,6
+Sn-6KJEIXGS,FZJ3UR,Adobe_FZJ3UR_Suite,2023-02-18,C3233,3,75.35,Unknown Vendor,Africa,25.45,13,2,16,8,4,59,Social Media,4,Cryptocurrency,Other,11,6
+Sn-2ZJ6444D,JIC7KW,Adobe_JIC7KW_Suite,2023-01-07,C1125,7,147.79,Unknown Vendor,South America,23.16,12,3,16,2,11,339,Social Media,1,Cryptocurrency,Not as described,20,6
+SN-F1XJH149,Adobe_Prod_131_Version_4,Adobe_Adobe_Prod_131_Version_4_Suite,2023-09-27,C4875,7,427.24,Authorized Retailer,North America,7.21,8,4,4,3,1,396,Direct Search,8,Credit Card,Other,1,12
+SN-05UB8QBD,Adobe_Prod_224_Version_1,Adobe_Adobe_Prod_224_Version_1_Suite,2023-09-15,C6939,3,462.45,Authorized Retailer,South America,5.36,4,5,5,8,1,660,Direct Search,8,PayPal,Other,6,12
+SN-1FSORU2,VFCV11,Adobe_VFCV11_Suite,2023-02-25,C8300,4,106.56,Unknown Vendor,Africa,26.47,16,3,19,8,7,162,Social Media,1,Cryptocurrency,Other,17,6
+SN-ZZFJKJZ,GUDV8G,Adobe_GUDV8G_Suite,2023-03-31,C8198,1,137.44,Third-party Retailer,South America,26.21,13,3,10,1,8,350,Social Media,1,Cryptocurrency,Not as described,10,6
+SN-9SUJJGW5,Adobe_Prod_234_Version_8,Adobe_Adobe_Prod_234_Version_8_Suite,2023-09-17,C1675,1,205.46,Direct Sales,Africa,5.98,8,5,5,2,2,391,Email Marketing,7,PayPal,Other,5,24
+SN-MGEF46U4,Adobe_Prod_991_Version_9,Adobe_Adobe_Prod_991_Version_9_Suite,2023-08-31,C1225,6,403.05,Direct Sales,Africa,13.84,4,4,1,2,4,381,Email Marketing,8,Credit Card,Found cheaper,5,12
+SN-A3GUUXR,780QQY,Adobe_780QQY_Suite,2023-08-24,C1937,3,96.87,Authorized Retailer,Europe,26.34,20,2,16,1,1,196,Word of Mouth,3,Cryptocurrency,Product malfunction,18,6
+SNQZMU36Q5D,03CEJZ,Adobe_03CEJZ_Suite,2023-10-08,C8599,1,88.73,Third-party Retailer,Africa,24.17,15,1,13,7,6,192,Word of Mouth,5,Cryptocurrency,Other,11,6
+SN-XYLQ1ECX,Adobe_Prod_170_Version_2,Adobe_Adobe_Prod_170_Version_2_Suite,2023-02-24,C9683,10,242.49,Authorized Retailer,South America,11.03,2,5,1,7,4,450,Direct Search,7,Credit Card,Other,3,12
+SN-N243PS5H,Adobe_Prod_619_Version_5,Adobe_Adobe_Prod_619_Version_5_Suite,2023-05-15,C6848,2,476.33,Authorized Retailer,North America,6.02,3,5,2,9,3,444,Direct Search,6,Credit Card,Found cheaper,8,24
+SN-033UEMWN,Adobe_Prod_922_Version_8,Adobe_Adobe_Prod_922_Version_8_Suite,2023-02-04,C5524,8,416.3,Direct Sales,Europe,13.79,3,5,4,8,4,538,Email Marketing,10,PayPal,Other,8,24
+SNY0TQZJR6K,MN6QST,Adobe_MN6QST_Suite,2023-08-16,C3539,2,141.16,Unknown Vendor,Europe,26.93,16,1,14,1,6,229,Social Media,2,Cryptocurrency,Other,11,6
+SN-X38C5A7T,Adobe_Prod_416_Version_9,Adobe_Adobe_Prod_416_Version_9_Suite,2023-01-15,C1569,9,209.98,Direct Sales,Europe,6.75,2,5,1,7,5,391,Direct Search,10,Credit Card,Other,4,24
+SN-60QAZFD,UQ2PDS,Adobe_UQ2PDS_Suite,2023-07-09,C2995,9,140.33,Unknown Vendor,Europe,25.71,13,1,15,1,10,340,Social Media,2,Cryptocurrency,Other,12,6
+SN-GOSD1R6,BW0GZ2,Adobe_BW0GZ2_Suite,2023-07-07,C3740,10,83.21,Third-party Retailer,South America,20.5,18,2,15,2,4,31,Social Media,1,Cryptocurrency,Other,14,6
+SN-ZQLKXCJ6,Adobe_Prod_464_Version_6,Adobe_Adobe_Prod_464_Version_6_Suite,2023-10-17,C7218,8,316.24,Direct Sales,North America,9.43,8,4,1,2,7,696,Direct Search,10,Credit Card,Other,8,24
+SN-RXCPIYQD,Adobe_Prod_665_Version_6,Adobe_Adobe_Prod_665_Version_6_Suite,2023-06-03,C9613,7,445.85,Direct Sales,South America,12.84,2,4,2,8,4,383,Email Marketing,10,Credit Card,Other,3,24
+SN-TID1BGIE,Adobe_Prod_924_Version_8,Adobe_Adobe_Prod_924_Version_8_Suite,2023-02-24,C8395,7,247.65,Authorized Retailer,South America,12.65,7,4,2,2,6,470,Email Marketing,10,Credit Card,Found cheaper,7,24
+SN-DM3PSNA,Q8F2DJ,Adobe_Q8F2DJ_Suite,2023-08-08,C8144,7,76.85,Third-party Retailer,Europe,20.36,14,1,17,2,7,339,Word of Mouth,3,Cryptocurrency,Product malfunction,12,6
+SN23T3GRQ7O,PUW9N7,Adobe_PUW9N7_Suite,2023-04-28,C4509,6,74.08,Unknown Vendor,South America,23.79,11,3,13,3,9,254,Word of Mouth,5,Cryptocurrency,Other,13,6
+SN9K0ARK064,OYDQFQ,Adobe_OYDQFQ_Suite,2023-03-13,C9067,10,91.14,Third-party Retailer,North America,21.7,10,1,14,8,7,342,Social Media,5,Cryptocurrency,Not as described,13,6
+SN-CB96NOTV,Adobe_Prod_34_Version_1,Adobe_Adobe_Prod_34_Version_1_Suite,2023-04-23,C5793,5,310.64,Third-party Retailer,North America,14.42,6,5,1,3,3,684,Email Marketing,6,PayPal,Found cheaper,6,24
+SN-PHXT2YJ,APXE1B,Adobe_APXE1B_Suite,2023-12-27,C9406,1,81.75,Third-party Retailer,Europe,22.65,18,1,15,7,15,160,Social Media,4,Cryptocurrency,Product malfunction,12,6
+SN-S14PR6TE,Adobe_Prod_458_Version_4,Adobe_Adobe_Prod_458_Version_4_Suite,2023-10-29,C5389,2,245.72,Direct Sales,South America,7.19,5,4,2,8,5,390,Email Marketing,6,PayPal,Found cheaper,5,12
+SN-LV6AEBCG,Adobe_Prod_436_Version_9,Adobe_Adobe_Prod_436_Version_9_Suite,2023-07-03,C5444,9,366.01,Authorized Retailer,Europe,11.14,1,4,1,3,3,574,Direct Search,9,Credit Card,Found cheaper,9,12
+SN-WTF6DXE6,Adobe_Prod_307_Version_2,Adobe_Adobe_Prod_307_Version_2_Suite,2023-02-03,C7953,10,486.8,Authorized Retailer,Africa,9.75,5,5,5,2,2,553,Email Marketing,9,Credit Card,Found cheaper,4,12
+Sn-E33SE8SO,I52U76,Adobe_I52U76_Suite,2023-08-05,C9111,9,113.78,Unknown Vendor,South America,23.06,20,1,10,1,1,50,Word of Mouth,2,Cryptocurrency,Product malfunction,18,6
+SN-K7S37WN,Q24ZZI,Adobe_Q24ZZI_Suite,2023-08-16,C9187,5,59.17,Unknown Vendor,Africa,28.25,20,1,17,7,13,247,Social Media,5,Cryptocurrency,Other,17,6
+SN-384TN36,7A9NZA,Adobe_7A9NZA_Suite,2023-03-21,C1270,1,127.22,Unknown Vendor,Africa,21.87,11,2,18,2,13,344,Social Media,2,Cryptocurrency,Product malfunction,13,6
+SN-LQBLJPBO,Adobe_Prod_728_Version_9,Adobe_Adobe_Prod_728_Version_9_Suite,2023-03-12,C8051,7,274.37,Third-party Retailer,North America,13.78,6,5,3,2,3,623,Direct Search,7,Credit Card,Found cheaper,3,12
+SN-Z8LRNNNT,Adobe_Prod_545_Version_7,Adobe_Adobe_Prod_545_Version_7_Suite,2023-05-22,C2084,3,340.45,Authorized Retailer,Africa,13.54,7,5,2,7,5,666,Direct Search,6,Credit Card,Other,1,12
+Sn-7R0EKW84,0AHZ2O,Adobe_0AHZ2O_Suite,2023-02-14,C2357,6,79.15,Third-party Retailer,Africa,28.05,17,3,14,2,4,97,Social Media,5,Cryptocurrency,Other,17,6
+SN-TE6QUHP,GSFYIF,Adobe_GSFYIF_Suite,2023-12-02,C6980,4,137.88,Unknown Vendor,South America,22.33,11,2,10,8,9,89,Social Media,5,Cryptocurrency,Product malfunction,16,6
+SN-APON03L,MA56AY,Adobe_MA56AY_Suite,2023-01-11,C5983,1,58.06,Unknown Vendor,Asia,25.51,20,2,14,7,5,122,Word of Mouth,4,Cryptocurrency,Other,18,6
+SN-MSG0BRL,7A396S,Adobe_7A396S_Suite,2023-01-25,C2277,8,129.14,Unknown Vendor,Asia,23.78,15,3,14,7,10,142,Word of Mouth,4,Cryptocurrency,Not as described,17,6
+SN-9SS5MXGW,Adobe_Prod_29_Version_5,Adobe_Adobe_Prod_29_Version_5_Suite,2023-04-23,C2641,7,214.2,Authorized Retailer,North America,10.47,1,5,4,8,5,616,Email Marketing,9,PayPal,Other,6,12
+SN-M8IYAEB,NT6QSK,Adobe_NT6QSK_Suite,2023-05-22,C2704,1,81.11,Unknown Vendor,Europe,29.01,12,1,11,1,11,135,Word of Mouth,2,Cryptocurrency,Product malfunction,14,6
+SN26KRETG2S,975U84,Adobe_975U84_Suite,2023-12-28,C5521,5,114.86,Unknown Vendor,Africa,24.62,16,3,12,7,7,134,Word of Mouth,4,Cryptocurrency,Not as described,11,6
+Sn-MUAD8PU5,DQH6C5,Adobe_DQH6C5_Suite,2023-08-03,C5784,1,87.59,Unknown Vendor,Africa,25.17,14,2,13,3,4,259,Social Media,3,Cryptocurrency,Not as described,16,6
+SNY91QW6NOJ,64PS05,Adobe_64PS05_Suite,2023-11-16,C4580,8,110.85,Unknown Vendor,North America,24.95,14,3,14,2,6,283,Word of Mouth,1,Cryptocurrency,Other,10,6
+SN-JLFE313O,Adobe_Prod_149_Version_6,Adobe_Adobe_Prod_149_Version_6_Suite,2023-03-08,C5475,8,285.56,Direct Sales,Europe,8.48,1,5,3,3,2,537,Email Marketing,9,Credit Card,Other,7,12
+SNOGHI042F1,8GG0HM,Adobe_8GG0HM_Suite,2023-04-28,C1529,10,79.82,Unknown Vendor,South America,20.43,18,1,15,2,9,262,Social Media,5,Cryptocurrency,Other,15,6
+SN-O84PHXJR,Adobe_Prod_113_Version_2,Adobe_Adobe_Prod_113_Version_2_Suite,2023-04-04,C6572,9,365.51,Authorized Retailer,North America,13.36,6,4,4,3,6,369,Email Marketing,8,PayPal,Other,7,24
+SN-EMKCXVY0,Adobe_Prod_932_Version_1,Adobe_Adobe_Prod_932_Version_1_Suite,2023-08-24,C7502,1,384.83,Authorized Retailer,North America,6.11,8,5,1,9,1,498,Email Marketing,9,PayPal,Found cheaper,10,24
+SN-LRHC1I56,Adobe_Prod_656_Version_5,Adobe_Adobe_Prod_656_Version_5_Suite,2023-05-05,C7717,2,209.41,Direct Sales,Africa,6.21,3,4,4,2,7,697,Email Marketing,9,PayPal,Found cheaper,8,24
+SN-6I2KSOK9,Adobe_Prod_488_Version_4,Adobe_Adobe_Prod_488_Version_4_Suite,2023-06-07,C7488,6,497.86,Authorized Retailer,Africa,5.51,7,5,4,8,7,663,Email Marketing,7,PayPal,Found cheaper,5,12
+SNU8R5XE9B9,O6UMAH,Adobe_O6UMAH_Suite,2023-02-22,C3821,6,109.88,Third-party Retailer,North America,24.15,14,1,20,9,4,266,Social Media,2,Cryptocurrency,Other,20,6
+SN-RQDC4K18,Adobe_Prod_405_Version_10,Adobe_Adobe_Prod_405_Version_10_Suite,2023-10-14,C5073,4,313.44,Authorized Retailer,Africa,7.89,10,5,5,3,5,612,Direct Search,8,Credit Card,Other,9,12
+SN-DYVR4E73,Adobe_Prod_760_Version_10,Adobe_Adobe_Prod_760_Version_10_Suite,2023-05-06,C1502,8,342.87,Authorized Retailer,Asia,10.34,10,5,2,8,4,666,Email Marketing,8,Credit Card,Found cheaper,6,24
+SN1VK2MB7KE,0YTXS2,Adobe_0YTXS2_Suite,2023-05-17,C8844,7,101.1,Unknown Vendor,Africa,24.52,19,3,18,1,9,214,Word of Mouth,5,Cryptocurrency,Other,13,6
+SN-5KI3HYE,7QAVV0,Adobe_7QAVV0_Suite,2023-01-29,C1815,3,89.36,Third-party Retailer,North America,21.69,15,1,14,8,3,159,Word of Mouth,4,Cryptocurrency,Not as described,14,6
+SN-0J8NHV9G,Adobe_Prod_209_Version_5,Adobe_Adobe_Prod_209_Version_5_Suite,2023-03-24,C4060,8,267.18,Direct Sales,Europe,12.24,1,4,4,3,6,715,Email Marketing,6,PayPal,Other,10,12
+SN-BJ25KXSO,Adobe_Prod_390_Version_10,Adobe_Adobe_Prod_390_Version_10_Suite,2023-03-04,C5784,2,304.92,Authorized Retailer,Africa,12.08,8,4,2,2,4,598,Direct Search,8,PayPal,Other,3,12
+SN-9AK4538Q,Adobe_Prod_554_Version_4,Adobe_Adobe_Prod_554_Version_4_Suite,2023-04-18,C9160,3,367.88,Authorized Retailer,North America,11.51,4,5,2,9,7,672,Email Marketing,9,PayPal,Other,7,12
+SN-IRUL0J89,Adobe_Prod_686_Version_9,Adobe_Adobe_Prod_686_Version_9_Suite,2023-02-11,C1868,8,257.37,Authorized Retailer,South America,8.95,8,5,2,3,6,597,Email Marketing,6,Credit Card,Found cheaper,2,12
+SNDCAB3ZEE6,A1E8RB,Adobe_A1E8RB_Suite,2023-08-13,C2030,3,109.52,Unknown Vendor,North America,29.19,19,3,13,7,4,248,Word of Mouth,1,Cryptocurrency,Not as described,10,6
+SNUMEYUUH0A,QRH0VJ,Adobe_QRH0VJ_Suite,2023-03-22,C2201,7,77.9,Third-party Retailer,Asia,20.51,20,3,17,8,12,336,Social Media,3,Cryptocurrency,Other,19,6
+SN-Z703CTU5,Adobe_Prod_938_Version_6,Adobe_Adobe_Prod_938_Version_6_Suite,2023-08-16,C3912,5,386.71,Direct Sales,North America,13.74,7,4,3,9,6,508,Email Marketing,7,PayPal,Found cheaper,9,24
+SN-F1TTIARQ,Adobe_Prod_479_Version_2,Adobe_Adobe_Prod_479_Version_2_Suite,2023-04-19,C6680,5,281.03,Authorized Retailer,North America,14.43,6,4,3,3,3,638,Email Marketing,7,Credit Card,Found cheaper,5,24
+Sn-EY1NOLFA,2OSIAM,Adobe_2OSIAM_Suite,2023-05-16,C3161,3,84.78,Authorized Retailer,Africa,23.61,12,2,12,7,10,270,Word of Mouth,4,Cryptocurrency,Not as described,15,6
+SN-ZAN3UVW1,Adobe_Prod_642_Version_2,Adobe_Adobe_Prod_642_Version_2_Suite,2023-11-10,C9236,5,489.02,Direct Sales,North America,9.09,7,5,5,3,4,659,Direct Search,6,PayPal,Found cheaper,1,12
+Sn-MFHUB98K,DMZ3Z5,Adobe_DMZ3Z5_Suite,2023-05-09,C9553,8,132.48,Unknown Vendor,Asia,23.84,12,3,20,8,9,300,Social Media,3,Cryptocurrency,Not as described,10,6
+Sn-PO4BWF7I,2A1DSE,Adobe_2A1DSE_Suite,2023-07-20,C4271,10,112.57,Third-party Retailer,Africa,24.75,13,2,15,3,15,72,Social Media,5,Cryptocurrency,Product malfunction,13,6
+SN-KMHWSZH0,Adobe_Prod_396_Version_5,Adobe_Adobe_Prod_396_Version_5_Suite,2023-04-08,C5175,10,472.1,Authorized Retailer,Asia,12.98,3,5,2,3,4,605,Direct Search,7,PayPal,Other,7,24
+SN-RCG1H74I,Adobe_Prod_506_Version_10,Adobe_Adobe_Prod_506_Version_10_Suite,2023-10-13,C1226,8,295.98,Authorized Retailer,Asia,5.17,10,4,1,3,6,400,Email Marketing,9,PayPal,Found cheaper,10,24
+SN-SNIUAV5D,Adobe_Prod_348_Version_4,Adobe_Adobe_Prod_348_Version_4_Suite,2023-11-16,C5450,3,449.17,Unknown Vendor,Europe,10.32,6,4,3,8,4,725,Email Marketing,8,PayPal,Found cheaper,6,24
+SN-ZOLXC7Q,OTHUGN,Adobe_OTHUGN_Suite,2023-08-18,C6601,3,118.6,Unknown Vendor,Africa,28.79,13,3,13,7,6,278,Word of Mouth,1,Cryptocurrency,Other,18,6
+SN-ET3LHYA,Y2ASWW,Adobe_Y2ASWW_Suite,2023-03-01,C4743,5,117.01,Unknown Vendor,North America,27.64,20,1,18,8,9,213,Word of Mouth,3,Cryptocurrency,Other,15,6
+SN-BAHD4JG,036B83,Adobe_036B83_Suite,2023-04-25,C2534,2,131.33,Third-party Retailer,South America,22.39,13,2,10,8,14,325,Word of Mouth,2,Cryptocurrency,Other,12,6
+SN-9IJ5HW4K,Adobe_Prod_965_Version_5,Adobe_Adobe_Prod_965_Version_5_Suite,2023-01-06,C2895,8,420.19,Authorized Retailer,Asia,13.1,4,4,1,1,6,613,Direct Search,10,PayPal,Other,7,24
+SN-PVTEMB3,7QT71G,Adobe_7QT71G_Suite,2023-03-15,C8211,4,148.93,Unknown Vendor,Europe,22.95,10,1,19,8,14,331,Word of Mouth,2,Cryptocurrency,Other,13,6
+SN-84NEGJI7,Adobe_Prod_371_Version_9,Adobe_Adobe_Prod_371_Version_9_Suite,2023-02-05,C9077,7,344.64,Unknown Vendor,Africa,8.05,4,5,2,3,6,462,Email Marketing,9,PayPal,Other,9,24
+SN-TT42XMS,W952TR,Adobe_W952TR_Suite,2023-05-20,C1371,10,117.84,Third-party Retailer,North America,22.51,15,2,18,3,5,67,Social Media,4,Cryptocurrency,Not as described,20,6
+SN-PPG9D9O,867095,Adobe_867095_Suite,2023-04-07,C2488,8,133.2,Third-party Retailer,North America,27.9,14,3,12,2,13,189,Social Media,2,Cryptocurrency,Other,10,6
+SN-AXI4DW8M,Adobe_Prod_772_Version_6,Adobe_Adobe_Prod_772_Version_6_Suite,2023-01-19,C7395,3,317.41,Authorized Retailer,Asia,10.38,8,4,5,7,5,444,Direct Search,8,PayPal,Found cheaper,4,12
+Sn-D42U9JWS,2BZYJO,Adobe_2BZYJO_Suite,2023-03-06,C6697,8,73.31,Direct Sales,Africa,24.8,16,2,14,2,4,158,Social Media,3,Cryptocurrency,Other,15,6
+SN-487D0RLE,Adobe_Prod_133_Version_1,Adobe_Adobe_Prod_133_Version_1_Suite,2023-02-09,C6044,10,350.22,Unknown Vendor,Africa,10.18,1,5,1,2,5,704,Email Marketing,8,PayPal,Other,7,24
+SN-KYZNCGG,LBEHX4,Adobe_LBEHX4_Suite,2023-10-26,C1175,7,55.13,Third-party Retailer,South America,21.26,13,2,19,8,10,171,Word of Mouth,5,Cryptocurrency,Other,20,6
+Sn-78ZSMDE2,JDYP2R,Adobe_JDYP2R_Suite,2023-08-15,C6542,4,71.29,Third-party Retailer,South America,27.36,15,1,10,1,13,312,Social Media,3,Cryptocurrency,Other,12,6
+SN-D7TMQC1B,Adobe_Prod_860_Version_5,Adobe_Adobe_Prod_860_Version_5_Suite,2023-07-04,C6134,9,429.2,Authorized Retailer,North America,12.43,4,4,5,7,4,602,Email Marketing,7,PayPal,Found cheaper,8,12
+SN-GY5PGPN0,Adobe_Prod_282_Version_2,Adobe_Adobe_Prod_282_Version_2_Suite,2023-10-08,C6623,4,218.48,Authorized Retailer,Europe,13.48,5,4,4,3,2,563,Email Marketing,9,PayPal,Found cheaper,1,12
+SN-5C9JQVQO,Adobe_Prod_454_Version_2,Adobe_Adobe_Prod_454_Version_2_Suite,2023-12-01,C3826,5,460.63,Authorized Retailer,Europe,13.21,9,5,1,9,2,398,Email Marketing,8,Credit Card,Other,7,12
+SN-01MNULS4,Adobe_Prod_151_Version_2,Adobe_Adobe_Prod_151_Version_2_Suite,2023-03-26,C7548,8,321.87,Authorized Retailer,North America,12.19,2,4,2,8,1,605,Email Marketing,7,PayPal,Other,6,24
+SN-BPC277XZ,Adobe_Prod_89_Version_2,Adobe_Adobe_Prod_89_Version_2_Suite,2023-05-18,C3478,6,431.03,Direct Sales,South America,6.0,1,5,4,2,1,713,Direct Search,6,PayPal,Other,4,12
+SN-DO6M7H9S,Adobe_Prod_450_Version_2,Adobe_Adobe_Prod_450_Version_2_Suite,2023-03-31,C3760,1,451.29,Direct Sales,North America,5.94,6,5,1,8,3,422,Direct Search,6,Credit Card,Found cheaper,2,12
+SN162P07M9S,D4HJ4H,Adobe_D4HJ4H_Suite,2023-12-26,C1605,8,139.34,Third-party Retailer,South America,25.19,20,1,19,2,10,166,Social Media,1,Cryptocurrency,Other,17,6
+SN-WXYCHP7X,Adobe_Prod_703_Version_10,Adobe_Adobe_Prod_703_Version_10_Suite,2023-11-03,C8858,4,357.35,Direct Sales,Europe,9.97,5,4,2,8,1,499,Direct Search,8,PayPal,Other,7,12
+Sn-SY41RS6S,RVUU1Y,Adobe_RVUU1Y_Suite,2023-10-16,C6892,3,96.63,Unknown Vendor,North America,23.18,13,1,17,1,9,104,Social Media,4,Cryptocurrency,Other,18,6
+Sn-X2NXUY71,AW1C0T,Adobe_AW1C0T_Suite,2023-05-16,C7403,7,79.06,Third-party Retailer,Asia,29.03,11,2,15,8,11,209,Social Media,3,Cryptocurrency,Not as described,11,6
+Sn-UK91J1P2,YL45EL,Adobe_YL45EL_Suite,2023-08-22,C3379,6,128.5,Unknown Vendor,Asia,26.21,19,1,18,7,5,244,Social Media,1,Cryptocurrency,Other,18,6
+SN-9A27HITX,Adobe_Prod_821_Version_9,Adobe_Adobe_Prod_821_Version_9_Suite,2023-08-03,C6219,9,338.21,Direct Sales,Africa,10.24,10,5,2,1,3,709,Direct Search,9,Credit Card,Found cheaper,10,12
+SNRWX39F133,3IPJWK,Adobe_3IPJWK_Suite,2023-09-30,C1350,10,116.72,Third-party Retailer,Europe,21.67,20,1,12,7,4,300,Social Media,5,Cryptocurrency,Other,14,6
+SN17FVOI94Z,IENGD1,Adobe_IENGD1_Suite,2023-09-15,C3938,1,61.74,Third-party Retailer,North America,29.34,12,2,14,7,7,309,Social Media,1,Cryptocurrency,Other,11,6
+SN-VC0FVV4,3KAKSK,Adobe_3KAKSK_Suite,2023-04-09,C7484,10,114.53,Third-party Retailer,South America,21.27,10,2,14,1,9,361,Word of Mouth,1,Cryptocurrency,Product malfunction,12,6
+SNHBZ49N3FQ,B3AYWW,Adobe_B3AYWW_Suite,2023-08-31,C6736,7,126.86,Third-party Retailer,South America,26.13,11,3,16,3,7,304,Word of Mouth,1,Cryptocurrency,Not as described,19,6
+Sn-3T7WMIDW,BIGH8Y,Adobe_BIGH8Y_Suite,2023-03-30,C8352,3,84.43,Third-party Retailer,Asia,25.81,14,1,11,1,9,232,Word of Mouth,4,Cryptocurrency,Not as described,18,6
+SN-BJTKANZ,GJHMCW,Adobe_GJHMCW_Suite,2023-08-30,C1203,6,68.79,Direct Sales,Europe,22.66,18,2,10,7,6,169,Social Media,1,Cryptocurrency,Other,18,6
+SN-Z1VRAWBW,Adobe_Prod_890_Version_7,Adobe_Adobe_Prod_890_Version_7_Suite,2023-11-22,C1498,9,278.68,Authorized Retailer,South America,12.42,10,5,2,3,6,487,Direct Search,6,PayPal,Other,10,24
+SN-23WS19YN,Adobe_Prod_629_Version_2,Adobe_Adobe_Prod_629_Version_2_Suite,2023-11-22,C1753,2,235.66,Authorized Retailer,Africa,13.47,1,4,1,3,7,716,Email Marketing,6,PayPal,Found cheaper,9,24
+SNSPKLRC89E,RNX6IV,Adobe_RNX6IV_Suite,2023-08-09,C3154,5,71.94,Unknown Vendor,North America,21.31,12,2,18,3,4,97,Social Media,1,Cryptocurrency,Product malfunction,11,6
+Sn-DT0W54XS,EDS6RL,Adobe_EDS6RL_Suite,2023-09-17,C6669,5,56.02,Unknown Vendor,Europe,25.87,10,3,20,9,5,251,Word of Mouth,5,Cryptocurrency,Product malfunction,14,6
+SN-WSG9J3W8,Adobe_Prod_64_Version_10,Adobe_Adobe_Prod_64_Version_10_Suite,2023-03-17,C1351,6,295.22,Direct Sales,Asia,12.39,4,5,1,7,2,503,Email Marketing,8,PayPal,Other,6,12
+SN-F9APZQ2,E4JG6V,Adobe_E4JG6V_Suite,2023-11-25,C2855,7,50.29,Unknown Vendor,Europe,23.91,18,1,15,2,9,306,Social Media,1,Cryptocurrency,Product malfunction,15,6
+SN-5Y38FYTO,Adobe_Prod_346_Version_2,Adobe_Adobe_Prod_346_Version_2_Suite,2023-07-26,C9377,5,368.93,Direct Sales,Asia,12.56,2,5,5,9,6,665,Direct Search,8,Credit Card,Other,3,12
+SN-BSAJZUVA,Adobe_Prod_981_Version_10,Adobe_Adobe_Prod_981_Version_10_Suite,2023-04-16,C4408,10,333.87,Authorized Retailer,North America,11.2,10,4,1,1,7,418,Email Marketing,10,Credit Card,Other,5,24
+Sn-RZ8N7KHW,AO9I4F,Adobe_AO9I4F_Suite,2023-07-10,C2983,2,62.97,Direct Sales,Europe,22.68,13,2,12,8,15,281,Social Media,2,Cryptocurrency,Not as described,19,6
+SN-U4ATPQ8O,Adobe_Prod_379_Version_7,Adobe_Adobe_Prod_379_Version_7_Suite,2023-11-29,C8839,2,331.29,Unknown Vendor,Asia,7.23,3,5,2,2,2,524,Email Marketing,9,PayPal,Found cheaper,2,24
+SNULT3XKDZW,TU2TD6,Adobe_TU2TD6_Suite,2023-08-26,C8715,1,149.98,Third-party Retailer,Europe,20.12,13,1,17,3,15,157,Social Media,4,Cryptocurrency,Product malfunction,19,6
+SNRE6YJU5M3,GQ5M4W,Adobe_GQ5M4W_Suite,2023-12-23,C1807,8,126.33,Third-party Retailer,Africa,29.42,19,1,12,1,11,84,Social Media,2,Cryptocurrency,Not as described,10,6
+SNS1Q1L7WT4,4N1MSB,Adobe_4N1MSB_Suite,2023-03-28,C2832,7,122.61,Authorized Retailer,North America,26.64,14,2,15,2,4,127,Word of Mouth,4,Cryptocurrency,Product malfunction,19,6
+SN-R5KGMDH,RGMZQA,Adobe_RGMZQA_Suite,2023-04-14,C2099,8,74.45,Third-party Retailer,South America,26.34,20,2,15,9,5,193,Social Media,5,Cryptocurrency,Product malfunction,16,6
+SN24E4BRTUK,8QVD52,Adobe_8QVD52_Suite,2023-01-26,C1029,7,56.66,Unknown Vendor,Asia,21.65,12,1,10,1,10,78,Social Media,1,Cryptocurrency,Not as described,15,6
+SN-N39K8OJE,Adobe_Prod_352_Version_2,Adobe_Adobe_Prod_352_Version_2_Suite,2023-10-23,C3230,9,321.46,Authorized Retailer,North America,9.28,1,4,5,3,5,531,Direct Search,9,PayPal,Found cheaper,8,24
+SN-06YB1UW,HB4Q56,Adobe_HB4Q56_Suite,2023-06-05,C7136,4,141.97,Authorized Retailer,Africa,26.62,18,2,10,1,9,322,Word of Mouth,4,Cryptocurrency,Other,16,6
+SN-7TE5IRRQ,Adobe_Prod_524_Version_5,Adobe_Adobe_Prod_524_Version_5_Suite,2023-09-03,C6545,7,408.12,Direct Sales,North America,5.15,4,4,1,8,4,381,Direct Search,7,PayPal,Other,6,24
+SN-BMUQW20,WXG94Z,Adobe_WXG94Z_Suite,2023-12-07,C7176,1,94.47,Unknown Vendor,Europe,26.59,12,1,16,2,9,351,Word of Mouth,5,Cryptocurrency,Product malfunction,20,6
+SNMEY8JR6XT,40OJIE,Adobe_40OJIE_Suite,2023-07-08,C7200,1,55.31,Unknown Vendor,Europe,27.67,15,2,17,9,13,125,Word of Mouth,4,Cryptocurrency,Product malfunction,16,6
+SN-DURWWR78,Adobe_Prod_863_Version_3,Adobe_Adobe_Prod_863_Version_3_Suite,2023-02-20,C5364,2,293.69,Authorized Retailer,Asia,9.14,10,4,1,1,5,536,Direct Search,9,PayPal,Found cheaper,8,12
+SN-AFAZ8VMY,Adobe_Prod_223_Version_2,Adobe_Adobe_Prod_223_Version_2_Suite,2023-04-09,C6371,2,344.76,Third-party Retailer,North America,10.15,3,4,3,3,7,606,Email Marketing,9,Credit Card,Other,4,24
+SN-6ZBUKD2S,Adobe_Prod_234_Version_8,Adobe_Adobe_Prod_234_Version_8_Suite,2023-08-14,C9900,8,467.13,Authorized Retailer,North America,8.66,5,4,2,2,2,421,Direct Search,9,PayPal,Found cheaper,2,12
+SN-GJ1DKJP8,Adobe_Prod_777_Version_4,Adobe_Adobe_Prod_777_Version_4_Suite,2023-07-23,C6842,4,405.96,Third-party Retailer,South America,11.52,4,4,3,8,4,578,Direct Search,6,PayPal,Other,4,12
+Sn-FBNJIH84,RLXFXQ,Adobe_RLXFXQ_Suite,2023-09-13,C6083,7,80.82,Third-party Retailer,Europe,27.08,10,3,18,2,3,241,Social Media,5,Cryptocurrency,Not as described,10,6
+SN-7AYQ2KO,YW53M8,Adobe_YW53M8_Suite,2023-08-18,C2137,10,62.54,Unknown Vendor,Asia,28.66,16,3,11,7,7,108,Word of Mouth,3,Cryptocurrency,Not as described,12,6
+SN-JLFGD3J1,Adobe_Prod_326_Version_2,Adobe_Adobe_Prod_326_Version_2_Suite,2023-12-02,C5284,1,231.61,Direct Sales,Africa,7.41,5,4,3,9,1,678,Direct Search,10,Credit Card,Other,5,24
+SN-I96E8ZKE,Adobe_Prod_14_Version_3,Adobe_Adobe_Prod_14_Version_3_Suite,2023-05-26,C4406,7,315.36,Authorized Retailer,Asia,11.66,3,5,5,9,1,557,Email Marketing,9,Credit Card,Other,10,12
+Sn-UU1ZIMRN,U6Y1PV,Adobe_U6Y1PV_Suite,2023-08-31,C4382,2,119.25,Third-party Retailer,North America,23.03,19,2,12,9,13,357,Social Media,5,Cryptocurrency,Other,16,6
+SN-KTBPTG40,Adobe_Prod_88_Version_1,Adobe_Adobe_Prod_88_Version_1_Suite,2023-06-29,C2969,7,257.69,Authorized Retailer,North America,11.82,7,5,1,9,7,712,Email Marketing,9,Credit Card,Found cheaper,5,24
+SN-GIG5SGG8,Adobe_Prod_911_Version_8,Adobe_Adobe_Prod_911_Version_8_Suite,2023-12-31,C7703,10,425.41,Direct Sales,Asia,6.63,3,4,2,2,3,577,Direct Search,9,Credit Card,Found cheaper,9,24
+SN-WC51NCK6,Adobe_Prod_368_Version_9,Adobe_Adobe_Prod_368_Version_9_Suite,2023-07-25,C6548,9,260.53,Direct Sales,South America,7.43,5,5,2,7,5,510,Direct Search,10,Credit Card,Found cheaper,3,24
+SN-YH4G7349,Adobe_Prod_572_Version_9,Adobe_Adobe_Prod_572_Version_9_Suite,2023-09-14,C3862,8,497.44,Direct Sales,Africa,8.13,2,5,2,9,2,391,Email Marketing,7,PayPal,Other,4,12
+SN-X5QEXUI4,Adobe_Prod_908_Version_1,Adobe_Adobe_Prod_908_Version_1_Suite,2023-10-29,C5536,2,213.09,Direct Sales,Europe,11.42,8,5,2,3,4,714,Direct Search,6,PayPal,Found cheaper,4,24
+SN-PGCS2F5H,Adobe_Prod_329_Version_4,Adobe_Adobe_Prod_329_Version_4_Suite,2023-06-28,C4148,7,397.73,Direct Sales,Europe,7.37,2,4,4,2,5,603,Email Marketing,7,PayPal,Found cheaper,8,24
+SNOH2LRKZH7,K8AOLF,Adobe_K8AOLF_Suite,2023-10-07,C9991,8,117.4,Third-party Retailer,South America,22.07,19,1,18,1,7,227,Word of Mouth,4,Cryptocurrency,Product malfunction,13,6
+SN-SJI7WHKA,Adobe_Prod_186_Version_4,Adobe_Adobe_Prod_186_Version_4_Suite,2023-07-15,C2852,3,380.11,Direct Sales,North America,14.71,1,5,1,1,1,528,Email Marketing,8,Credit Card,Found cheaper,6,12
+SN-MKWV91OG,Adobe_Prod_135_Version_3,Adobe_Adobe_Prod_135_Version_3_Suite,2023-07-18,C5298,9,447.47,Direct Sales,Europe,12.8,6,4,3,7,2,623,Email Marketing,7,Credit Card,Other,8,24
+SN-HQ5ZJDQ7,Adobe_Prod_625_Version_1,Adobe_Adobe_Prod_625_Version_1_Suite,2023-07-24,C9248,10,294.89,Authorized Retailer,Africa,14.42,5,5,3,3,4,552,Direct Search,10,Credit Card,Found cheaper,5,12
+SN-ZCO22ZY0,Adobe_Prod_711_Version_1,Adobe_Adobe_Prod_711_Version_1_Suite,2023-12-19,C1841,2,246.35,Authorized Retailer,South America,9.18,4,5,1,9,2,432,Email Marketing,9,PayPal,Found cheaper,10,24
+SN-6LVLTNJ2,Adobe_Prod_573_Version_5,Adobe_Adobe_Prod_573_Version_5_Suite,2023-09-30,C6778,6,434.29,Direct Sales,South America,6.95,2,4,2,7,1,676,Direct Search,8,PayPal,Other,5,24
+SN-YNUSX52,OZCC13,Adobe_OZCC13_Suite,2023-01-05,C7930,10,83.3,Third-party Retailer,North America,27.92,13,1,14,1,2,166,Social Media,3,Cryptocurrency,Not as described,16,6
+SN-G6SIR42,D0QH4T,Adobe_D0QH4T_Suite,2023-11-30,C1923,6,75.78,Third-party Retailer,South America,21.53,15,2,17,7,15,244,Word of Mouth,1,Cryptocurrency,Other,20,6
+SNIJY3GOXJS,PAEZAI,Adobe_PAEZAI_Suite,2023-12-16,C9119,4,146.63,Unknown Vendor,South America,29.95,15,1,14,2,6,175,Social Media,2,Cryptocurrency,Product malfunction,20,6
+SN-8CDQV55P,Adobe_Prod_634_Version_6,Adobe_Adobe_Prod_634_Version_6_Suite,2023-10-09,C4932,10,338.29,Direct Sales,Asia,7.73,6,4,4,8,5,552,Email Marketing,10,Credit Card,Found cheaper,1,24
+SN-LG96RSAW,Adobe_Prod_593_Version_9,Adobe_Adobe_Prod_593_Version_9_Suite,2023-03-23,C7689,5,322.14,Direct Sales,Europe,10.13,3,4,2,2,2,690,Email Marketing,8,Credit Card,Other,5,24
+SN-OYL988U1,Adobe_Prod_432_Version_4,Adobe_Adobe_Prod_432_Version_4_Suite,2023-06-11,C8453,8,346.69,Unknown Vendor,North America,11.16,1,4,4,8,4,485,Email Marketing,7,Credit Card,Other,2,12
+SN-OTV22L39,Adobe_Prod_443_Version_6,Adobe_Adobe_Prod_443_Version_6_Suite,2023-04-22,C5501,5,498.48,Authorized Retailer,North America,6.99,3,5,2,1,1,543,Direct Search,7,PayPal,Other,6,24
+SN-QM4EJGPW,Adobe_Prod_497_Version_1,Adobe_Adobe_Prod_497_Version_1_Suite,2023-12-21,C1003,3,324.51,Direct Sales,South America,8.54,8,5,5,9,5,710,Email Marketing,8,PayPal,Other,2,12
+SN-6U2KVL7W,Adobe_Prod_856_Version_2,Adobe_Adobe_Prod_856_Version_2_Suite,2023-08-08,C2192,6,461.43,Authorized Retailer,North America,7.32,10,4,3,9,3,371,Email Marketing,6,Credit Card,Found cheaper,10,24
+SN-H73K7EW6,Adobe_Prod_447_Version_7,Adobe_Adobe_Prod_447_Version_7_Suite,2023-05-30,C9507,6,320.15,Third-party Retailer,Europe,10.89,5,5,4,9,4,485,Direct Search,7,Credit Card,Other,1,12
+SN-BLV2JT3S,Adobe_Prod_712_Version_4,Adobe_Adobe_Prod_712_Version_4_Suite,2023-11-19,C4386,3,421.96,Authorized Retailer,North America,13.73,3,5,4,2,1,498,Direct Search,8,Credit Card,Other,2,24
+SN-2CWQL60I,Adobe_Prod_42_Version_8,Adobe_Adobe_Prod_42_Version_8_Suite,2023-02-14,C6300,9,449.59,Authorized Retailer,South America,13.72,7,4,3,1,4,700,Direct Search,8,Credit Card,Found cheaper,4,24
+SN-H2R6OPS1,Adobe_Prod_897_Version_2,Adobe_Adobe_Prod_897_Version_2_Suite,2023-06-14,C6014,5,273.33,Direct Sales,North America,10.0,5,5,3,9,5,403,Email Marketing,9,Credit Card,Other,6,24
+SN-DQDYPM1Y,Adobe_Prod_554_Version_10,Adobe_Adobe_Prod_554_Version_10_Suite,2023-11-18,C3606,9,343.06,Direct Sales,Europe,6.98,1,5,2,7,4,373,Direct Search,9,Credit Card,Other,7,12
+SN-TWS4DD9,02TD6R,Adobe_02TD6R_Suite,2023-04-14,C2721,10,92.6,Third-party Retailer,South America,28.54,12,3,10,2,9,321,Word of Mouth,1,Cryptocurrency,Other,19,6
+SN-X1EXHC3W,Adobe_Prod_953_Version_2,Adobe_Adobe_Prod_953_Version_2_Suite,2023-12-04,C3273,10,296.31,Authorized Retailer,South America,14.57,8,5,4,8,1,513,Email Marketing,9,Credit Card,Found cheaper,7,24
+SN-TXIYLDEL,Adobe_Prod_122_Version_7,Adobe_Adobe_Prod_122_Version_7_Suite,2023-12-07,C7844,7,293.1,Direct Sales,Asia,9.13,4,4,5,8,6,685,Email Marketing,7,PayPal,Other,4,12
+SN-I5TIQLRF,Adobe_Prod_733_Version_5,Adobe_Adobe_Prod_733_Version_5_Suite,2023-03-27,C6614,1,486.0,Direct Sales,Africa,9.81,10,4,2,9,5,538,Direct Search,9,Credit Card,Found cheaper,3,24
+SN6BDYBMPH0,YAU0CQ,Adobe_YAU0CQ_Suite,2023-02-05,C7030,8,106.89,Third-party Retailer,Africa,24.29,13,1,14,7,15,232,Social Media,1,Cryptocurrency,Other,20,6
+Sn-O60TQEE2,D2T8LY,Adobe_D2T8LY_Suite,2023-02-21,C5580,6,85.61,Unknown Vendor,North America,23.98,16,3,20,3,10,335,Word of Mouth,2,Cryptocurrency,Not as described,13,6
+SN-Z60VG5A,ZJKY9Y,Adobe_ZJKY9Y_Suite,2023-05-19,C5364,8,134.94,Third-party Retailer,Europe,28.78,12,1,19,7,9,42,Word of Mouth,2,Cryptocurrency,Product malfunction,18,6
+Sn-QAYBY9D6,WIZL0T,Adobe_WIZL0T_Suite,2023-02-04,C3947,3,147.61,Unknown Vendor,Asia,27.63,10,2,12,2,6,193,Social Media,3,Cryptocurrency,Other,20,6
+SNVCL9ZLVWI,QN6Q5C,Adobe_QN6Q5C_Suite,2023-10-28,C8136,3,94.84,Direct Sales,Asia,23.54,11,1,11,9,9,137,Social Media,2,Cryptocurrency,Product malfunction,13,6
+SNVUE5JTICQ,PCMUQX,Adobe_PCMUQX_Suite,2023-09-15,C3303,9,81.51,Third-party Retailer,Africa,25.11,18,1,19,2,15,96,Social Media,5,Cryptocurrency,Other,10,6
+SN-MP2L9UWK,Adobe_Prod_572_Version_4,Adobe_Adobe_Prod_572_Version_4_Suite,2023-10-29,C5505,9,207.08,Authorized Retailer,North America,10.2,3,4,5,2,4,637,Direct Search,7,PayPal,Found cheaper,2,12
+SN-IRJWCGX6,Adobe_Prod_455_Version_10,Adobe_Adobe_Prod_455_Version_10_Suite,2023-04-14,C9481,9,335.97,Authorized Retailer,South America,11.09,3,5,1,1,2,730,Email Marketing,8,Credit Card,Other,7,12
+SN-RPS4Z32B,Adobe_Prod_323_Version_8,Adobe_Adobe_Prod_323_Version_8_Suite,2023-11-12,C6582,5,288.18,Authorized Retailer,Asia,13.83,3,4,1,7,7,632,Direct Search,9,PayPal,Other,3,12
+Sn-6JKKZIZE,K9354W,Adobe_K9354W_Suite,2023-11-11,C6532,3,115.27,Third-party Retailer,Africa,28.0,19,1,15,2,6,227,Word of Mouth,2,Cryptocurrency,Not as described,17,6
+SN7UDF0R0V0,5GSBDE,Adobe_5GSBDE_Suite,2023-05-14,C3140,5,137.94,Unknown Vendor,Asia,22.38,13,3,13,7,5,120,Social Media,2,Cryptocurrency,Other,11,6
+SN-7WKZ43V1,Adobe_Prod_54_Version_3,Adobe_Adobe_Prod_54_Version_3_Suite,2023-03-07,C3172,6,392.52,Authorized Retailer,Asia,5.29,2,5,5,9,1,582,Direct Search,9,Credit Card,Found cheaper,5,12
+SN-OWR3AL2A,Adobe_Prod_390_Version_8,Adobe_Adobe_Prod_390_Version_8_Suite,2023-10-05,C5869,1,234.13,Authorized Retailer,North America,10.66,1,5,3,2,7,671,Email Marketing,9,PayPal,Found cheaper,10,24
+SN-LMVNMN39,Adobe_Prod_18_Version_5,Adobe_Adobe_Prod_18_Version_5_Suite,2023-08-27,C6867,8,377.0,Direct Sales,Africa,12.55,8,4,5,2,7,434,Email Marketing,8,Credit Card,Found cheaper,4,24
+Sn-KFCKRPL5,6WJBWT,Adobe_6WJBWT_Suite,2023-02-13,C6112,1,116.89,Third-party Retailer,Europe,25.75,14,2,11,2,13,234,Social Media,1,Cryptocurrency,Other,12,6
+SN-IJVDGNQ4,Adobe_Prod_538_Version_3,Adobe_Adobe_Prod_538_Version_3_Suite,2023-01-23,C1149,8,363.76,Authorized Retailer,Africa,10.25,4,5,3,2,2,617,Email Marketing,8,PayPal,Other,6,12
+SN-XU8FSZ6,QRCUTO,Adobe_QRCUTO_Suite,2023-11-22,C6601,6,96.77,Third-party Retailer,South America,21.78,13,3,14,7,11,70,Social Media,4,Cryptocurrency,Other,17,6
+Sn-C2CDXEY3,49RXQB,Adobe_49RXQB_Suite,2023-01-17,C6003,2,53.45,Unknown Vendor,Asia,29.39,11,1,18,3,7,102,Social Media,3,Cryptocurrency,Product malfunction,13,6
+SND0TAY0BFS,D2SVSX,Adobe_D2SVSX_Suite,2023-10-23,C2476,3,105.38,Third-party Retailer,Asia,28.99,17,1,20,7,1,110,Social Media,3,Cryptocurrency,Product malfunction,18,6
+SN-FWLMJC98,Adobe_Prod_132_Version_5,Adobe_Adobe_Prod_132_Version_5_Suite,2023-04-25,C7406,10,303.98,Direct Sales,South America,6.32,9,5,1,1,7,628,Direct Search,9,Credit Card,Found cheaper,1,24
+SN-ASZYVM6B,Adobe_Prod_131_Version_1,Adobe_Adobe_Prod_131_Version_1_Suite,2023-07-12,C4204,7,355.97,Direct Sales,South America,6.45,10,4,1,1,3,594,Direct Search,9,Credit Card,Found cheaper,2,24
+Sn-YB6FVNZJ,EU1E6Y,Adobe_EU1E6Y_Suite,2023-03-14,C1422,7,56.79,Third-party Retailer,South America,22.39,15,1,11,1,14,161,Word of Mouth,3,Cryptocurrency,Not as described,16,6
+SNDL9MIS40D,AMRN8Q,Adobe_AMRN8Q_Suite,2023-10-13,C6635,3,53.55,Unknown Vendor,South America,29.55,12,1,13,8,6,237,Social Media,5,Cryptocurrency,Product malfunction,11,6
+Sn-582NND1A,RKLL6V,Adobe_RKLL6V_Suite,2023-06-04,C5143,9,87.1,Third-party Retailer,South America,25.54,12,3,18,7,7,211,Social Media,1,Cryptocurrency,Other,14,6
+SNVWN9UDITM,9P23AR,Adobe_9P23AR_Suite,2023-12-26,C6583,2,124.49,Unknown Vendor,Europe,26.35,18,1,18,1,13,335,Word of Mouth,4,Cryptocurrency,Not as described,11,6
+SNH96GITN4Q,BEA429,Adobe_BEA429_Suite,2023-11-17,C5789,6,96.4,Unknown Vendor,North America,26.96,12,1,14,1,8,360,Social Media,4,Cryptocurrency,Not as described,19,6
+Sn-2RMJY46W,1Y26SW,Adobe_1Y26SW_Suite,2023-02-07,C9272,5,114.4,Unknown Vendor,Africa,26.27,15,3,18,7,2,283,Word of Mouth,3,Cryptocurrency,Not as described,14,6
+SN-J34Q6QFP,Adobe_Prod_519_Version_2,Adobe_Adobe_Prod_519_Version_2_Suite,2023-02-08,C1562,8,429.41,Direct Sales,North America,14.37,3,4,2,8,1,678,Email Marketing,10,PayPal,Other,9,12
+SN-T4DAQZS3,Adobe_Prod_829_Version_8,Adobe_Adobe_Prod_829_Version_8_Suite,2023-10-06,C8808,1,298.39,Authorized Retailer,Africa,8.27,7,4,2,2,7,514,Direct Search,8,Credit Card,Other,9,12
+SN-7NLJGTO4,Adobe_Prod_685_Version_1,Adobe_Adobe_Prod_685_Version_1_Suite,2023-12-30,C7433,2,389.9,Authorized Retailer,Asia,7.81,5,5,3,8,6,709,Email Marketing,6,PayPal,Found cheaper,7,24
+SN-NPR7VNO,GZUT84,Adobe_GZUT84_Suite,2023-06-04,C2907,4,64.72,Unknown Vendor,Asia,25.97,20,1,20,1,15,112,Word of Mouth,2,Cryptocurrency,Product malfunction,13,6
+SN-VRRGN5V,5KJ60U,Adobe_5KJ60U_Suite,2023-06-07,C5050,8,83.41,Third-party Retailer,Asia,20.34,15,1,17,2,4,247,Word of Mouth,1,Cryptocurrency,Product malfunction,13,6
+SNX74AXRILI,LD771W,Adobe_LD771W_Suite,2023-04-18,C9458,3,112.3,Third-party Retailer,South America,22.21,19,2,11,3,11,358,Social Media,5,Cryptocurrency,Not as described,20,6
+SN-GX063VEE,Adobe_Prod_212_Version_6,Adobe_Adobe_Prod_212_Version_6_Suite,2023-02-12,C8194,10,468.69,Direct Sales,South America,11.65,6,4,1,8,3,365,Email Marketing,8,PayPal,Found cheaper,5,12
+SN-GRJK4C7R,Adobe_Prod_106_Version_3,Adobe_Adobe_Prod_106_Version_3_Suite,2023-11-22,C5630,6,433.66,Authorized Retailer,Asia,10.98,8,4,4,2,6,526,Email Marketing,7,Credit Card,Found cheaper,9,12
+Sn-RMASO31J,A5816F,Adobe_A5816F_Suite,2023-05-31,C3073,3,96.99,Third-party Retailer,South America,21.58,18,3,12,8,4,267,Social Media,2,Cryptocurrency,Not as described,11,6
+Sn-UV6K97DS,S7XNOJ,Adobe_S7XNOJ_Suite,2023-12-23,C4200,3,78.87,Unknown Vendor,South America,23.42,15,3,17,9,5,202,Social Media,3,Cryptocurrency,Not as described,12,6
+SN-EEGO4NH3,Adobe_Prod_153_Version_1,Adobe_Adobe_Prod_153_Version_1_Suite,2023-01-28,C8436,10,401.13,Direct Sales,North America,11.79,5,5,4,9,5,647,Direct Search,9,PayPal,Other,6,12
+SN-0NM6G685,Adobe_Prod_579_Version_5,Adobe_Adobe_Prod_579_Version_5_Suite,2023-08-31,C9949,1,251.86,Direct Sales,Africa,6.05,5,5,5,3,4,475,Email Marketing,10,PayPal,Other,6,12
+Sn-5AHFTDAB,RSBCY3,Adobe_RSBCY3_Suite,2023-02-13,C4415,8,65.08,Third-party Retailer,Africa,28.68,13,3,14,8,2,72,Word of Mouth,1,Cryptocurrency,Not as described,15,6
+SNO0GASMSTG,4CY8C5,Adobe_4CY8C5_Suite,2023-04-06,C9219,4,74.47,Unknown Vendor,Europe,28.55,16,1,20,2,14,50,Word of Mouth,3,Cryptocurrency,Product malfunction,17,6
+SN30JDNK6BY,8FDAG3,Adobe_8FDAG3_Suite,2023-11-13,C5460,2,117.25,Unknown Vendor,South America,23.7,20,1,19,9,3,101,Word of Mouth,4,Cryptocurrency,Other,16,6
+SN-3W7MKQW6,Adobe_Prod_416_Version_5,Adobe_Adobe_Prod_416_Version_5_Suite,2023-09-08,C3404,1,230.54,Authorized Retailer,Africa,9.44,4,4,5,3,6,488,Direct Search,10,PayPal,Other,10,24
+Sn-Q320A436,U2TQ4L,Adobe_U2TQ4L_Suite,2023-05-21,C6607,8,90.66,Third-party Retailer,Europe,23.89,15,1,10,8,11,102,Social Media,5,Cryptocurrency,Other,13,6
+SN-YG237U0Q,Adobe_Prod_780_Version_10,Adobe_Adobe_Prod_780_Version_10_Suite,2023-05-13,C7014,2,216.01,Authorized Retailer,South America,10.7,4,5,5,1,2,450,Email Marketing,6,PayPal,Found cheaper,7,12
+Sn-2SXX3FQT,HFUJMP,Adobe_HFUJMP_Suite,2023-02-05,C5634,6,63.11,Third-party Retailer,Africa,26.32,16,1,13,3,6,105,Social Media,3,Cryptocurrency,Product malfunction,11,6
+SN-C7GJCRMD,Adobe_Prod_527_Version_8,Adobe_Adobe_Prod_527_Version_8_Suite,2023-12-12,C4473,1,270.88,Direct Sales,Africa,13.98,3,5,1,3,4,576,Direct Search,6,PayPal,Found cheaper,8,12
+SN-C5OQKDRS,Adobe_Prod_355_Version_8,Adobe_Adobe_Prod_355_Version_8_Suite,2023-07-31,C7654,4,453.38,Third-party Retailer,Asia,14.37,2,5,2,1,7,700,Direct Search,10,Credit Card,Found cheaper,10,12
+SN-E2D09OVE,Adobe_Prod_687_Version_7,Adobe_Adobe_Prod_687_Version_7_Suite,2023-08-16,C5904,2,428.11,Authorized Retailer,Africa,9.91,1,5,4,8,4,524,Email Marketing,8,PayPal,Other,3,12
+SN-6MFL33IA,Adobe_Prod_78_Version_4,Adobe_Adobe_Prod_78_Version_4_Suite,2023-12-04,C4949,4,463.81,Unknown Vendor,Asia,5.37,5,5,2,2,4,378,Email Marketing,7,PayPal,Found cheaper,2,12
+SNYCJART5OR,9ZJ80C,Adobe_9ZJ80C_Suite,2023-01-20,C9129,2,105.28,Unknown Vendor,North America,23.29,16,2,10,1,14,151,Social Media,4,Cryptocurrency,Product malfunction,20,6
+Sn-LJ0KE58I,42QOWU,Adobe_42QOWU_Suite,2023-03-19,C5468,5,149.95,Third-party Retailer,Europe,22.24,12,2,12,3,11,261,Word of Mouth,2,Cryptocurrency,Product malfunction,18,6
+SN-KK5KLFV,0VDLXR,Adobe_0VDLXR_Suite,2023-01-11,C7796,6,146.69,Third-party Retailer,Africa,21.52,16,3,13,1,1,241,Social Media,4,Cryptocurrency,Product malfunction,10,6
+SN-DO796U6Y,Adobe_Prod_837_Version_2,Adobe_Adobe_Prod_837_Version_2_Suite,2023-10-23,C8850,10,331.85,Authorized Retailer,Asia,10.97,3,5,4,1,7,536,Direct Search,10,PayPal,Other,6,12
+SN-QIAYE0PS,Adobe_Prod_634_Version_3,Adobe_Adobe_Prod_634_Version_3_Suite,2023-02-12,C1872,1,255.5,Direct Sales,Asia,6.64,2,5,5,8,2,512,Email Marketing,8,PayPal,Other,7,24
+SN-BXZH7PX2,Adobe_Prod_993_Version_8,Adobe_Adobe_Prod_993_Version_8_Suite,2023-10-09,C7011,5,478.84,Direct Sales,South America,7.31,2,4,4,3,6,428,Email Marketing,6,Credit Card,Found cheaper,4,24
+SN-8N65JD5V,Adobe_Prod_629_Version_9,Adobe_Adobe_Prod_629_Version_9_Suite,2023-02-01,C4068,8,413.78,Authorized Retailer,South America,8.21,6,5,1,1,7,540,Direct Search,6,PayPal,Found cheaper,4,12
+SN-2R616KUZ,Adobe_Prod_662_Version_9,Adobe_Adobe_Prod_662_Version_9_Suite,2023-08-04,C2987,3,447.29,Direct Sales,Africa,7.76,4,4,2,7,5,447,Email Marketing,8,PayPal,Found cheaper,1,24
+SN-LOPAO8HE,Adobe_Prod_80_Version_5,Adobe_Adobe_Prod_80_Version_5_Suite,2023-08-16,C3859,4,484.22,Authorized Retailer,Africa,13.18,2,5,1,8,4,411,Email Marketing,9,PayPal,Other,9,24
+SNEI0EY08IP,HUVRNL,Adobe_HUVRNL_Suite,2023-07-13,C2117,6,123.39,Unknown Vendor,Africa,25.99,13,1,14,7,9,30,Word of Mouth,4,Cryptocurrency,Product malfunction,10,6
+SN-FUGJZ69,JDEE2T,Adobe_JDEE2T_Suite,2023-07-10,C2672,7,77.19,Third-party Retailer,Asia,24.46,14,3,14,7,1,90,Social Media,5,Cryptocurrency,Other,17,6
+SN-6PMDJT2,EDSYR0,Adobe_EDSYR0_Suite,2023-02-13,C4814,4,109.56,Unknown Vendor,Europe,28.53,13,2,20,8,8,118,Word of Mouth,3,Cryptocurrency,Product malfunction,15,6
+SN-XO9GOPRS,Adobe_Prod_584_Version_8,Adobe_Adobe_Prod_584_Version_8_Suite,2023-05-09,C8663,8,350.52,Authorized Retailer,Africa,9.29,2,5,2,9,1,678,Email Marketing,7,Credit Card,Found cheaper,2,12
+SN-2Y8NTKBG,Adobe_Prod_232_Version_10,Adobe_Adobe_Prod_232_Version_10_Suite,2023-10-24,C9994,8,276.32,Direct Sales,Africa,5.36,8,5,2,3,4,692,Email Marketing,7,PayPal,Found cheaper,1,12
+SN-XX3EG685,Adobe_Prod_299_Version_8,Adobe_Adobe_Prod_299_Version_8_Suite,2023-01-03,C3146,1,258.52,Direct Sales,Asia,7.3,5,4,3,1,2,634,Direct Search,9,PayPal,Other,6,24
+SN-V8FDHW5D,Adobe_Prod_615_Version_2,Adobe_Adobe_Prod_615_Version_2_Suite,2023-10-06,C1493,5,324.17,Direct Sales,South America,6.32,7,4,5,9,5,634,Direct Search,6,PayPal,Other,8,12
+SN-JKX5L1OW,Adobe_Prod_689_Version_7,Adobe_Adobe_Prod_689_Version_7_Suite,2023-11-26,C2227,7,423.8,Direct Sales,Africa,11.02,9,5,5,9,4,409,Email Marketing,10,Credit Card,Other,6,12
+SN2349IDI7U,ENF8RA,Adobe_ENF8RA_Suite,2023-10-20,C9350,10,135.38,Third-party Retailer,South America,27.88,15,2,16,8,11,218,Word of Mouth,1,Cryptocurrency,Not as described,15,6
+Sn-2VBJK51F,B1EPGN,Adobe_B1EPGN_Suite,2023-10-06,C9290,4,65.44,Third-party Retailer,Europe,25.75,18,1,11,3,11,350,Social Media,2,Cryptocurrency,Product malfunction,19,6
+SN-EIAPHYTI,Adobe_Prod_390_Version_1,Adobe_Adobe_Prod_390_Version_1_Suite,2023-10-24,C8611,5,491.67,Third-party Retailer,Asia,10.97,4,5,1,9,2,727,Direct Search,6,Credit Card,Other,7,12
+SN-00DZH0AU,Adobe_Prod_296_Version_8,Adobe_Adobe_Prod_296_Version_8_Suite,2023-06-14,C9256,5,393.41,Authorized Retailer,North America,7.37,5,4,5,7,5,499,Email Marketing,7,Credit Card,Other,10,12
+SNX8R6FLNHC,R9OSYN,Adobe_R9OSYN_Suite,2023-02-22,C6326,5,58.1,Third-party Retailer,Europe,21.17,15,1,11,3,10,209,Social Media,3,Cryptocurrency,Product malfunction,18,6
+SN-QLPI0NOV,Adobe_Prod_699_Version_2,Adobe_Adobe_Prod_699_Version_2_Suite,2023-07-05,C3694,9,355.87,Authorized Retailer,Asia,7.36,6,4,5,8,3,588,Direct Search,6,Credit Card,Other,10,12
+SNSZQ7P8EYR,AZXHJU,Adobe_AZXHJU_Suite,2023-07-31,C1213,1,55.89,Unknown Vendor,South America,28.41,16,2,17,7,1,106,Social Media,1,Cryptocurrency,Other,20,6
+SNZZQIQZ04E,09RL7H,Adobe_09RL7H_Suite,2023-12-08,C5660,2,79.24,Third-party Retailer,North America,25.29,16,2,20,3,8,264,Word of Mouth,5,Cryptocurrency,Product malfunction,20,6
+SN-K0HX3070,Adobe_Prod_206_Version_5,Adobe_Adobe_Prod_206_Version_5_Suite,2023-11-15,C4916,5,316.67,Direct Sales,South America,9.11,4,4,4,2,4,371,Direct Search,9,Credit Card,Found cheaper,1,12
+SN-OD5YCK9S,Adobe_Prod_776_Version_4,Adobe_Adobe_Prod_776_Version_4_Suite,2023-12-20,C4364,1,471.28,Authorized Retailer,Asia,9.35,3,5,5,1,2,626,Direct Search,6,Credit Card,Other,1,12
+Sn-WO13XHPH,IA3E39,Adobe_IA3E39_Suite,2023-04-30,C8582,9,106.28,Third-party Retailer,Africa,21.98,13,1,14,2,9,212,Word of Mouth,1,Cryptocurrency,Other,14,6
+SN4SS8K0BDW,EGN5F3,Adobe_EGN5F3_Suite,2023-01-20,C3985,10,90.16,Direct Sales,Africa,27.55,19,2,14,3,7,194,Social Media,4,Cryptocurrency,Not as described,20,6
+SN-K92G99UJ,Adobe_Prod_888_Version_10,Adobe_Adobe_Prod_888_Version_10_Suite,2023-01-15,C1102,9,466.67,Authorized Retailer,Asia,8.71,1,5,4,9,5,391,Direct Search,6,PayPal,Other,3,12
+SN-C4PUDL5G,Adobe_Prod_945_Version_6,Adobe_Adobe_Prod_945_Version_6_Suite,2023-07-01,C8352,5,389.63,Direct Sales,North America,5.58,8,5,3,7,2,527,Email Marketing,9,Credit Card,Found cheaper,5,12
+SN-Q80FC5N8,Adobe_Prod_743_Version_7,Adobe_Adobe_Prod_743_Version_7_Suite,2023-05-26,C2524,5,335.6,Direct Sales,Africa,7.85,2,5,2,9,2,666,Email Marketing,7,Credit Card,Found cheaper,9,24
+SN-HN3R7ZFA,Adobe_Prod_594_Version_8,Adobe_Adobe_Prod_594_Version_8_Suite,2023-09-26,C5092,4,312.48,Authorized Retailer,Asia,14.32,10,4,1,2,4,562,Email Marketing,7,Credit Card,Found cheaper,4,12
+SN-JQDKME9,HP69BZ,Adobe_HP69BZ_Suite,2023-02-11,C6512,7,115.59,Direct Sales,Europe,21.15,11,1,13,7,14,82,Word of Mouth,3,Cryptocurrency,Not as described,19,6
+Sn-W99YV88N,DOKIAX,Adobe_DOKIAX_Suite,2023-01-02,C6252,4,144.75,Unknown Vendor,North America,22.31,11,3,17,1,4,37,Social Media,3,Cryptocurrency,Product malfunction,20,6
+SN-NODLVE4N,Adobe_Prod_723_Version_3,Adobe_Adobe_Prod_723_Version_3_Suite,2023-01-25,C5920,1,268.79,Authorized Retailer,South America,6.9,8,4,5,3,1,389,Direct Search,8,Credit Card,Other,3,24
+SN-1B9T00DT,Adobe_Prod_271_Version_6,Adobe_Adobe_Prod_271_Version_6_Suite,2023-06-01,C8402,3,283.89,Authorized Retailer,Europe,14.82,4,5,1,7,4,584,Direct Search,6,Credit Card,Found cheaper,3,12
+SN-BOOXPOA5,Adobe_Prod_282_Version_2,Adobe_Adobe_Prod_282_Version_2_Suite,2023-07-07,C2513,1,450.85,Direct Sales,Europe,8.24,9,4,1,1,5,435,Email Marketing,9,Credit Card,Other,2,24
+SNP52ISPKWM,5QMPT0,Adobe_5QMPT0_Suite,2023-02-06,C5405,4,95.41,Third-party Retailer,Africa,25.67,20,2,17,1,15,49,Social Media,2,Cryptocurrency,Other,13,6
+SNWI49YV5G9,IPXB77,Adobe_IPXB77_Suite,2023-09-15,C2153,2,73.11,Unknown Vendor,North America,22.73,13,1,16,1,9,267,Social Media,5,Cryptocurrency,Other,11,6
+SN-0W7NN5O,1TH9W7,Adobe_1TH9W7_Suite,2023-09-07,C3501,8,70.89,Third-party Retailer,North America,20.18,15,1,18,7,6,66,Social Media,5,Cryptocurrency,Other,10,6
+SN-2OLF8JZX,Adobe_Prod_127_Version_6,Adobe_Adobe_Prod_127_Version_6_Suite,2023-03-15,C5408,7,434.29,Authorized Retailer,South America,10.56,5,4,2,2,7,729,Email Marketing,7,Credit Card,Other,10,24
+SN-LCT3LQQD,Adobe_Prod_744_Version_5,Adobe_Adobe_Prod_744_Version_5_Suite,2023-12-20,C2577,1,498.56,Authorized Retailer,Asia,12.13,4,5,5,8,1,630,Email Marketing,10,PayPal,Other,6,12
+SN-8VU1OQN,SWJJ1R,Adobe_SWJJ1R_Suite,2023-07-14,C4654,2,100.24,Unknown Vendor,Asia,28.8,16,1,11,2,8,95,Social Media,2,Cryptocurrency,Product malfunction,11,6
+SN-HVCEF7G,OQ2Q2X,Adobe_OQ2Q2X_Suite,2023-12-04,C3452,8,88.08,Third-party Retailer,North America,20.13,10,1,19,2,4,224,Social Media,2,Cryptocurrency,Not as described,14,6
+SN-579A6RL,0P2GNS,Adobe_0P2GNS_Suite,2023-07-25,C3016,7,82.38,Direct Sales,North America,29.58,14,2,18,1,10,247,Word of Mouth,4,Cryptocurrency,Not as described,13,6
+Sn-EI9OSP27,S2V38G,Adobe_S2V38G_Suite,2023-05-26,C2331,5,78.28,Unknown Vendor,North America,25.96,11,1,17,1,1,286,Word of Mouth,2,Cryptocurrency,Not as described,14,6
+Sn-2PSFV569,NM15DH,Adobe_NM15DH_Suite,2023-03-08,C9219,10,98.54,Third-party Retailer,Asia,21.6,18,3,14,8,15,327,Word of Mouth,1,Cryptocurrency,Product malfunction,19,6
+SN-XSWTOGEO,Adobe_Prod_903_Version_5,Adobe_Adobe_Prod_903_Version_5_Suite,2023-11-23,C3028,6,263.99,Direct Sales,Africa,12.31,6,5,4,7,3,690,Email Marketing,9,Credit Card,Other,7,24
+SN-2H3TTKXT,Adobe_Prod_773_Version_3,Adobe_Adobe_Prod_773_Version_3_Suite,2023-12-22,C9860,9,215.37,Direct Sales,Africa,11.92,7,5,3,3,6,640,Direct Search,8,Credit Card,Found cheaper,10,12
+SN-XCFGHZ6F,Adobe_Prod_65_Version_1,Adobe_Adobe_Prod_65_Version_1_Suite,2023-08-24,C4306,10,201.24,Direct Sales,Africa,13.28,5,5,5,9,3,402,Direct Search,7,PayPal,Found cheaper,7,24
+SN3S306TH6V,705JAO,Adobe_705JAO_Suite,2023-07-14,C2016,10,68.49,Third-party Retailer,North America,21.79,20,2,19,9,5,201,Social Media,2,Cryptocurrency,Product malfunction,19,6
+SN-X80CMF0,WCBSVX,Adobe_WCBSVX_Suite,2023-06-05,C4125,1,50.74,Unknown Vendor,Europe,27.88,10,2,18,1,7,331,Word of Mouth,1,Cryptocurrency,Other,16,6
+SN-OQJ2XGJ8,Adobe_Prod_741_Version_2,Adobe_Adobe_Prod_741_Version_2_Suite,2023-11-08,C9040,9,483.92,Direct Sales,South America,8.79,1,4,5,8,6,367,Direct Search,6,PayPal,Found cheaper,8,12
+SN-6T5XDYDF,Adobe_Prod_752_Version_1,Adobe_Adobe_Prod_752_Version_1_Suite,2023-09-28,C4107,1,318.76,Direct Sales,South America,7.2,10,4,4,1,2,549,Direct Search,8,Credit Card,Found cheaper,10,12
+Sn-IUMDE4KS,H5Z6PV,Adobe_H5Z6PV_Suite,2023-10-07,C1017,5,86.42,Unknown Vendor,Europe,20.38,13,2,19,7,10,300,Social Media,3,Cryptocurrency,Other,10,6
+SN-LNHHI9VE,Adobe_Prod_772_Version_4,Adobe_Adobe_Prod_772_Version_4_Suite,2023-03-08,C7222,2,367.07,Direct Sales,Europe,8.8,8,4,4,7,5,365,Email Marketing,6,Credit Card,Found cheaper,2,24
+SNUMZNM45CJ,K1HMM1,Adobe_K1HMM1_Suite,2023-02-05,C6443,4,126.8,Third-party Retailer,Asia,22.4,19,2,12,1,15,219,Social Media,3,Cryptocurrency,Product malfunction,10,6
+SN-BWEXCSQD,Adobe_Prod_84_Version_4,Adobe_Adobe_Prod_84_Version_4_Suite,2023-02-14,C6481,1,227.35,Authorized Retailer,Europe,8.25,8,5,1,8,6,513,Email Marketing,7,Credit Card,Other,10,12
+SN-TQGN81B1,Adobe_Prod_939_Version_3,Adobe_Adobe_Prod_939_Version_3_Suite,2023-10-18,C1675,2,244.19,Authorized Retailer,North America,9.48,8,4,1,7,6,404,Email Marketing,8,PayPal,Other,2,12
+SN-8FDJU43T,Adobe_Prod_85_Version_1,Adobe_Adobe_Prod_85_Version_1_Suite,2023-04-07,C6848,1,431.12,Authorized Retailer,Africa,8.92,6,4,3,1,5,576,Direct Search,8,PayPal,Other,10,24
+SN-X7GEY7Q,1MW91X,Adobe_1MW91X_Suite,2023-04-06,C9201,7,149.06,Third-party Retailer,Africa,28.48,10,1,16,1,4,272,Social Media,1,Cryptocurrency,Product malfunction,16,6
+SNQY6FCWLSI,KT8JI4,Adobe_KT8JI4_Suite,2023-02-26,C1622,1,83.69,Third-party Retailer,Asia,28.46,16,1,10,3,15,307,Word of Mouth,2,Cryptocurrency,Not as described,16,6
+Sn-HTJRM87H,KFLLJT,Adobe_KFLLJT_Suite,2023-11-09,C7597,9,149.92,Authorized Retailer,Asia,25.79,19,1,19,8,4,150,Social Media,2,Cryptocurrency,Not as described,12,6
+SN-L4SKUQ9B,Adobe_Prod_952_Version_7,Adobe_Adobe_Prod_952_Version_7_Suite,2023-04-08,C8642,7,401.2,Direct Sales,South America,12.67,5,4,3,3,5,727,Email Marketing,6,Credit Card,Found cheaper,10,12
+Sn-K6MYMPDR,HPIH3L,Adobe_HPIH3L_Suite,2023-08-10,C4950,5,113.37,Authorized Retailer,Europe,27.38,15,1,11,3,10,44,Social Media,1,Cryptocurrency,Product malfunction,17,6
+SN-H2ZLDRPO,Adobe_Prod_752_Version_2,Adobe_Adobe_Prod_752_Version_2_Suite,2023-07-31,C9809,1,295.87,Authorized Retailer,South America,13.89,8,4,2,7,1,494,Email Marketing,6,Credit Card,Other,3,24
+Sn-AQVSOC81,V98HZD,Adobe_V98HZD_Suite,2023-07-30,C9709,10,115.47,Third-party Retailer,North America,23.35,17,1,13,7,4,259,Word of Mouth,4,Cryptocurrency,Not as described,12,6
+Sn-KR7RB9MC,Q9PQ1M,Adobe_Q9PQ1M_Suite,2023-11-14,C4128,7,138.0,Third-party Retailer,Africa,24.23,15,1,18,8,10,127,Word of Mouth,1,Cryptocurrency,Other,15,6
+SNIBTV345FV,FVFZNW,Adobe_FVFZNW_Suite,2023-07-23,C4017,10,102.74,Unknown Vendor,Asia,24.04,14,2,12,8,9,48,Word of Mouth,3,Cryptocurrency,Other,15,6
+SN-TCAMUDG,HBY1FF,Adobe_HBY1FF_Suite,2023-12-25,C5914,5,50.28,Unknown Vendor,Africa,24.16,20,3,16,7,2,199,Social Media,3,Cryptocurrency,Product malfunction,19,6
+Sn-18ZBCWLA,7KRVIK,Adobe_7KRVIK_Suite,2023-04-09,C2164,4,85.99,Unknown Vendor,North America,21.95,14,1,19,9,1,145,Word of Mouth,3,Cryptocurrency,Not as described,10,6
+SNOT9NIG10S,VX0M4Q,Adobe_VX0M4Q_Suite,2023-08-21,C2437,6,127.56,Third-party Retailer,Africa,20.63,20,2,12,8,11,33,Social Media,4,Cryptocurrency,Other,13,6
+SN-29BTV18T,Adobe_Prod_793_Version_9,Adobe_Adobe_Prod_793_Version_9_Suite,2023-02-28,C8059,1,231.0,Authorized Retailer,Asia,5.84,10,5,4,8,7,485,Email Marketing,10,Credit Card,Other,7,24
+Sn-DTHI6MIN,5NLT6M,Adobe_5NLT6M_Suite,2023-09-30,C2620,5,135.66,Third-party Retailer,South America,27.02,15,2,12,3,2,311,Social Media,1,Cryptocurrency,Product malfunction,13,6
+Sn-UIEY9SBW,KS38DM,Adobe_KS38DM_Suite,2023-02-14,C2517,6,132.71,Unknown Vendor,South America,25.87,14,1,13,8,12,151,Word of Mouth,4,Cryptocurrency,Product malfunction,19,6
+SN-IXVKMJV6,Adobe_Prod_85_Version_1,Adobe_Adobe_Prod_85_Version_1_Suite,2023-12-19,C5293,1,266.58,Direct Sales,North America,6.44,10,5,1,1,4,583,Email Marketing,8,PayPal,Other,7,24
+SN-U7TM4TS,BVZRR3,Adobe_BVZRR3_Suite,2023-05-02,C2446,3,85.85,Unknown Vendor,North America,21.0,10,2,12,7,4,314,Word of Mouth,2,Cryptocurrency,Other,19,6
+SN-FXT89QCN,Adobe_Prod_378_Version_4,Adobe_Adobe_Prod_378_Version_4_Suite,2023-08-04,C1056,7,274.58,Direct Sales,Africa,13.25,3,5,1,3,6,573,Direct Search,10,PayPal,Found cheaper,4,12
+SN-BYATHO7,ELCAAO,Adobe_ELCAAO_Suite,2023-06-08,C4359,1,66.1,Third-party Retailer,Asia,27.82,17,2,16,3,11,132,Word of Mouth,3,Cryptocurrency,Not as described,12,6
+Sn-L4FYMO20,PED6YB,Adobe_PED6YB_Suite,2023-06-01,C1817,9,139.68,Unknown Vendor,North America,25.2,12,1,12,7,4,199,Word of Mouth,1,Cryptocurrency,Product malfunction,11,6
+SN-8DVH56JQ,Adobe_Prod_803_Version_3,Adobe_Adobe_Prod_803_Version_3_Suite,2023-10-15,C5331,7,368.04,Authorized Retailer,Africa,7.32,6,5,1,1,4,674,Direct Search,10,PayPal,Other,8,24
+SN-QG67WD96,Adobe_Prod_374_Version_3,Adobe_Adobe_Prod_374_Version_3_Suite,2023-07-05,C2374,7,278.86,Authorized Retailer,Asia,14.21,4,4,1,2,7,562,Email Marketing,9,Credit Card,Found cheaper,3,24
+SN-POO70XIQ,Adobe_Prod_730_Version_4,Adobe_Adobe_Prod_730_Version_4_Suite,2023-02-12,C5794,4,360.73,Authorized Retailer,Africa,13.53,7,5,4,7,2,448,Direct Search,8,Credit Card,Other,3,24
+SN-291FYBIU,Adobe_Prod_854_Version_10,Adobe_Adobe_Prod_854_Version_10_Suite,2023-06-07,C6861,8,470.53,Direct Sales,Africa,14.57,9,5,4,9,4,466,Direct Search,8,Credit Card,Other,8,12
+SNB89DK9VYE,GYXOQY,Adobe_GYXOQY_Suite,2023-09-05,C6338,5,55.05,Direct Sales,Europe,23.74,14,2,17,3,15,84,Social Media,5,Cryptocurrency,Not as described,10,6
+SN-PVM6MLWJ,Adobe_Prod_821_Version_7,Adobe_Adobe_Prod_821_Version_7_Suite,2023-03-30,C8357,6,215.52,Direct Sales,North America,14.79,7,5,2,8,5,395,Direct Search,6,PayPal,Found cheaper,8,24
+SN-RVBW1R0B,Adobe_Prod_165_Version_1,Adobe_Adobe_Prod_165_Version_1_Suite,2023-08-27,C8945,10,480.11,Direct Sales,South America,14.4,7,4,5,1,4,611,Email Marketing,8,PayPal,Other,8,12
+SN-KHMP2Q8,OULS9G,Adobe_OULS9G_Suite,2023-09-06,C5529,5,113.17,Third-party Retailer,Africa,28.77,12,2,16,3,14,146,Social Media,3,Cryptocurrency,Not as described,16,6
+SNVNM97WDQB,7YU4HQ,Adobe_7YU4HQ_Suite,2023-11-13,C2965,3,111.52,Third-party Retailer,Europe,24.44,13,3,19,2,8,314,Word of Mouth,2,Cryptocurrency,Other,18,6
+SN-C0TPCPFO,Adobe_Prod_920_Version_8,Adobe_Adobe_Prod_920_Version_8_Suite,2023-10-24,C9552,4,470.03,Direct Sales,South America,5.2,7,4,3,2,4,660,Email Marketing,8,PayPal,Found cheaper,7,24
+Sn-6LXQ6XDP,Y85OVC,Adobe_Y85OVC_Suite,2023-02-14,C5763,8,101.11,Unknown Vendor,Europe,29.61,13,2,12,2,7,361,Word of Mouth,3,Cryptocurrency,Other,13,6
+Sn-PZCWSY8S,7B3899,Adobe_7B3899_Suite,2023-05-14,C9394,10,127.79,Unknown Vendor,Africa,23.99,14,3,15,2,4,183,Social Media,3,Cryptocurrency,Other,20,6
+SN-3O73FEEV,Adobe_Prod_912_Version_2,Adobe_Adobe_Prod_912_Version_2_Suite,2023-11-02,C8124,9,472.6,Authorized Retailer,Europe,12.32,9,5,2,1,6,471,Email Marketing,7,Credit Card,Other,5,24
+SN-B76XYBO6,Adobe_Prod_203_Version_10,Adobe_Adobe_Prod_203_Version_10_Suite,2023-03-22,C7375,7,359.65,Authorized Retailer,Europe,7.65,7,4,5,1,6,508,Direct Search,9,PayPal,Other,8,24
+SNVHOO25G40,NP5UUK,Adobe_NP5UUK_Suite,2023-05-10,C6899,10,112.06,Unknown Vendor,South America,21.7,11,3,17,1,5,78,Social Media,4,Cryptocurrency,Other,20,6
+SN5C0A721KR,NGRDBA,Adobe_NGRDBA_Suite,2023-10-24,C8234,5,77.26,Third-party Retailer,South America,21.45,17,2,15,9,13,331,Word of Mouth,1,Cryptocurrency,Not as described,10,6
+Sn-QMNUUOI1,7AAOJ4,Adobe_7AAOJ4_Suite,2023-09-10,C1908,2,50.57,Third-party Retailer,Africa,29.66,16,2,13,7,3,70,Word of Mouth,1,Cryptocurrency,Not as described,12,6
+Sn-EUK16H9H,6UT23Z,Adobe_6UT23Z_Suite,2023-09-30,C6815,10,102.18,Third-party Retailer,South America,25.91,16,1,12,2,12,84,Word of Mouth,2,Cryptocurrency,Product malfunction,13,6
+SN-F8WCPJP,7QRZA2,Adobe_7QRZA2_Suite,2023-10-29,C9738,2,113.69,Direct Sales,South America,26.64,19,1,17,1,2,41,Word of Mouth,1,Cryptocurrency,Other,12,6
+SN-BV7PT67,U4YIAY,Adobe_U4YIAY_Suite,2023-07-21,C4075,4,85.21,Authorized Retailer,Europe,21.23,14,1,11,7,3,60,Social Media,4,Cryptocurrency,Product malfunction,18,6
+Sn-CCPIXBXG,XQ6910,Adobe_XQ6910_Suite,2023-03-28,C5526,8,106.32,Unknown Vendor,Asia,28.56,14,3,15,9,14,75,Social Media,3,Cryptocurrency,Other,11,6
+SN-6L2RO4R4,Adobe_Prod_564_Version_9,Adobe_Adobe_Prod_564_Version_9_Suite,2023-06-06,C3630,2,409.23,Authorized Retailer,Asia,11.14,2,5,4,8,5,555,Direct Search,9,PayPal,Found cheaper,7,12
+SN-JXNPN2UW,Adobe_Prod_173_Version_3,Adobe_Adobe_Prod_173_Version_3_Suite,2023-06-15,C7169,1,433.63,Direct Sales,Europe,5.09,9,4,3,2,2,381,Direct Search,8,PayPal,Other,9,12
+SN122P7U8ZV,BRIMIE,Adobe_BRIMIE_Suite,2023-11-08,C3841,4,62.27,Unknown Vendor,Asia,28.7,16,1,19,2,9,47,Word of Mouth,2,Cryptocurrency,Product malfunction,13,6
+SN-8KJBI4YW,Adobe_Prod_499_Version_2,Adobe_Adobe_Prod_499_Version_2_Suite,2023-06-07,C7798,4,391.16,Direct Sales,Asia,12.24,2,4,2,1,4,576,Email Marketing,6,PayPal,Other,6,12
+SN-QOTT9MY,1T9O15,Adobe_1T9O15_Suite,2023-05-13,C6995,10,113.07,Unknown Vendor,Europe,23.03,10,1,12,3,8,278,Word of Mouth,4,Cryptocurrency,Other,18,6
+SN-IFQS3NS,GAX3EW,Adobe_GAX3EW_Suite,2023-08-25,C3501,2,70.09,Authorized Retailer,North America,20.56,12,1,20,7,8,202,Word of Mouth,4,Cryptocurrency,Other,15,6
+SNCFCRPO38U,PDROPD,Adobe_PDROPD_Suite,2023-10-05,C5842,5,71.4,Unknown Vendor,Africa,21.52,11,1,14,3,3,337,Word of Mouth,5,Cryptocurrency,Not as described,16,6
+SN-Y1K9B7F,MXU69R,Adobe_MXU69R_Suite,2023-12-25,C8051,8,101.69,Unknown Vendor,North America,28.89,15,2,14,1,7,307,Social Media,1,Cryptocurrency,Product malfunction,12,6
+SN-PMWBV9VQ,Adobe_Prod_877_Version_4,Adobe_Adobe_Prod_877_Version_4_Suite,2023-03-13,C3606,7,367.73,Direct Sales,North America,8.94,3,5,2,2,7,606,Direct Search,8,Credit Card,Found cheaper,3,12
+SN-ZS0EP916,Adobe_Prod_152_Version_9,Adobe_Adobe_Prod_152_Version_9_Suite,2023-02-15,C8469,6,492.9,Authorized Retailer,North America,9.56,9,4,1,9,6,565,Direct Search,8,Credit Card,Other,6,24
+SN-3UF7KR5L,Adobe_Prod_255_Version_4,Adobe_Adobe_Prod_255_Version_4_Suite,2023-03-11,C5747,4,494.34,Authorized Retailer,South America,5.17,7,4,4,9,5,688,Email Marketing,9,PayPal,Other,8,12
+SN-L1U8HMXM,Adobe_Prod_92_Version_3,Adobe_Adobe_Prod_92_Version_3_Suite,2023-08-22,C5165,9,351.49,Direct Sales,Asia,5.65,5,4,4,2,4,545,Direct Search,8,Credit Card,Other,9,12
+SN-5ZY5LAT,CGZBUV,Adobe_CGZBUV_Suite,2023-03-21,C2689,5,132.87,Unknown Vendor,North America,22.5,17,2,20,3,12,184,Social Media,1,Cryptocurrency,Product malfunction,11,6
+Sn-YEUKJUE6,ECLT5U,Adobe_ECLT5U_Suite,2023-05-01,C8972,6,65.3,Authorized Retailer,North America,27.87,17,1,12,1,2,49,Word of Mouth,2,Cryptocurrency,Other,11,6
+SNTFMTK98UR,OX3RC1,Adobe_OX3RC1_Suite,2023-08-16,C8129,9,81.54,Unknown Vendor,North America,24.95,18,2,18,1,14,205,Word of Mouth,4,Cryptocurrency,Other,15,6
+SN-53HK1CRR,Adobe_Prod_515_Version_1,Adobe_Adobe_Prod_515_Version_1_Suite,2023-06-01,C6206,7,490.29,Direct Sales,Europe,8.17,1,4,3,2,1,616,Direct Search,7,Credit Card,Other,9,12
+SN-285SDYDE,Adobe_Prod_463_Version_9,Adobe_Adobe_Prod_463_Version_9_Suite,2023-09-19,C2845,7,340.96,Third-party Retailer,Africa,7.79,8,5,1,1,2,647,Email Marketing,8,PayPal,Found cheaper,8,24
+SN-ZM5QF5DP,Adobe_Prod_783_Version_8,Adobe_Adobe_Prod_783_Version_8_Suite,2023-10-07,C7425,8,491.01,Direct Sales,Europe,11.88,9,5,5,2,6,492,Direct Search,6,Credit Card,Other,7,12
+SNCD6IEGQZK,BQXXR4,Adobe_BQXXR4_Suite,2023-06-13,C7281,6,77.56,Third-party Retailer,Africa,27.36,15,3,13,3,1,155,Word of Mouth,2,Cryptocurrency,Other,12,6
+SNE85QM5YMJ,82TMXH,Adobe_82TMXH_Suite,2023-12-04,C4435,7,128.07,Unknown Vendor,South America,21.4,14,1,14,9,2,104,Word of Mouth,3,Cryptocurrency,Product malfunction,10,6
+SN-GTFIIH3N,Adobe_Prod_423_Version_8,Adobe_Adobe_Prod_423_Version_8_Suite,2023-01-30,C3372,2,279.92,Third-party Retailer,Europe,6.2,7,5,2,1,3,474,Email Marketing,8,Credit Card,Other,1,12
+SNZWNLQ6LR1,BBEOZS,Adobe_BBEOZS_Suite,2023-02-24,C1361,6,75.45,Third-party Retailer,Africa,20.11,14,1,12,8,2,115,Word of Mouth,3,Cryptocurrency,Other,10,6
+SN-TVTERQFA,Adobe_Prod_868_Version_4,Adobe_Adobe_Prod_868_Version_4_Suite,2023-08-09,C4734,4,288.89,Direct Sales,Africa,5.66,6,5,2,7,2,604,Direct Search,10,PayPal,Other,1,24
+SN-VZNW9U2,DLE576,Adobe_DLE576_Suite,2023-12-20,C8697,8,137.31,Third-party Retailer,North America,28.5,10,1,18,1,2,82,Word of Mouth,1,Cryptocurrency,Other,20,6
+SNC0AP7DRPD,EVXU6Y,Adobe_EVXU6Y_Suite,2023-01-27,C4606,5,82.61,Third-party Retailer,North America,20.53,18,1,18,9,6,239,Word of Mouth,1,Cryptocurrency,Product malfunction,16,6
+SN-NC4LYND,43SLCC,Adobe_43SLCC_Suite,2023-08-18,C3072,4,104.64,Third-party Retailer,Europe,26.09,19,2,14,9,13,205,Word of Mouth,4,Cryptocurrency,Not as described,20,6
+SNVHNPDZYL9,JRIQWQ,Adobe_JRIQWQ_Suite,2023-05-12,C8703,4,75.43,Third-party Retailer,Asia,20.19,10,3,16,1,9,113,Social Media,2,Cryptocurrency,Other,15,6
+SN-5NXRW786,Adobe_Prod_82_Version_10,Adobe_Adobe_Prod_82_Version_10_Suite,2023-03-31,C6888,2,366.58,Authorized Retailer,Africa,6.45,9,5,2,2,6,662,Email Marketing,8,Credit Card,Other,10,12
+SN-2FQKBA04,Adobe_Prod_22_Version_1,Adobe_Adobe_Prod_22_Version_1_Suite,2023-02-07,C3248,7,448.47,Authorized Retailer,Europe,12.89,5,5,2,2,2,577,Direct Search,9,PayPal,Found cheaper,6,12
+SN-PK68EVDF,Adobe_Prod_732_Version_10,Adobe_Adobe_Prod_732_Version_10_Suite,2023-01-24,C1835,2,299.27,Direct Sales,Europe,10.36,2,5,5,2,2,612,Direct Search,6,Credit Card,Other,10,24
+Sn-6Z01LHZZ,RU7D2V,Adobe_RU7D2V_Suite,2023-07-02,C2638,2,131.89,Third-party Retailer,North America,28.61,20,3,14,8,7,62,Word of Mouth,1,Cryptocurrency,Not as described,13,6
+SN-Z649CGW1,Adobe_Prod_352_Version_9,Adobe_Adobe_Prod_352_Version_9_Suite,2023-08-22,C4021,1,340.24,Direct Sales,North America,12.34,6,4,4,8,6,642,Email Marketing,10,Credit Card,Found cheaper,9,12
+SN-CM3R9VLO,Adobe_Prod_625_Version_2,Adobe_Adobe_Prod_625_Version_2_Suite,2023-04-02,C8271,8,468.29,Direct Sales,South America,6.46,9,4,1,2,5,621,Email Marketing,9,Credit Card,Other,5,24
+SN-UP3RAJYC,Adobe_Prod_220_Version_7,Adobe_Adobe_Prod_220_Version_7_Suite,2023-08-23,C9786,6,478.5,Authorized Retailer,Asia,5.67,3,4,5,7,3,547,Email Marketing,9,PayPal,Found cheaper,2,12
+Sn-OKJ8RPUS,MR7701,Adobe_MR7701_Suite,2023-06-13,C9741,9,91.79,Unknown Vendor,Asia,25.3,14,3,19,8,14,282,Word of Mouth,3,Cryptocurrency,Not as described,18,6
+SN-H4LOBV1M,Adobe_Prod_252_Version_1,Adobe_Adobe_Prod_252_Version_1_Suite,2023-07-08,C7290,6,386.91,Authorized Retailer,North America,11.89,5,4,4,2,2,614,Direct Search,9,Credit Card,Other,3,24
+SN-754HZN27,Adobe_Prod_527_Version_3,Adobe_Adobe_Prod_527_Version_3_Suite,2023-04-17,C6747,6,386.07,Authorized Retailer,Europe,14.3,5,4,2,7,3,592,Email Marketing,8,Credit Card,Found cheaper,4,24
+SN-BLPBB1WP,Adobe_Prod_177_Version_2,Adobe_Adobe_Prod_177_Version_2_Suite,2023-08-13,C1780,7,394.18,Authorized Retailer,Europe,12.6,8,5,1,9,2,455,Direct Search,7,PayPal,Found cheaper,7,24
+SN-DI1OIWGW,Adobe_Prod_547_Version_9,Adobe_Adobe_Prod_547_Version_9_Suite,2023-07-19,C5644,2,390.94,Authorized Retailer,Asia,8.45,8,4,5,1,4,403,Direct Search,10,Credit Card,Other,6,24
+SN-AJVD8ME9,Adobe_Prod_744_Version_10,Adobe_Adobe_Prod_744_Version_10_Suite,2023-04-14,C2925,6,322.73,Authorized Retailer,Europe,5.71,9,4,1,1,4,516,Direct Search,8,Credit Card,Other,6,24
+SN-NVEG8MTV,Adobe_Prod_253_Version_2,Adobe_Adobe_Prod_253_Version_2_Suite,2023-03-29,C6304,1,411.67,Third-party Retailer,North America,7.13,2,4,2,2,7,622,Email Marketing,10,Credit Card,Other,5,24
+SN-Z16XN26Z,Adobe_Prod_843_Version_1,Adobe_Adobe_Prod_843_Version_1_Suite,2023-03-29,C4576,2,440.7,Direct Sales,Asia,14.39,9,4,5,2,2,405,Email Marketing,6,Credit Card,Found cheaper,2,12
+SNSTM2R31HN,U5FVBU,Adobe_U5FVBU_Suite,2023-02-11,C3743,3,97.59,Third-party Retailer,South America,22.54,13,1,18,3,15,296,Social Media,2,Cryptocurrency,Other,10,6
+Sn-AVEJ2P18,8TWJ9H,Adobe_8TWJ9H_Suite,2023-05-18,C4517,5,120.78,Unknown Vendor,Asia,21.63,12,3,12,2,8,247,Social Media,5,Cryptocurrency,Product malfunction,16,6
+SN-U8SL8HN3,Adobe_Prod_32_Version_1,Adobe_Adobe_Prod_32_Version_1_Suite,2023-02-07,C5010,9,474.65,Authorized Retailer,North America,11.54,9,4,4,9,2,483,Direct Search,6,Credit Card,Other,3,12
+SN-RV5OLJMR,Adobe_Prod_977_Version_5,Adobe_Adobe_Prod_977_Version_5_Suite,2023-02-14,C9019,1,336.13,Authorized Retailer,South America,13.86,4,4,5,1,3,721,Email Marketing,6,PayPal,Found cheaper,10,12
+SNFTPX6VNCV,654N3E,Adobe_654N3E_Suite,2023-11-07,C7449,1,110.56,Third-party Retailer,Asia,29.84,13,1,15,7,4,299,Social Media,1,Cryptocurrency,Product malfunction,10,6
+SNSZDV0YTA8,COHO3Z,Adobe_COHO3Z_Suite,2023-08-29,C5340,2,119.16,Unknown Vendor,Africa,24.75,20,3,16,8,8,65,Word of Mouth,5,Cryptocurrency,Product malfunction,12,6
+Sn-OJWOXGO3,W0R789,Adobe_W0R789_Suite,2023-09-05,C5899,1,108.02,Third-party Retailer,Asia,24.51,15,1,17,8,4,238,Social Media,4,Cryptocurrency,Not as described,12,6
+SN-QF0Z2G9,C0CUAM,Adobe_C0CUAM_Suite,2023-05-07,C1443,3,63.41,Third-party Retailer,Africa,25.3,11,3,17,9,6,217,Social Media,2,Cryptocurrency,Not as described,12,6
+SN-CSKLBFAQ,Adobe_Prod_352_Version_10,Adobe_Adobe_Prod_352_Version_10_Suite,2023-08-20,C1943,3,359.71,Direct Sales,North America,6.16,8,4,2,7,7,434,Direct Search,8,Credit Card,Other,10,24
+Sn-1LMKDRDN,6Q7JJH,Adobe_6Q7JJH_Suite,2023-09-27,C9321,10,133.74,Unknown Vendor,South America,23.62,12,1,17,7,3,330,Word of Mouth,3,Cryptocurrency,Not as described,16,6
+SN-QI6YOSS,20V97L,Adobe_20V97L_Suite,2023-11-26,C6610,2,95.52,Third-party Retailer,Europe,29.39,12,3,15,9,9,354,Social Media,1,Cryptocurrency,Not as described,15,6
+SN-EM14Z47,T781J3,Adobe_T781J3_Suite,2023-02-15,C5849,8,114.25,Direct Sales,Europe,27.55,14,2,20,7,8,338,Word of Mouth,5,Cryptocurrency,Other,18,6
+SN-T14COS9J,Adobe_Prod_480_Version_7,Adobe_Adobe_Prod_480_Version_7_Suite,2023-04-08,C6801,4,216.58,Authorized Retailer,Europe,5.36,4,4,5,1,5,370,Email Marketing,10,Credit Card,Found cheaper,7,24
+SN-I8NQ8AQ,CQG4NF,Adobe_CQG4NF_Suite,2023-08-24,C8213,3,141.07,Unknown Vendor,Asia,25.35,15,2,15,7,1,197,Word of Mouth,4,Cryptocurrency,Not as described,16,6
+SNHHTB1NW94,V5QC8K,Adobe_V5QC8K_Suite,2023-09-11,C9744,8,110.16,Third-party Retailer,Europe,20.23,11,2,17,2,4,142,Social Media,2,Cryptocurrency,Product malfunction,11,6
+Sn-HTY9Z6WF,GQYT5G,Adobe_GQYT5G_Suite,2023-11-23,C6990,10,106.43,Third-party Retailer,Europe,26.53,11,2,12,3,14,71,Word of Mouth,1,Cryptocurrency,Product malfunction,12,6
+Sn-XEGIDXDT,XNLT36,Adobe_XNLT36_Suite,2023-01-07,C4929,6,66.07,Unknown Vendor,North America,23.75,13,3,19,7,3,209,Word of Mouth,4,Cryptocurrency,Not as described,12,6
+Sn-L46XDTJJ,KGQ0RZ,Adobe_KGQ0RZ_Suite,2023-09-27,C4849,1,57.58,Third-party Retailer,North America,25.43,12,3,15,8,11,189,Word of Mouth,2,Cryptocurrency,Product malfunction,17,6
+SNA21CB7SHD,Z6UR67,Adobe_Z6UR67_Suite,2023-01-31,C4991,6,117.7,Third-party Retailer,Africa,26.83,13,1,16,1,15,42,Social Media,2,Cryptocurrency,Other,19,6
+SN-2O46UTY,IH8MJ8,Adobe_IH8MJ8_Suite,2023-11-19,C8905,7,99.64,Unknown Vendor,Africa,27.79,12,1,11,7,9,248,Social Media,1,Cryptocurrency,Product malfunction,17,6
+Sn-UUEAZU09,ERP7ZT,Adobe_ERP7ZT_Suite,2023-05-11,C2597,9,100.86,Third-party Retailer,Asia,26.37,16,3,18,7,4,292,Word of Mouth,3,Cryptocurrency,Not as described,11,6
+SNMBD28JUT7,FEMI1O,Adobe_FEMI1O_Suite,2023-07-19,C1514,5,81.89,Unknown Vendor,Europe,29.86,11,2,14,2,13,210,Social Media,4,Cryptocurrency,Not as described,16,6
+SN-CSMWS89K,Adobe_Prod_526_Version_3,Adobe_Adobe_Prod_526_Version_3_Suite,2023-07-14,C9420,8,344.61,Direct Sales,Asia,5.39,3,5,3,2,3,421,Email Marketing,9,Credit Card,Other,4,24
+SN-AF3PVY2G,Adobe_Prod_204_Version_4,Adobe_Adobe_Prod_204_Version_4_Suite,2023-03-03,C9969,10,468.68,Direct Sales,Africa,12.7,5,4,3,3,1,621,Email Marketing,7,PayPal,Found cheaper,4,12
+SN-3MS1T2E,OBNYVG,Adobe_OBNYVG_Suite,2023-05-07,C3906,1,100.32,Unknown Vendor,South America,23.18,18,2,16,8,4,214,Word of Mouth,1,Cryptocurrency,Product malfunction,17,6
+SN-A20U9Y36,Adobe_Prod_365_Version_1,Adobe_Adobe_Prod_365_Version_1_Suite,2023-03-29,C6916,1,303.64,Authorized Retailer,South America,13.23,6,4,5,8,7,565,Email Marketing,10,Credit Card,Other,6,12
+SN-IQULICS,XZP9I3,Adobe_XZP9I3_Suite,2023-10-28,C6765,5,70.48,Unknown Vendor,South America,24.42,20,3,11,1,7,157,Social Media,4,Cryptocurrency,Other,11,6
+SN-4RS1JM73,Adobe_Prod_515_Version_10,Adobe_Adobe_Prod_515_Version_10_Suite,2023-03-18,C6471,10,260.0,Authorized Retailer,Asia,8.43,2,5,5,9,5,413,Direct Search,6,Credit Card,Other,1,24
+SNL1KKWM2XW,XJA4LD,Adobe_XJA4LD_Suite,2023-05-03,C9965,2,126.32,Unknown Vendor,Asia,22.28,16,2,15,1,8,249,Social Media,1,Cryptocurrency,Not as described,12,6
+SN-YY55D1GQ,Adobe_Prod_295_Version_7,Adobe_Adobe_Prod_295_Version_7_Suite,2023-08-18,C1842,1,493.32,Direct Sales,North America,9.89,6,5,1,1,2,560,Direct Search,10,PayPal,Other,10,24
+SN-7EBBJEQN,Adobe_Prod_230_Version_9,Adobe_Adobe_Prod_230_Version_9_Suite,2023-06-25,C9407,3,310.33,Direct Sales,North America,5.61,7,4,4,1,3,703,Email Marketing,9,PayPal,Other,5,24
+Sn-UKDGL1HG,RSO9MM,Adobe_RSO9MM_Suite,2023-10-03,C4546,4,62.63,Unknown Vendor,Africa,21.55,16,3,16,8,3,296,Social Media,2,Cryptocurrency,Product malfunction,20,6
+SN-42VP5UQE,Adobe_Prod_642_Version_10,Adobe_Adobe_Prod_642_Version_10_Suite,2023-10-23,C6492,4,381.6,Authorized Retailer,Europe,13.8,1,5,3,1,5,430,Direct Search,6,Credit Card,Other,7,24
+SN-JZJK3F8,4ZFH4I,Adobe_4ZFH4I_Suite,2023-05-18,C6663,6,123.14,Unknown Vendor,South America,22.78,13,3,19,3,7,157,Word of Mouth,5,Cryptocurrency,Not as described,17,6
+SN-Z0CFQSA7,Adobe_Prod_823_Version_7,Adobe_Adobe_Prod_823_Version_7_Suite,2023-12-20,C8601,7,240.92,Direct Sales,North America,5.28,5,5,5,2,5,528,Email Marketing,8,Credit Card,Other,6,12
+SNP3SKFUMRO,OMFGDW,Adobe_OMFGDW_Suite,2023-04-21,C1389,4,105.42,Third-party Retailer,Europe,21.45,13,3,17,2,15,310,Social Media,3,Cryptocurrency,Not as described,14,6
+Sn-00RKT2W7,CH883U,Adobe_CH883U_Suite,2023-03-11,C1749,9,112.48,Third-party Retailer,North America,21.7,11,3,11,8,9,118,Social Media,3,Cryptocurrency,Other,10,6
+SN-X3D9NCW8,Adobe_Prod_398_Version_1,Adobe_Adobe_Prod_398_Version_1_Suite,2023-11-08,C1979,10,438.56,Authorized Retailer,North America,12.64,5,4,5,2,6,667,Direct Search,10,Credit Card,Found cheaper,5,24
+SNPFB6TODK8,ZGD0PW,Adobe_ZGD0PW_Suite,2023-03-13,C1613,10,121.35,Unknown Vendor,Europe,20.03,12,2,16,9,2,206,Word of Mouth,5,Cryptocurrency,Product malfunction,15,6
+SN-KN2EUW81,Adobe_Prod_295_Version_3,Adobe_Adobe_Prod_295_Version_3_Suite,2023-05-31,C8588,8,345.32,Authorized Retailer,Asia,11.75,6,5,5,7,5,617,Email Marketing,7,PayPal,Other,9,12
+SN-UOG8Y9K7,Adobe_Prod_694_Version_2,Adobe_Adobe_Prod_694_Version_2_Suite,2023-05-30,C7439,1,497.88,Direct Sales,Africa,10.43,2,5,2,9,1,414,Direct Search,7,PayPal,Found cheaper,6,24
+SN-Q0DDMI0G,Adobe_Prod_894_Version_1,Adobe_Adobe_Prod_894_Version_1_Suite,2023-08-10,C3219,1,470.15,Unknown Vendor,North America,13.02,2,4,4,8,7,478,Direct Search,9,Credit Card,Other,5,24
+SN-C332HHBZ,Adobe_Prod_110_Version_1,Adobe_Adobe_Prod_110_Version_1_Suite,2023-07-25,C3668,10,403.21,Direct Sales,North America,6.02,5,4,3,3,4,626,Email Marketing,8,PayPal,Found cheaper,5,12
+SN-62WE97D,9P4HV0,Adobe_9P4HV0_Suite,2023-09-12,C4099,2,71.78,Unknown Vendor,Africa,20.67,19,2,18,7,8,63,Social Media,1,Cryptocurrency,Not as described,17,6
+SN-LD6WQDP,ZFU8HK,Adobe_ZFU8HK_Suite,2023-01-26,C9715,10,106.88,Unknown Vendor,Asia,27.32,14,3,17,9,8,246,Social Media,2,Cryptocurrency,Not as described,18,6
+SN-ODIVC4X,C4883M,Adobe_C4883M_Suite,2023-09-05,C5155,10,147.31,Unknown Vendor,North America,25.4,12,3,13,3,5,210,Social Media,4,Cryptocurrency,Not as described,11,6
+SN-63DV3FL5,Adobe_Prod_602_Version_4,Adobe_Adobe_Prod_602_Version_4_Suite,2023-12-13,C2931,2,258.11,Direct Sales,Asia,8.41,9,5,1,2,2,539,Email Marketing,7,Credit Card,Other,3,24
+SN-N1HGS86,W52MP7,Adobe_W52MP7_Suite,2023-10-16,C6669,1,67.81,Unknown Vendor,South America,22.72,16,1,18,1,12,128,Social Media,5,Cryptocurrency,Other,14,6
+SN-MYB3IUOH,Adobe_Prod_883_Version_10,Adobe_Adobe_Prod_883_Version_10_Suite,2023-04-29,C4882,4,484.83,Third-party Retailer,Africa,5.22,9,5,4,3,6,692,Email Marketing,10,Credit Card,Found cheaper,7,12
+SN-8R6DGI5,5FKW8M,Adobe_5FKW8M_Suite,2023-02-24,C4203,2,147.79,Third-party Retailer,North America,21.05,20,3,14,7,12,78,Word of Mouth,3,Cryptocurrency,Not as described,13,6
+SNIKN5EQBVF,T5TOVK,Adobe_T5TOVK_Suite,2023-08-18,C9761,3,57.08,Unknown Vendor,South America,20.52,17,3,12,8,5,285,Social Media,1,Cryptocurrency,Other,18,6
+SN-23BWMSSM,Adobe_Prod_881_Version_5,Adobe_Adobe_Prod_881_Version_5_Suite,2023-02-10,C5311,4,453.57,Authorized Retailer,North America,8.54,9,4,4,8,5,398,Email Marketing,9,PayPal,Found cheaper,5,24
+Sn-ZM9BDPAR,PT4FES,Adobe_PT4FES_Suite,2023-03-20,C2445,2,74.0,Direct Sales,Europe,28.04,13,1,13,9,6,241,Word of Mouth,1,Cryptocurrency,Not as described,19,6
+SN-WADRN0JD,Adobe_Prod_999_Version_2,Adobe_Adobe_Prod_999_Version_2_Suite,2023-12-31,C7325,5,255.57,Authorized Retailer,Asia,11.56,10,4,4,2,4,561,Direct Search,7,PayPal,Other,9,24
+SN-DJOPQ94,5LS5H2,Adobe_5LS5H2_Suite,2023-06-07,C9581,4,139.03,Unknown Vendor,North America,20.58,12,2,11,1,7,115,Word of Mouth,5,Cryptocurrency,Other,13,6
+SN-AFJP7HX7,Adobe_Prod_644_Version_4,Adobe_Adobe_Prod_644_Version_4_Suite,2023-03-25,C7505,2,280.46,Authorized Retailer,South America,10.62,9,5,1,8,2,415,Direct Search,9,PayPal,Other,5,24
+SN-8UG7II0,FBSSNQ,Adobe_FBSSNQ_Suite,2023-07-25,C7584,2,82.86,Third-party Retailer,Africa,25.19,18,2,12,8,9,335,Word of Mouth,4,Cryptocurrency,Not as described,18,6
+Sn-3H3PE6WN,TQHE8R,Adobe_TQHE8R_Suite,2023-05-31,C7522,2,86.39,Unknown Vendor,Asia,27.98,12,3,16,2,8,65,Word of Mouth,3,Cryptocurrency,Product malfunction,19,6
+SN-0AM7HTZ,D4NVJG,Adobe_D4NVJG_Suite,2023-08-21,C4670,5,107.42,Third-party Retailer,South America,21.92,11,3,14,8,11,135,Word of Mouth,5,Cryptocurrency,Not as described,13,6
+SN-T9G419BY,Adobe_Prod_300_Version_5,Adobe_Adobe_Prod_300_Version_5_Suite,2023-02-16,C8111,2,365.92,Direct Sales,Europe,13.85,4,5,5,7,2,604,Direct Search,8,Credit Card,Other,2,12
+Sn-5M5PQJ9B,8NKDRN,Adobe_8NKDRN_Suite,2023-03-29,C1041,5,100.85,Unknown Vendor,Europe,22.04,19,1,16,9,11,72,Social Media,3,Cryptocurrency,Not as described,17,6
+SN-OK0C1W1H,Adobe_Prod_321_Version_8,Adobe_Adobe_Prod_321_Version_8_Suite,2023-08-07,C9973,8,407.55,Authorized Retailer,South America,6.14,3,4,3,1,4,643,Direct Search,10,PayPal,Other,5,12
+Sn-OUQMQ191,OQW5RE,Adobe_OQW5RE_Suite,2023-07-12,C7995,1,106.01,Unknown Vendor,Africa,27.21,10,3,20,7,6,213,Social Media,3,Cryptocurrency,Not as described,19,6
+SN-5A0X79BF,Adobe_Prod_209_Version_4,Adobe_Adobe_Prod_209_Version_4_Suite,2023-02-27,C5511,9,473.62,Third-party Retailer,North America,11.18,1,5,1,1,4,413,Email Marketing,9,PayPal,Other,7,24
+SN-9HPTPHXI,Adobe_Prod_720_Version_4,Adobe_Adobe_Prod_720_Version_4_Suite,2023-06-11,C8103,9,313.16,Authorized Retailer,Asia,11.16,9,5,5,1,3,698,Email Marketing,7,Credit Card,Found cheaper,3,24
+SN-IYOQZZFU,Adobe_Prod_811_Version_1,Adobe_Adobe_Prod_811_Version_1_Suite,2023-05-21,C8853,10,378.57,Unknown Vendor,Africa,10.19,5,5,4,8,2,374,Direct Search,10,Credit Card,Other,6,24
+SN-1PRUSLWT,Adobe_Prod_207_Version_4,Adobe_Adobe_Prod_207_Version_4_Suite,2023-03-03,C4590,5,375.73,Direct Sales,Asia,13.79,4,5,3,2,7,511,Email Marketing,10,Credit Card,Other,10,12
+SNTA1ZZ2ZO9,5K99AS,Adobe_5K99AS_Suite,2023-11-21,C5039,9,148.75,Unknown Vendor,North America,24.0,12,1,13,7,13,35,Social Media,5,Cryptocurrency,Not as described,19,6
+Sn-C7KFAF86,OPTBE1,Adobe_OPTBE1_Suite,2023-12-14,C6846,6,57.07,Unknown Vendor,North America,22.29,19,3,10,2,11,312,Social Media,3,Cryptocurrency,Not as described,11,6
+SN-ELGRZQD,XX9FBN,Adobe_XX9FBN_Suite,2023-05-28,C1034,10,137.02,Third-party Retailer,North America,25.2,11,1,11,9,4,39,Social Media,1,Cryptocurrency,Not as described,19,6
+SN-PNTJXHTL,Adobe_Prod_492_Version_8,Adobe_Adobe_Prod_492_Version_8_Suite,2023-12-17,C9275,4,420.74,Authorized Retailer,South America,11.92,1,5,1,2,6,570,Direct Search,6,Credit Card,Other,7,24
+SNAU7MSENKW,T3E00W,Adobe_T3E00W_Suite,2023-01-26,C1227,10,95.38,Unknown Vendor,Europe,29.81,14,2,14,1,7,305,Word of Mouth,3,Cryptocurrency,Product malfunction,15,6
+SN-37ESRC9U,Adobe_Prod_975_Version_5,Adobe_Adobe_Prod_975_Version_5_Suite,2023-03-21,C4644,10,379.98,Direct Sales,Africa,12.18,10,4,5,8,7,724,Email Marketing,8,Credit Card,Found cheaper,10,24
+Sn-GOWBN155,0Q46YC,Adobe_0Q46YC_Suite,2023-09-23,C2130,5,129.91,Unknown Vendor,Europe,29.25,20,3,12,1,10,163,Social Media,1,Cryptocurrency,Product malfunction,17,6
+SN-71HY47FS,Adobe_Prod_308_Version_7,Adobe_Adobe_Prod_308_Version_7_Suite,2023-10-21,C3439,6,235.53,Direct Sales,Asia,14.28,10,5,5,9,6,607,Email Marketing,8,PayPal,Found cheaper,1,12
+SN-UZI6MIDQ,Adobe_Prod_855_Version_6,Adobe_Adobe_Prod_855_Version_6_Suite,2023-03-07,C7781,2,294.55,Authorized Retailer,South America,7.22,3,5,2,2,2,420,Direct Search,6,Credit Card,Other,1,24
+SN-54UK941M,Adobe_Prod_680_Version_2,Adobe_Adobe_Prod_680_Version_2_Suite,2023-09-11,C7650,2,387.43,Direct Sales,Asia,14.35,2,5,2,2,4,684,Direct Search,9,Credit Card,Found cheaper,1,12
+SNXA640D4SD,NGY6YL,Adobe_NGY6YL_Suite,2023-10-16,C5271,5,122.9,Third-party Retailer,Africa,23.56,15,3,16,1,1,181,Word of Mouth,5,Cryptocurrency,Product malfunction,17,6
+Sn-WDX2DMGE,YUEEFR,Adobe_YUEEFR_Suite,2023-07-22,C7389,8,105.6,Direct Sales,Europe,28.4,11,1,17,1,6,77,Word of Mouth,2,Cryptocurrency,Other,16,6
+SN-3G69F55J,Adobe_Prod_297_Version_5,Adobe_Adobe_Prod_297_Version_5_Suite,2023-10-19,C9626,6,314.91,Direct Sales,Africa,6.11,7,4,2,2,3,649,Email Marketing,10,PayPal,Found cheaper,5,12
+Sn-NL72VEBU,PIAQW8,Adobe_PIAQW8_Suite,2023-11-10,C4993,8,124.44,Third-party Retailer,Europe,28.9,11,1,15,2,1,343,Word of Mouth,1,Cryptocurrency,Product malfunction,16,6
+Sn-5AE5VYUQ,ZJO136,Adobe_ZJO136_Suite,2023-04-23,C9864,9,84.32,Unknown Vendor,Europe,28.04,12,3,16,1,5,284,Social Media,2,Cryptocurrency,Product malfunction,14,6
+SN-L0JPZGY,65OJFL,Adobe_65OJFL_Suite,2023-04-09,C7925,10,95.16,Unknown Vendor,South America,25.69,20,3,13,1,10,33,Word of Mouth,5,Cryptocurrency,Product malfunction,15,6
+SN-S3BNDIY,Z3VSKZ,Adobe_Z3VSKZ_Suite,2023-05-26,C8966,3,139.21,Unknown Vendor,South America,28.76,19,3,11,3,13,245,Social Media,4,Cryptocurrency,Other,20,6
+Sn-E7EJE2M3,TKBK9E,Adobe_TKBK9E_Suite,2023-12-24,C3389,1,149.15,Unknown Vendor,Europe,23.93,18,2,18,9,8,361,Social Media,3,Cryptocurrency,Product malfunction,11,6
+SN-ZXK860O9,Adobe_Prod_159_Version_4,Adobe_Adobe_Prod_159_Version_4_Suite,2023-08-06,C3154,8,314.85,Direct Sales,South America,10.28,9,5,3,1,2,701,Email Marketing,10,Credit Card,Found cheaper,7,12
+SNIYWEMZLPF,B5RXSF,Adobe_B5RXSF_Suite,2023-04-21,C6036,10,142.42,Unknown Vendor,South America,26.57,19,1,15,1,10,311,Social Media,5,Cryptocurrency,Not as described,20,6
+Sn-9FL5BUCU,1ZB0PP,Adobe_1ZB0PP_Suite,2023-06-03,C4808,5,67.96,Direct Sales,Europe,26.45,18,2,13,1,3,133,Word of Mouth,5,Cryptocurrency,Not as described,18,6
+SN8FUWDZ7HC,7QBOVW,Adobe_7QBOVW_Suite,2023-08-09,C4051,3,50.86,Third-party Retailer,South America,21.31,15,3,10,1,1,314,Social Media,5,Cryptocurrency,Other,11,6
+SN-KGNEDFUV,Adobe_Prod_205_Version_4,Adobe_Adobe_Prod_205_Version_4_Suite,2023-04-09,C6801,7,473.52,Third-party Retailer,Asia,12.45,1,4,5,1,1,454,Email Marketing,10,Credit Card,Other,5,24
+SN-AAEJU1S4,Adobe_Prod_897_Version_3,Adobe_Adobe_Prod_897_Version_3_Suite,2023-05-07,C4179,10,414.11,Direct Sales,Asia,8.14,5,4,4,3,2,700,Direct Search,10,Credit Card,Other,6,24
+SNJ6M24YRK3,RWVL69,Adobe_RWVL69_Suite,2023-04-18,C7679,10,145.94,Third-party Retailer,Africa,27.28,17,1,16,2,7,162,Social Media,5,Cryptocurrency,Other,18,6
+Sn-EJ2BFAU4,H91PGQ,Adobe_H91PGQ_Suite,2023-03-09,C2767,7,74.4,Third-party Retailer,South America,26.38,10,2,19,7,4,265,Social Media,3,Cryptocurrency,Other,17,6
+Sn-0BN0BNRS,0SQ8C0,Adobe_0SQ8C0_Suite,2023-05-06,C3559,6,66.82,Third-party Retailer,Asia,23.88,10,3,11,9,10,148,Word of Mouth,4,Cryptocurrency,Other,15,6
+SN-226RT5FO,Adobe_Prod_831_Version_2,Adobe_Adobe_Prod_831_Version_2_Suite,2023-01-04,C1203,2,248.27,Direct Sales,North America,8.92,9,5,5,8,4,384,Direct Search,10,Credit Card,Found cheaper,10,24
+Sn-6H6Y0AJ2,UC1HDD,Adobe_UC1HDD_Suite,2023-02-26,C7472,3,68.75,Unknown Vendor,Asia,20.69,11,2,20,9,7,104,Word of Mouth,2,Cryptocurrency,Other,20,6
+SN-T9CB0BNB,Adobe_Prod_77_Version_9,Adobe_Adobe_Prod_77_Version_9_Suite,2023-07-28,C4675,7,254.51,Third-party Retailer,Asia,13.83,9,4,4,9,3,444,Direct Search,10,PayPal,Found cheaper,5,24
+SN-ZTPPSAE0,Adobe_Prod_595_Version_7,Adobe_Adobe_Prod_595_Version_7_Suite,2023-03-23,C1025,1,334.83,Authorized Retailer,Asia,5.95,3,4,1,9,5,614,Email Marketing,8,PayPal,Found cheaper,5,12
+SNO7I872XB5,SQBU3T,Adobe_SQBU3T_Suite,2023-09-11,C4854,6,141.17,Third-party Retailer,South America,26.94,11,2,10,7,11,191,Social Media,4,Cryptocurrency,Other,14,6
+SN-Z38JHFQ,OEGSB9,Adobe_OEGSB9_Suite,2023-10-11,C4606,9,136.47,Unknown Vendor,Africa,26.85,20,1,13,2,4,117,Social Media,5,Cryptocurrency,Not as described,19,6
+SN-0ICJYOFM,Adobe_Prod_994_Version_8,Adobe_Adobe_Prod_994_Version_8_Suite,2023-06-24,C4190,4,357.44,Direct Sales,Africa,9.52,2,5,4,2,3,440,Direct Search,6,Credit Card,Found cheaper,3,24
+SN-61P113NL,Adobe_Prod_698_Version_4,Adobe_Adobe_Prod_698_Version_4_Suite,2023-04-11,C7015,3,439.75,Authorized Retailer,North America,14.77,1,4,3,8,6,502,Email Marketing,8,PayPal,Found cheaper,4,24
+SN-NF8XK1QU,Adobe_Prod_143_Version_5,Adobe_Adobe_Prod_143_Version_5_Suite,2023-06-11,C8401,1,466.85,Direct Sales,Asia,13.65,1,5,3,7,4,726,Direct Search,10,Credit Card,Other,4,12
+SN-AWJBXI5,1PZADJ,Adobe_1PZADJ_Suite,2023-01-15,C3073,7,77.08,Unknown Vendor,North America,23.93,19,1,16,2,7,188,Social Media,2,Cryptocurrency,Product malfunction,19,6
+SN-ZU7BOA3H,Adobe_Prod_368_Version_6,Adobe_Adobe_Prod_368_Version_6_Suite,2023-09-06,C7700,8,366.3,Direct Sales,Asia,7.14,8,5,1,3,5,380,Direct Search,10,Credit Card,Other,10,12
+SN-HX3E12A,I696I8,Adobe_I696I8_Suite,2023-09-20,C7013,1,91.63,Unknown Vendor,North America,28.55,15,3,13,9,10,176,Word of Mouth,2,Cryptocurrency,Other,17,6
+SN-GX6YXKEX,Adobe_Prod_237_Version_10,Adobe_Adobe_Prod_237_Version_10_Suite,2023-08-07,C3387,7,251.52,Direct Sales,Asia,14.72,1,5,5,3,4,679,Email Marketing,10,PayPal,Found cheaper,3,24
+SN-YND9OA4,GEYSMT,Adobe_GEYSMT_Suite,2023-12-03,C7864,6,148.85,Third-party Retailer,Europe,29.95,18,3,10,7,5,266,Word of Mouth,1,Cryptocurrency,Other,20,6
+Sn-NESPNQ9I,6MW2MK,Adobe_6MW2MK_Suite,2023-08-18,C9056,1,137.19,Unknown Vendor,North America,23.7,12,2,19,9,12,59,Word of Mouth,4,Cryptocurrency,Not as described,12,6
+SN4NE8JUIKG,WNRM8P,Adobe_WNRM8P_Suite,2023-08-18,C9916,6,80.28,Third-party Retailer,North America,25.97,20,1,12,7,13,312,Social Media,3,Cryptocurrency,Product malfunction,15,6
+SN-NKUV0HH0,Adobe_Prod_559_Version_5,Adobe_Adobe_Prod_559_Version_5_Suite,2023-08-25,C8065,7,404.58,Authorized Retailer,Asia,14.99,10,4,5,2,2,681,Email Marketing,9,Credit Card,Other,5,12
+SN-FB6NKJ3X,Adobe_Prod_78_Version_5,Adobe_Adobe_Prod_78_Version_5_Suite,2023-12-06,C7553,2,410.87,Direct Sales,South America,5.52,5,5,1,1,2,660,Email Marketing,8,PayPal,Other,2,12
+SN-P4JI3W1I,Adobe_Prod_357_Version_4,Adobe_Adobe_Prod_357_Version_4_Suite,2023-10-23,C6365,10,427.79,Authorized Retailer,Europe,12.53,6,5,1,2,7,554,Email Marketing,9,PayPal,Found cheaper,10,24
+SN-UBXI11GC,Adobe_Prod_457_Version_10,Adobe_Adobe_Prod_457_Version_10_Suite,2023-10-02,C2619,2,255.59,Authorized Retailer,South America,5.73,7,4,4,2,2,502,Email Marketing,7,PayPal,Found cheaper,8,12
+SN-8WBWLY82,Adobe_Prod_156_Version_10,Adobe_Adobe_Prod_156_Version_10_Suite,2023-10-14,C7117,1,392.86,Authorized Retailer,Asia,13.89,10,4,1,1,7,506,Email Marketing,9,PayPal,Found cheaper,8,24
+SN-ERTGFXF,RLR2MP,Adobe_RLR2MP_Suite,2023-08-20,C9837,8,146.78,Unknown Vendor,Europe,26.03,19,2,17,8,4,258,Word of Mouth,3,Cryptocurrency,Product malfunction,16,6
+SN-OPX8PEQ6,Adobe_Prod_54_Version_6,Adobe_Adobe_Prod_54_Version_6_Suite,2023-07-17,C4011,7,295.67,Authorized Retailer,Europe,14.83,5,4,1,2,1,409,Direct Search,9,Credit Card,Other,7,12
+SN-9368FX18,Adobe_Prod_451_Version_2,Adobe_Adobe_Prod_451_Version_2_Suite,2023-09-16,C5073,4,272.31,Third-party Retailer,North America,11.24,7,5,1,1,3,448,Email Marketing,8,Credit Card,Other,1,24
+SN-QBQDLFG3,Adobe_Prod_642_Version_9,Adobe_Adobe_Prod_642_Version_9_Suite,2023-09-01,C7201,7,488.81,Direct Sales,North America,7.93,2,5,1,1,3,592,Direct Search,6,Credit Card,Other,9,12
+SN-0XA5G1E,E5CZ40,Adobe_E5CZ40_Suite,2023-04-25,C9258,1,122.1,Third-party Retailer,Africa,20.12,14,3,13,7,15,163,Word of Mouth,4,Cryptocurrency,Product malfunction,10,6
+SNAN3702LVN,5EQYU2,Adobe_5EQYU2_Suite,2023-10-13,C8606,9,118.91,Third-party Retailer,North America,29.26,10,2,16,2,12,187,Word of Mouth,5,Cryptocurrency,Not as described,11,6
+SN-MS11BDQK,Adobe_Prod_206_Version_9,Adobe_Adobe_Prod_206_Version_9_Suite,2023-11-02,C7462,9,379.35,Direct Sales,South America,7.25,4,4,2,7,1,677,Direct Search,7,PayPal,Found cheaper,8,12
+SN-DE8NH12P,Adobe_Prod_551_Version_2,Adobe_Adobe_Prod_551_Version_2_Suite,2023-06-07,C2809,6,231.74,Authorized Retailer,Asia,13.21,3,5,2,7,7,507,Email Marketing,10,Credit Card,Other,1,12
+SN-RGKYL7M,QIIPOH,Adobe_QIIPOH_Suite,2023-05-06,C5022,4,145.44,Third-party Retailer,Africa,26.31,17,2,14,1,10,155,Social Media,4,Cryptocurrency,Other,19,6
+Sn-NJJHHN20,0R2H30,Adobe_0R2H30_Suite,2023-02-10,C8822,5,78.07,Third-party Retailer,North America,27.87,19,3,10,1,4,235,Word of Mouth,1,Cryptocurrency,Not as described,11,6
+Sn-HQ6JAQRX,6AR7CD,Adobe_6AR7CD_Suite,2023-06-23,C6812,4,81.59,Third-party Retailer,South America,23.8,10,1,19,8,8,320,Social Media,3,Cryptocurrency,Product malfunction,18,6
+Sn-AE5L8VEL,990CQH,Adobe_990CQH_Suite,2023-05-11,C1049,5,78.82,Third-party Retailer,Africa,28.93,15,2,12,8,7,107,Word of Mouth,1,Cryptocurrency,Other,19,6
+SN-FAWKU3FY,Adobe_Prod_364_Version_10,Adobe_Adobe_Prod_364_Version_10_Suite,2023-11-21,C1206,2,332.68,Authorized Retailer,South America,11.05,1,5,1,8,7,369,Email Marketing,8,PayPal,Found cheaper,10,24
+SNBF7FAN7G7,NQJLJ6,Adobe_NQJLJ6_Suite,2023-05-31,C7905,4,84.56,Unknown Vendor,South America,20.33,19,2,19,1,7,325,Social Media,3,Cryptocurrency,Not as described,10,6
+SN-1OZGWDCZ,Adobe_Prod_733_Version_2,Adobe_Adobe_Prod_733_Version_2_Suite,2023-10-18,C2626,4,457.64,Direct Sales,Africa,14.31,3,4,2,3,7,603,Direct Search,8,Credit Card,Other,9,12
+SN-91J2TA8E,Adobe_Prod_798_Version_6,Adobe_Adobe_Prod_798_Version_6_Suite,2023-07-01,C4314,7,393.33,Authorized Retailer,Africa,14.4,5,5,3,3,4,493,Email Marketing,10,PayPal,Found cheaper,2,24
+SN-BI5TW4ND,Adobe_Prod_963_Version_2,Adobe_Adobe_Prod_963_Version_2_Suite,2023-09-13,C6527,10,407.07,Direct Sales,Europe,8.4,2,4,3,9,6,449,Direct Search,8,PayPal,Found cheaper,7,24
+SN-VKG84N6,K91RQN,Adobe_K91RQN_Suite,2023-11-04,C8514,6,113.96,Unknown Vendor,Africa,23.75,12,2,14,3,6,110,Word of Mouth,3,Cryptocurrency,Not as described,12,6
+SN-6OYU4GQP,Adobe_Prod_733_Version_4,Adobe_Adobe_Prod_733_Version_4_Suite,2023-07-16,C7277,2,398.17,Direct Sales,Europe,13.99,4,4,4,1,6,550,Direct Search,10,Credit Card,Found cheaper,5,24
+Sn-PGT5RDVL,G0PWT6,Adobe_G0PWT6_Suite,2023-04-20,C1579,5,100.94,Unknown Vendor,Africa,20.3,11,1,19,1,12,170,Social Media,3,Cryptocurrency,Other,19,6
+Sn-FX0KBVL9,Z4VYC6,Adobe_Z4VYC6_Suite,2023-11-09,C4071,3,124.29,Unknown Vendor,Europe,21.55,12,3,11,7,15,180,Word of Mouth,4,Cryptocurrency,Not as described,14,6
+Sn-F95QDBNN,KXU6G2,Adobe_KXU6G2_Suite,2023-02-09,C7930,2,137.75,Third-party Retailer,Africa,20.87,10,1,17,9,3,361,Social Media,2,Cryptocurrency,Product malfunction,10,6
+SN-3P2OJHLZ,Adobe_Prod_281_Version_6,Adobe_Adobe_Prod_281_Version_6_Suite,2023-08-11,C6236,9,494.55,Direct Sales,Europe,6.79,8,5,3,2,4,482,Email Marketing,8,Credit Card,Other,2,12
+Sn-PTXGZGUM,SCFC1A,Adobe_SCFC1A_Suite,2023-11-07,C3482,10,112.46,Third-party Retailer,South America,24.21,19,1,19,2,2,67,Word of Mouth,3,Cryptocurrency,Not as described,14,6
+SN-DRSQTJ6P,Adobe_Prod_578_Version_10,Adobe_Adobe_Prod_578_Version_10_Suite,2023-08-03,C4210,10,430.39,Third-party Retailer,Europe,11.61,5,4,4,1,3,372,Email Marketing,7,Credit Card,Found cheaper,5,12
+Sn-K9SB3PS5,R2XV7B,Adobe_R2XV7B_Suite,2023-12-10,C6706,3,147.63,Authorized Retailer,Europe,26.86,18,2,17,3,3,349,Social Media,2,Cryptocurrency,Other,17,6
+Sn-6XO38LOS,UQ18CD,Adobe_UQ18CD_Suite,2023-10-17,C8336,9,123.66,Third-party Retailer,North America,28.2,11,3,14,9,10,311,Social Media,4,Cryptocurrency,Not as described,17,6
+SN-TY6BI7FZ,Adobe_Prod_334_Version_8,Adobe_Adobe_Prod_334_Version_8_Suite,2023-03-26,C5802,3,318.36,Authorized Retailer,Africa,13.85,4,4,3,7,5,726,Direct Search,8,Credit Card,Other,9,24
+Sn-25XRS278,CSGX8K,Adobe_CSGX8K_Suite,2023-07-16,C6759,10,118.7,Unknown Vendor,Asia,27.34,14,2,12,1,13,333,Word of Mouth,3,Cryptocurrency,Product malfunction,15,6
+SN-5HZCCR9,T2Y53X,Adobe_T2Y53X_Suite,2023-04-27,C9510,7,132.44,Third-party Retailer,Europe,27.4,14,3,14,2,8,49,Social Media,5,Cryptocurrency,Other,10,6
+SN-AZN6GNJG,Adobe_Prod_860_Version_10,Adobe_Adobe_Prod_860_Version_10_Suite,2023-08-06,C2271,6,443.87,Direct Sales,Europe,14.13,4,4,1,1,7,685,Direct Search,7,PayPal,Found cheaper,6,24
+SNN2N8HOWE7,9SAY2F,Adobe_9SAY2F_Suite,2023-06-09,C4538,10,63.35,Unknown Vendor,South America,21.69,16,2,15,8,14,352,Social Media,5,Cryptocurrency,Other,17,6
+SN-X5NXDT76,Adobe_Prod_293_Version_10,Adobe_Adobe_Prod_293_Version_10_Suite,2023-10-08,C1371,9,357.71,Authorized Retailer,North America,14.74,9,5,2,1,3,591,Email Marketing,8,Credit Card,Other,5,12
+SN-WJATS3NJ,Adobe_Prod_798_Version_2,Adobe_Adobe_Prod_798_Version_2_Suite,2023-07-29,C5246,1,334.71,Direct Sales,South America,6.16,10,4,2,1,3,503,Direct Search,8,Credit Card,Found cheaper,1,24
+SN-OIUY0P83,Adobe_Prod_594_Version_2,Adobe_Adobe_Prod_594_Version_2_Suite,2023-12-28,C9347,4,367.75,Direct Sales,Europe,10.83,3,4,2,2,6,728,Direct Search,8,PayPal,Found cheaper,1,24
+SN-XLS4NQH,TYITQA,Adobe_TYITQA_Suite,2023-11-27,C6776,9,77.83,Third-party Retailer,Europe,23.37,12,3,13,2,5,71,Word of Mouth,1,Cryptocurrency,Product malfunction,11,6
+SN65IP8YAA8,Y25LEJ,Adobe_Y25LEJ_Suite,2023-09-04,C3796,4,76.95,Unknown Vendor,North America,20.57,16,1,10,9,12,267,Word of Mouth,4,Cryptocurrency,Product malfunction,14,6
+SNN4LL0CQ23,W1S2I4,Adobe_W1S2I4_Suite,2023-09-16,C4436,6,73.57,Unknown Vendor,Asia,25.15,15,3,19,2,4,353,Word of Mouth,3,Cryptocurrency,Not as described,17,6
+SN-48754S6D,Adobe_Prod_684_Version_1,Adobe_Adobe_Prod_684_Version_1_Suite,2023-12-20,C3563,10,417.84,Authorized Retailer,North America,13.74,8,4,4,8,3,695,Direct Search,10,Credit Card,Found cheaper,3,12
+Sn-OHAKJHTE,5YE7IL,Adobe_5YE7IL_Suite,2023-05-16,C5349,3,94.94,Unknown Vendor,Asia,24.52,18,1,13,7,1,168,Social Media,3,Cryptocurrency,Not as described,18,6
+SN-UKJLYT9N,Adobe_Prod_72_Version_7,Adobe_Adobe_Prod_72_Version_7_Suite,2023-09-25,C8080,7,221.4,Direct Sales,South America,5.8,4,5,2,1,2,571,Email Marketing,10,Credit Card,Other,8,24
+SN-29PV47AI,Adobe_Prod_128_Version_6,Adobe_Adobe_Prod_128_Version_6_Suite,2023-01-20,C1381,3,447.12,Authorized Retailer,Africa,7.97,6,5,2,7,5,462,Direct Search,7,PayPal,Found cheaper,9,24
+SN73P0D7QTZ,LB283P,Adobe_LB283P_Suite,2023-09-05,C5127,10,68.81,Direct Sales,North America,22.82,17,3,18,9,14,194,Social Media,2,Cryptocurrency,Not as described,15,6
+Sn-S6XFGVD2,Z61ISW,Adobe_Z61ISW_Suite,2023-07-12,C9461,3,78.84,Third-party Retailer,South America,22.95,16,1,11,8,7,149,Word of Mouth,3,Cryptocurrency,Product malfunction,14,6
+SN-G6REWFW,VM018Q,Adobe_VM018Q_Suite,2023-07-29,C4273,3,52.76,Third-party Retailer,Africa,29.85,12,1,11,7,4,316,Social Media,4,Cryptocurrency,Product malfunction,11,6
+SN-JKPQZT97,Adobe_Prod_123_Version_6,Adobe_Adobe_Prod_123_Version_6_Suite,2023-08-20,C2144,9,432.68,Direct Sales,Africa,6.9,3,5,5,7,1,377,Direct Search,10,Credit Card,Other,3,24
+SNO53SZGIJT,VBKUWB,Adobe_VBKUWB_Suite,2023-08-29,C7357,2,135.44,Unknown Vendor,Africa,27.59,17,3,20,9,1,144,Word of Mouth,1,Cryptocurrency,Other,19,6
+SN-DPQW9WH2,Adobe_Prod_333_Version_3,Adobe_Adobe_Prod_333_Version_3_Suite,2023-09-06,C1358,9,313.11,Authorized Retailer,Africa,9.6,9,5,2,2,7,518,Email Marketing,9,Credit Card,Found cheaper,4,12
+SN-5YMG947V,Adobe_Prod_174_Version_5,Adobe_Adobe_Prod_174_Version_5_Suite,2023-02-13,C4101,10,484.58,Authorized Retailer,South America,13.07,4,4,1,7,2,560,Email Marketing,7,Credit Card,Other,2,24
+SNSW7BYCKDB,NG088K,Adobe_NG088K_Suite,2023-05-25,C9357,7,73.0,Direct Sales,Asia,22.31,19,3,18,7,13,286,Word of Mouth,2,Cryptocurrency,Other,18,6
+SN-M7ESA2G,4COBGT,Adobe_4COBGT_Suite,2023-09-11,C9805,8,130.88,Unknown Vendor,Asia,27.07,11,1,17,7,8,294,Word of Mouth,3,Cryptocurrency,Not as described,20,6
+Sn-88VYD8UQ,5G3L3T,Adobe_5G3L3T_Suite,2023-04-25,C7383,1,78.43,Third-party Retailer,Asia,24.49,20,2,17,2,1,151,Word of Mouth,1,Cryptocurrency,Product malfunction,13,6
+SN-3MBXCU8O,Adobe_Prod_771_Version_5,Adobe_Adobe_Prod_771_Version_5_Suite,2023-05-05,C4828,4,488.15,Authorized Retailer,Asia,12.97,3,5,3,1,7,641,Direct Search,6,Credit Card,Other,1,24
+SN-JR3544K,LB7QNK,Adobe_LB7QNK_Suite,2023-03-09,C7287,7,82.74,Unknown Vendor,South America,24.14,17,1,18,3,8,31,Social Media,4,Cryptocurrency,Not as described,11,6
+SN-CV4NKKA3,Adobe_Prod_236_Version_2,Adobe_Adobe_Prod_236_Version_2_Suite,2023-03-30,C2653,8,416.87,Direct Sales,North America,10.32,3,5,2,1,6,616,Email Marketing,6,Credit Card,Found cheaper,5,12
+Sn-Z1ERAO34,M64W7B,Adobe_M64W7B_Suite,2023-12-07,C7638,6,132.91,Authorized Retailer,Asia,27.05,19,1,15,2,5,162,Word of Mouth,5,Cryptocurrency,Not as described,12,6
+SNHJZXO8S3O,9Y3JAH,Adobe_9Y3JAH_Suite,2023-02-25,C5189,2,141.6,Unknown Vendor,South America,26.38,14,2,15,2,13,298,Word of Mouth,3,Cryptocurrency,Not as described,20,6
+SN-W6MSYNB3,Adobe_Prod_137_Version_10,Adobe_Adobe_Prod_137_Version_10_Suite,2023-03-02,C1234,7,384.78,Authorized Retailer,South America,8.6,2,5,2,9,6,409,Direct Search,8,Credit Card,Found cheaper,7,12
+SNN8Y7ABXMV,4TO4SC,Adobe_4TO4SC_Suite,2023-04-20,C4904,10,72.57,Unknown Vendor,Europe,20.76,12,1,11,2,8,347,Word of Mouth,5,Cryptocurrency,Product malfunction,18,6
+SN-I1MU4G5,48GAA8,Adobe_48GAA8_Suite,2023-04-17,C7686,9,132.64,Unknown Vendor,South America,20.35,20,1,16,3,14,49,Social Media,4,Cryptocurrency,Not as described,19,6
+SN-W0FCCDKI,Adobe_Prod_33_Version_1,Adobe_Adobe_Prod_33_Version_1_Suite,2023-09-01,C3142,5,437.06,Authorized Retailer,Asia,13.54,7,4,4,7,6,619,Email Marketing,6,PayPal,Found cheaper,5,24
+SN-8WKLRS5L,Adobe_Prod_734_Version_5,Adobe_Adobe_Prod_734_Version_5_Suite,2023-05-20,C2248,1,486.91,Direct Sales,Asia,11.25,2,4,3,1,1,430,Direct Search,9,PayPal,Found cheaper,6,12
+SN-XIBRSB1J,Adobe_Prod_737_Version_5,Adobe_Adobe_Prod_737_Version_5_Suite,2023-02-20,C1103,4,488.84,Authorized Retailer,Europe,11.24,4,5,3,3,4,452,Direct Search,7,Credit Card,Found cheaper,5,24
+SN-K9P4E7OE,Adobe_Prod_198_Version_7,Adobe_Adobe_Prod_198_Version_7_Suite,2023-10-17,C8614,1,479.28,Authorized Retailer,Africa,7.73,2,5,3,7,5,697,Email Marketing,10,PayPal,Other,6,12
+SN-62AQJMUZ,Adobe_Prod_663_Version_1,Adobe_Adobe_Prod_663_Version_1_Suite,2023-05-25,C9298,7,315.6,Authorized Retailer,Asia,9.83,10,5,1,7,2,549,Email Marketing,7,Credit Card,Found cheaper,8,24
+SN-820SCKSJ,Adobe_Prod_89_Version_4,Adobe_Adobe_Prod_89_Version_4_Suite,2023-02-14,C7242,5,498.04,Unknown Vendor,Asia,10.17,4,4,3,3,2,646,Direct Search,7,PayPal,Found cheaper,9,24
+SN-ITJ4MKMH,Adobe_Prod_721_Version_4,Adobe_Adobe_Prod_721_Version_4_Suite,2023-03-20,C8305,10,436.95,Direct Sales,Africa,6.02,7,5,1,9,3,634,Email Marketing,8,Credit Card,Other,10,12
+SN-ZNJ63SII,Adobe_Prod_333_Version_5,Adobe_Adobe_Prod_333_Version_5_Suite,2023-07-30,C6635,9,316.4,Authorized Retailer,South America,10.04,7,5,5,7,2,586,Direct Search,6,PayPal,Other,5,24
+SN-CQJQEL9Y,Adobe_Prod_113_Version_2,Adobe_Adobe_Prod_113_Version_2_Suite,2023-03-31,C2992,8,272.97,Authorized Retailer,Europe,13.9,3,4,4,2,6,688,Email Marketing,10,Credit Card,Other,3,24
+Sn-4NYA0LR1,OW4N8J,Adobe_OW4N8J_Suite,2023-02-24,C5815,10,61.52,Unknown Vendor,Africa,27.41,11,2,15,8,3,141,Word of Mouth,1,Cryptocurrency,Not as described,16,6
+SN-RDT0E563,Adobe_Prod_160_Version_4,Adobe_Adobe_Prod_160_Version_4_Suite,2023-05-10,C7152,6,249.52,Direct Sales,Africa,8.98,9,4,4,8,7,476,Email Marketing,6,Credit Card,Other,8,24
+SN-G9F37NE0,Adobe_Prod_541_Version_3,Adobe_Adobe_Prod_541_Version_3_Suite,2023-08-29,C2455,6,334.39,Authorized Retailer,Africa,12.59,10,4,1,2,7,416,Direct Search,8,Credit Card,Found cheaper,9,24
+SN-KRQXGGX,QMF3Z2,Adobe_QMF3Z2_Suite,2023-09-03,C6104,8,101.55,Unknown Vendor,Africa,24.71,18,3,15,1,3,206,Social Media,2,Cryptocurrency,Not as described,15,6
+SN-PIWAJM36,Adobe_Prod_431_Version_5,Adobe_Adobe_Prod_431_Version_5_Suite,2023-12-27,C5947,3,308.55,Third-party Retailer,Asia,10.58,1,4,3,2,7,432,Direct Search,9,PayPal,Other,6,24
+SN-ZK04T41S,Adobe_Prod_304_Version_5,Adobe_Adobe_Prod_304_Version_5_Suite,2023-06-06,C1983,7,296.66,Direct Sales,Europe,5.72,9,5,5,2,3,439,Direct Search,8,Credit Card,Found cheaper,10,12
+Sn-AATVRDHK,P0EJDM,Adobe_P0EJDM_Suite,2023-07-03,C4465,3,129.12,Direct Sales,Europe,20.02,10,3,15,9,5,322,Social Media,5,Cryptocurrency,Other,15,6
